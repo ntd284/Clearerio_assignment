@@ -1,0 +1,1001 @@
+conversation_id,from_id,from_name,from_email,message_id,message,type,inserted_at,has_phone,phone_info,is_hidden,is_removed,like_count,page_id,customer_id
+conv_1,user_159,Emily Garcia,sWnjC@outlook.com,msg_2386,Need help,RATING,2023-02-01 09:14:00,False,[None],False,False,49,page_1,877
+conv_2,user_564,Alice Williams,HnZja@outlook.com,msg_7958,Support request,RATING,2023-01-07 06:36:00,False,[None],False,False,77,page_67,156
+conv_3,user_733,Emily Johnson,Fwnub@outlook.com,msg_4815,Support request,COMMENT,2023-03-25 16:41:00,False,['+5577127600'],False,True,39,page_66,85
+conv_4,user_224,David Williams,LxXrb@outlook.com,msg_8987,Need help,COMMENT,2023-12-24 11:51:00,False,[None],True,False,16,page_57,937
+conv_5,user_337,Emily Brown,OBnoc@yahoo.com,msg_935,Hello,COMMENT,2023-09-05 05:05:00,True,['+4805228112'],True,True,61,page_3,858
+conv_6,user_321,David Johnson,mbdbn@outlook.com,msg_9719,Support request,RATING,2023-06-10 14:26:00,True,['+2507936851'],True,True,89,page_14,160
+conv_7,user_559,Bob Davis,xBbwy@yahoo.com,msg_5036,Hello,COMMENT,2023-10-23 07:42:00,False,[None],False,False,25,page_23,694
+conv_8,user_180,John Garcia,mXfRt@yahoo.com,msg_4993,Feedback,RATING,2023-09-22 10:40:00,False,['+3692147930'],False,False,32,page_67,958
+conv_9,user_448,David Miller,ghQVt@yahoo.com,msg_677,Inquiry,INBOX,2023-05-03 02:08:00,False,['+4968634780'],False,True,19,page_36,879
+conv_10,user_209,Jane Garcia,LNiGZ@outlook.com,msg_2992,Inquiry,COMMENT,2023-02-28 15:00:00,True,['+7887018769'],True,True,16,page_59,32
+conv_11,user_812,John Smith,xGBDd@yahoo.com,msg_5984,Feedback,INBOX,2023-04-11 11:21:00,True,[None],False,False,42,page_59,238
+conv_12,user_413,Jane Johnson,xcQiS@yahoo.com,msg_3348,Hello,INBOX,2023-12-10 14:33:00,False,['+9539354199'],True,True,34,page_57,703
+conv_13,user_875,Emily Jones,VgXii@gmail.com,msg_5034,Need help,RATING,2023-03-17 01:05:00,False,['+9685409067'],True,True,84,page_16,709
+conv_14,user_20,Alice Garcia,wnYnG@outlook.com,msg_7050,Support request,COMMENT,2023-09-08 22:19:00,True,['+8987490589'],True,False,10,page_99,675
+conv_15,user_943,Bob Smith,xBkah@yahoo.com,msg_1010,Need help,INBOX,2023-01-26 11:44:00,True,[None],False,True,33,page_62,333
+conv_16,user_977,David Garcia,lFiFU@gmail.com,msg_7265,Hello,COMMENT,2023-06-21 18:55:00,False,[None],True,False,45,page_66,852
+conv_17,user_504,David Garcia,eErnR@outlook.com,msg_1241,Inquiry,RATING,2023-05-29 07:00:00,False,[None],False,False,10,page_88,891
+conv_18,user_115,John Garcia,JhWSs@outlook.com,msg_4430,Inquiry,INBOX,2023-08-01 09:18:00,False,['+8301139170'],True,True,4,page_80,822
+conv_19,user_822,David Davis,bvoPR@outlook.com,msg_6925,Need help,COMMENT,2023-10-16 22:21:00,True,[None],True,True,73,page_22,785
+conv_20,user_255,Jane Miller,Bukow@outlook.com,msg_6555,Inquiry,COMMENT,2023-07-07 00:30:00,True,['+6067208494'],True,False,21,page_90,9
+conv_21,user_472,Emily Smith,MhIXV@yahoo.com,msg_7908,Support request,INBOX,2023-10-22 21:30:00,False,['+6804496699'],True,True,59,page_57,702
+conv_22,user_965,Charlie Johnson,Uhcht@outlook.com,msg_758,Inquiry,COMMENT,2023-04-30 23:06:00,False,[None],True,False,40,page_92,638
+conv_23,user_215,Charlie Brown,PfMvQ@outlook.com,msg_2797,Feedback,INBOX,2023-10-31 06:13:00,True,[None],False,True,40,page_40,439
+conv_24,user_168,Sophia Miller,DpotM@outlook.com,msg_1919,Feedback,RATING,2023-07-20 10:17:00,True,['+2570584188'],False,True,50,page_10,425
+conv_25,user_832,Jane Smith,sHrQn@yahoo.com,msg_7941,Inquiry,INBOX,2023-02-10 20:34:00,False,['+9197134110'],True,True,27,page_99,750
+conv_26,user_439,Charlie Miller,PEvyP@gmail.com,msg_5090,Hello,RATING,2023-03-10 17:34:00,True,['+3632927772'],False,False,86,page_11,73
+conv_27,user_13,Charlie Johnson,llBxb@outlook.com,msg_2073,Inquiry,COMMENT,2023-12-13 11:47:00,True,[None],False,True,57,page_88,405
+conv_28,user_661,David Williams,dXGzr@gmail.com,msg_5465,Support request,RATING,2023-09-28 00:29:00,True,[None],True,False,50,page_27,430
+conv_29,user_210,Emily Brown,LxNww@outlook.com,msg_469,Inquiry,RATING,2023-01-31 17:09:00,True,['+9881567895'],True,True,32,page_45,540
+conv_30,user_688,Charlie Smith,vCPCD@yahoo.com,msg_5023,Need help,RATING,2023-07-13 15:02:00,True,[None],False,False,1,page_95,675
+conv_31,user_908,Emily Garcia,sxieB@outlook.com,msg_8916,Hello,RATING,2023-09-10 00:45:00,False,['+6439115956'],False,False,21,page_10,920
+conv_32,user_102,Charlie Jones,xhvXh@yahoo.com,msg_1492,Need help,RATING,2023-08-08 03:42:00,False,['+2574408831'],True,True,49,page_28,753
+conv_33,user_632,Sophia Brown,upWbs@yahoo.com,msg_3407,Inquiry,INBOX,2023-10-28 16:59:00,False,['+7406149363'],True,False,2,page_77,494
+conv_34,user_505,John Johnson,hBLjG@yahoo.com,msg_3154,Hello,INBOX,2023-12-04 15:11:00,True,[None],False,True,64,page_1,33
+conv_35,user_952,John Brown,cPRQa@outlook.com,msg_9972,Need help,COMMENT,2023-05-15 23:10:00,True,['+1301534907'],True,True,69,page_82,576
+conv_36,user_988,Bob Davis,BzskV@yahoo.com,msg_4288,Inquiry,RATING,2023-07-29 02:27:00,True,[None],False,False,51,page_71,224
+conv_37,user_902,Emily Brown,rOMpE@outlook.com,msg_6495,Feedback,INBOX,2023-02-24 11:20:00,True,['+3087903613'],True,True,75,page_93,193
+conv_38,user_68,David Garcia,rBkcM@gmail.com,msg_3415,Need help,INBOX,2023-09-13 04:34:00,True,[None],True,True,81,page_95,556
+conv_39,user_480,Alice Williams,pTngD@gmail.com,msg_5895,Hello,COMMENT,2023-12-06 03:06:00,True,[None],False,True,19,page_21,602
+conv_40,user_720,John Miller,EOQuz@gmail.com,msg_3509,Support request,INBOX,2023-08-13 19:10:00,False,['+6146188446'],False,False,1,page_45,783
+conv_41,user_156,Emily Jones,kkmBg@outlook.com,msg_49,Need help,COMMENT,2023-05-30 16:02:00,False,['+4193162316'],False,True,30,page_6,720
+conv_42,user_79,Bob Jones,AMZYI@yahoo.com,msg_5898,Support request,COMMENT,2023-08-26 16:33:00,False,['+5089268709'],True,False,20,page_2,304
+conv_43,user_192,Jane Johnson,YXBfw@gmail.com,msg_524,Need help,COMMENT,2023-08-24 18:46:00,True,['+2090660441'],False,False,14,page_88,477
+conv_44,user_866,Jane Johnson,BwyMJ@gmail.com,msg_5805,Hello,COMMENT,2023-04-10 17:02:00,True,[None],True,True,72,page_60,512
+conv_45,user_527,David Williams,cDuFp@outlook.com,msg_6925,Feedback,INBOX,2023-11-30 16:10:00,False,[None],False,False,48,page_11,949
+conv_46,user_250,Sophia Miller,afgKV@outlook.com,msg_9339,Hello,COMMENT,2023-05-22 12:18:00,False,['+5330858333'],True,False,98,page_15,938
+conv_47,user_801,Jane Williams,jtGni@yahoo.com,msg_6749,Need help,COMMENT,2023-02-13 06:44:00,True,['+8024901454'],False,False,90,page_8,599
+conv_48,user_122,Charlie Williams,lVPUA@yahoo.com,msg_4380,Feedback,COMMENT,2023-02-24 16:58:00,True,[None],True,False,44,page_8,239
+conv_49,user_595,Sophia Williams,vxtWo@gmail.com,msg_2307,Hello,INBOX,2023-06-16 03:50:00,False,['+3902985643'],True,False,40,page_34,94
+conv_50,user_11,David Miller,YaKcI@yahoo.com,msg_5562,Hello,INBOX,2023-04-17 05:06:00,False,['+5861708681'],True,False,73,page_28,234
+conv_51,user_437,David Williams,gKzaZ@yahoo.com,msg_1652,Need help,RATING,2023-08-27 13:28:00,False,[None],False,True,42,page_84,72
+conv_52,user_882,Emily Smith,Gyguc@yahoo.com,msg_4463,Need help,RATING,2023-04-11 09:08:00,True,['+7852475777'],False,True,31,page_65,599
+conv_53,user_240,David Miller,IEPVi@gmail.com,msg_1620,Need help,COMMENT,2023-01-13 14:49:00,True,[None],False,False,83,page_4,815
+conv_54,user_482,Sophia Williams,Msacw@yahoo.com,msg_1630,Need help,COMMENT,2023-09-27 10:17:00,True,[None],False,True,62,page_94,465
+conv_55,user_624,Jane Davis,RDnEj@yahoo.com,msg_8053,Need help,INBOX,2023-09-20 03:08:00,True,[None],True,False,23,page_19,505
+conv_56,user_602,Jane Williams,zOiGE@yahoo.com,msg_5919,Support request,COMMENT,2023-03-22 14:12:00,True,['+4910436975'],True,False,30,page_15,675
+conv_57,user_433,Emily Jones,BvEZu@yahoo.com,msg_1336,Hello,RATING,2023-12-23 17:52:00,True,[None],True,True,30,page_30,887
+conv_58,user_730,Charlie Smith,YBPpK@yahoo.com,msg_3182,Need help,COMMENT,2023-11-05 08:03:00,False,['+9577195841'],True,True,91,page_2,697
+conv_59,user_406,Jane Miller,QMsxl@outlook.com,msg_2564,Feedback,INBOX,2023-10-08 01:42:00,False,['+5973284191'],True,False,18,page_83,113
+conv_60,user_78,Emily Garcia,Oshds@outlook.com,msg_5864,Need help,RATING,2023-08-09 05:39:00,True,[None],True,False,88,page_31,270
+conv_61,user_478,Emily Williams,jRLTX@gmail.com,msg_5689,Support request,COMMENT,2023-10-16 12:44:00,True,[None],False,False,90,page_100,823
+conv_62,user_906,Charlie Miller,obcNn@gmail.com,msg_5188,Support request,RATING,2023-11-16 10:15:00,False,['+1314761783'],True,True,60,page_68,221
+conv_63,user_905,Charlie Jones,bcSzC@yahoo.com,msg_1612,Hello,INBOX,2023-09-26 05:00:00,False,['+5012711508'],True,False,29,page_83,872
+conv_64,user_831,Sophia Williams,oFDuD@outlook.com,msg_8943,Need help,RATING,2023-09-05 20:42:00,True,[None],True,True,42,page_33,493
+conv_65,user_177,Alice Williams,LVPEq@outlook.com,msg_539,Hello,INBOX,2023-09-18 01:21:00,True,['+9334001761'],True,True,4,page_24,735
+conv_66,user_120,Alice Davis,pXrcd@gmail.com,msg_7188,Feedback,INBOX,2023-09-29 04:59:00,False,['+7516635523'],False,False,91,page_18,12
+conv_67,user_917,Alice Brown,YGolI@gmail.com,msg_3984,Need help,RATING,2023-09-16 22:32:00,True,[None],False,True,70,page_16,733
+conv_68,user_321,Bob Garcia,pqEPP@gmail.com,msg_1345,Need help,INBOX,2023-12-24 16:43:00,True,[None],True,True,1,page_41,732
+conv_69,user_792,Emily Brown,JpgVp@yahoo.com,msg_8190,Hello,RATING,2023-12-13 18:02:00,False,[None],True,True,89,page_2,752
+conv_70,user_58,Jane Brown,nHWYi@outlook.com,msg_1122,Inquiry,INBOX,2023-05-29 03:51:00,False,['+1495675412'],False,True,32,page_24,386
+conv_71,user_31,David Williams,CzrgW@yahoo.com,msg_5448,Inquiry,INBOX,2023-02-14 06:15:00,True,['+4679135483'],True,True,50,page_63,782
+conv_72,user_122,Sophia Davis,tNKgH@outlook.com,msg_4996,Feedback,INBOX,2023-07-26 05:20:00,True,[None],True,True,47,page_43,830
+conv_73,user_553,Emily Davis,mRjBU@outlook.com,msg_4095,Feedback,RATING,2023-04-23 20:22:00,False,['+3216632097'],True,False,21,page_50,734
+conv_74,user_302,Bob Johnson,KKeod@gmail.com,msg_968,Hello,RATING,2023-01-22 02:50:00,True,[None],True,False,6,page_2,141
+conv_75,user_959,Jane Williams,uCDed@outlook.com,msg_9700,Inquiry,INBOX,2023-01-19 15:16:00,False,['+7875229286'],True,True,17,page_44,612
+conv_76,user_154,Bob Jones,QZmPk@yahoo.com,msg_801,Feedback,RATING,2023-09-20 16:02:00,True,[None],False,False,45,page_20,683
+conv_77,user_992,Alice Brown,CufHu@yahoo.com,msg_5029,Feedback,INBOX,2023-04-21 09:53:00,False,['+5311568902'],False,True,32,page_40,328
+conv_78,user_702,Charlie Jones,COyaY@yahoo.com,msg_6247,Inquiry,INBOX,2023-11-16 00:54:00,True,[None],False,False,47,page_37,238
+conv_79,user_703,Charlie Williams,lqVee@gmail.com,msg_1886,Need help,COMMENT,2024-01-01 06:12:00,True,[None],False,False,92,page_39,244
+conv_80,user_99,John Johnson,dOFZo@outlook.com,msg_1643,Need help,RATING,2023-11-26 02:49:00,True,[None],False,True,60,page_3,214
+conv_81,user_891,Alice Garcia,dGLxd@outlook.com,msg_8255,Inquiry,INBOX,2023-08-31 14:01:00,False,['+5383655109'],True,False,12,page_17,233
+conv_82,user_115,David Smith,sImPU@outlook.com,msg_5698,Support request,RATING,2023-06-26 04:50:00,True,[None],False,False,41,page_10,126
+conv_83,user_460,John Smith,EHNSJ@yahoo.com,msg_5731,Need help,RATING,2023-12-31 00:10:00,True,['+4769619301'],False,False,15,page_43,539
+conv_84,user_850,Jane Davis,wDUpE@outlook.com,msg_8444,Need help,RATING,2023-09-18 13:35:00,True,[None],True,False,21,page_25,428
+conv_85,user_459,Alice Smith,nmuMz@yahoo.com,msg_7411,Support request,COMMENT,2023-08-18 05:23:00,True,['+1827289708'],False,False,77,page_76,476
+conv_86,user_266,Jane Miller,HuGJS@outlook.com,msg_2451,Inquiry,COMMENT,2023-09-24 10:16:00,True,[None],True,True,71,page_76,394
+conv_87,user_595,David Davis,mFFDD@outlook.com,msg_8852,Support request,RATING,2023-05-18 04:35:00,True,[None],False,True,90,page_17,508
+conv_88,user_574,Sophia Brown,RVeJo@outlook.com,msg_8516,Support request,COMMENT,2023-07-04 05:22:00,False,[None],True,False,29,page_84,911
+conv_89,user_524,Alice Davis,XRkAc@yahoo.com,msg_96,Need help,COMMENT,2023-01-29 05:14:00,False,[None],False,False,92,page_19,595
+conv_90,user_256,David Garcia,oWTdZ@yahoo.com,msg_7500,Hello,COMMENT,2023-08-18 13:17:00,True,['+6090997842'],True,False,62,page_11,902
+conv_91,user_475,Emily Brown,oHnMX@gmail.com,msg_7259,Need help,COMMENT,2023-04-03 08:37:00,True,[None],True,True,13,page_66,16
+conv_92,user_159,Jane Smith,XiBiN@gmail.com,msg_5544,Hello,RATING,2023-12-21 16:47:00,True,['+4752748797'],True,True,21,page_8,137
+conv_93,user_374,Bob Brown,qADiH@gmail.com,msg_4236,Feedback,INBOX,2023-07-03 22:12:00,False,['+2530142579'],True,True,8,page_34,911
+conv_94,user_908,Charlie Miller,Gkpvh@gmail.com,msg_1492,Feedback,COMMENT,2023-06-03 03:12:00,False,['+1435280019'],True,False,3,page_31,514
+conv_95,user_147,Alice Miller,BgEbR@gmail.com,msg_8609,Feedback,COMMENT,2023-05-15 20:04:00,False,['+3256764272'],False,False,61,page_39,147
+conv_96,user_319,Bob Jones,ckVMy@outlook.com,msg_7802,Inquiry,COMMENT,2023-10-14 17:03:00,True,['+4762440155'],True,True,82,page_52,859
+conv_97,user_234,Charlie Miller,uXgJm@yahoo.com,msg_152,Support request,INBOX,2023-10-21 02:28:00,False,['+8417695056'],False,True,31,page_17,808
+conv_98,user_802,Sophia Miller,VrFvQ@gmail.com,msg_576,Feedback,RATING,2023-03-02 17:39:00,True,['+9353263601'],False,True,89,page_4,232
+conv_99,user_728,Jane Williams,bwOdy@gmail.com,msg_1070,Support request,RATING,2023-05-22 21:09:00,False,[None],True,True,83,page_22,389
+conv_100,user_978,John Johnson,yHanF@gmail.com,msg_8832,Inquiry,COMMENT,2023-12-18 16:15:00,True,[None],False,False,90,page_45,599
+conv_101,user_749,David Williams,tKNll@gmail.com,msg_779,Inquiry,RATING,2023-04-27 15:57:00,True,['+3980891016'],True,True,76,page_78,449
+conv_102,user_568,David Davis,QMavd@yahoo.com,msg_6468,Need help,COMMENT,2023-11-29 11:10:00,False,['+8414059082'],False,True,5,page_65,302
+conv_103,user_360,David Garcia,WkjcD@gmail.com,msg_6075,Support request,RATING,2023-08-11 08:50:00,True,['+1047422619'],True,False,52,page_5,931
+conv_104,user_950,Alice Davis,VwSoi@outlook.com,msg_2478,Inquiry,COMMENT,2023-08-29 00:38:00,False,['+3341484965'],True,False,17,page_87,79
+conv_105,user_458,Charlie Jones,JWhOn@yahoo.com,msg_6556,Support request,RATING,2023-02-26 14:54:00,True,[None],False,True,4,page_99,924
+conv_106,user_968,Alice Davis,FdaUG@yahoo.com,msg_6608,Feedback,INBOX,2023-09-12 23:56:00,False,['+4953341615'],True,False,4,page_85,992
+conv_107,user_187,John Miller,rzgCI@yahoo.com,msg_1028,Feedback,COMMENT,2023-09-12 19:02:00,True,['+2720477446'],True,False,11,page_29,37
+conv_108,user_808,Bob Garcia,Whscr@yahoo.com,msg_8334,Need help,RATING,2023-08-04 15:39:00,True,[None],True,False,0,page_6,90
+conv_109,user_639,Bob Miller,QHlAO@outlook.com,msg_9348,Support request,COMMENT,2023-08-14 11:53:00,False,['+2178082877'],False,False,36,page_8,590
+conv_110,user_16,Jane Brown,fHVCy@yahoo.com,msg_483,Feedback,INBOX,2023-04-23 02:04:00,True,[None],False,False,86,page_73,361
+conv_111,user_214,Emily Miller,GEdkB@gmail.com,msg_2038,Hello,INBOX,2023-01-09 03:15:00,True,['+3131897148'],False,False,83,page_79,648
+conv_112,user_36,Sophia Jones,qktFZ@yahoo.com,msg_7016,Hello,RATING,2023-07-27 03:15:00,True,['+9876759581'],True,False,54,page_53,10
+conv_113,user_530,David Miller,hIHFq@gmail.com,msg_6862,Hello,COMMENT,2023-03-12 07:04:00,False,[None],False,True,39,page_28,385
+conv_114,user_977,Alice Brown,uzuwb@outlook.com,msg_8094,Need help,INBOX,2023-01-16 17:10:00,True,['+8660459640'],True,True,88,page_90,444
+conv_115,user_952,Charlie Williams,JDDsh@yahoo.com,msg_1389,Feedback,INBOX,2023-05-31 01:51:00,True,['+1600084248'],False,True,97,page_56,42
+conv_116,user_140,Charlie Jones,LJxzh@gmail.com,msg_5748,Inquiry,INBOX,2023-03-20 19:00:00,True,[None],True,True,56,page_62,409
+conv_117,user_333,David Davis,YNsse@gmail.com,msg_5551,Inquiry,COMMENT,2023-09-12 21:15:00,False,[None],False,False,14,page_26,30
+conv_118,user_238,John Johnson,xgjee@outlook.com,msg_6417,Support request,COMMENT,2023-09-20 01:52:00,True,['+2127251380'],False,False,41,page_21,374
+conv_119,user_516,Emily Miller,vJghE@outlook.com,msg_1336,Need help,COMMENT,2023-07-19 13:03:00,True,[None],False,True,88,page_42,822
+conv_120,user_963,Charlie Smith,vGrEk@gmail.com,msg_4394,Hello,RATING,2023-02-14 00:12:00,False,['+3081381632'],False,True,83,page_79,871
+conv_121,user_161,Sophia Jones,iyzFn@yahoo.com,msg_1156,Hello,INBOX,2023-03-06 01:04:00,False,['+3958756731'],False,False,80,page_39,747
+conv_122,user_55,John Miller,kSCOk@outlook.com,msg_6193,Feedback,RATING,2023-08-25 06:18:00,False,['+6803976795'],False,True,99,page_57,352
+conv_123,user_130,David Smith,fDJja@gmail.com,msg_4337,Need help,COMMENT,2023-07-15 18:02:00,True,['+7122231921'],True,True,75,page_55,181
+conv_124,user_223,Jane Johnson,DKGDs@gmail.com,msg_5602,Support request,RATING,2023-05-18 08:52:00,False,['+3030485912'],False,False,73,page_86,716
+conv_125,user_529,Alice Smith,MPvjB@yahoo.com,msg_8132,Need help,INBOX,2023-06-16 01:34:00,True,[None],True,True,67,page_53,857
+conv_126,user_332,Alice Smith,uPSYo@yahoo.com,msg_4136,Support request,RATING,2023-06-23 20:48:00,True,['+7888378001'],True,False,24,page_18,879
+conv_127,user_541,Jane Smith,xceVv@gmail.com,msg_2615,Feedback,INBOX,2023-11-20 05:31:00,True,['+3771331733'],True,False,62,page_45,802
+conv_128,user_73,Bob Jones,KLsWt@yahoo.com,msg_5289,Need help,COMMENT,2023-04-09 03:43:00,True,['+4265640445'],False,True,56,page_32,642
+conv_129,user_770,Sophia Brown,kQPDe@outlook.com,msg_7709,Hello,COMMENT,2023-08-18 11:05:00,True,[None],False,False,28,page_82,134
+conv_130,user_890,Bob Brown,AkajG@outlook.com,msg_1522,Support request,RATING,2023-08-07 00:31:00,False,['+7989089638'],False,False,44,page_53,109
+conv_131,user_893,Charlie Garcia,FDuGy@gmail.com,msg_7968,Need help,RATING,2023-12-21 12:26:00,True,['+5407395119'],False,True,37,page_17,133
+conv_132,user_422,Bob Jones,dhFIj@yahoo.com,msg_2566,Need help,RATING,2023-11-21 19:16:00,False,['+6261002465'],True,True,57,page_15,262
+conv_133,user_7,Bob Miller,nzAWN@outlook.com,msg_6195,Inquiry,RATING,2023-10-26 21:41:00,False,['+7151862521'],True,True,13,page_22,127
+conv_134,user_859,John Jones,UnmIl@gmail.com,msg_1445,Inquiry,RATING,2023-07-31 18:24:00,False,['+4351227785'],True,True,79,page_2,911
+conv_135,user_903,David Miller,fNYJn@yahoo.com,msg_3390,Feedback,RATING,2023-02-07 08:53:00,True,['+6977276219'],True,True,85,page_11,286
+conv_136,user_156,Sophia Garcia,mzEUL@outlook.com,msg_4403,Feedback,RATING,2023-05-03 19:47:00,True,[None],True,True,69,page_17,386
+conv_137,user_205,John Davis,gOyGu@outlook.com,msg_8207,Inquiry,INBOX,2023-04-01 04:42:00,False,['+4991207290'],False,True,97,page_2,411
+conv_138,user_792,Alice Brown,VPmcv@yahoo.com,msg_6817,Need help,RATING,2023-03-12 06:57:00,True,['+1274774789'],True,True,9,page_68,821
+conv_139,user_996,Sophia Miller,RkAIM@gmail.com,msg_4435,Need help,COMMENT,2023-11-24 14:50:00,False,['+9409714958'],True,True,25,page_56,564
+conv_140,user_948,Emily Williams,PhEiF@gmail.com,msg_4136,Inquiry,INBOX,2023-05-02 02:29:00,False,[None],False,False,22,page_38,312
+conv_141,user_107,Jane Miller,UIVPc@outlook.com,msg_6966,Feedback,RATING,2023-12-10 22:51:00,False,['+8710432184'],True,True,12,page_80,283
+conv_142,user_779,Jane Johnson,rEkfx@gmail.com,msg_1248,Feedback,INBOX,2023-11-14 14:45:00,False,[None],False,False,12,page_95,121
+conv_143,user_346,David Johnson,lluvJ@gmail.com,msg_3776,Inquiry,INBOX,2023-12-29 12:18:00,False,[None],True,True,71,page_32,180
+conv_144,user_582,Emily Garcia,XpgCm@yahoo.com,msg_9217,Support request,COMMENT,2023-12-19 06:53:00,False,[None],True,True,3,page_29,621
+conv_145,user_926,Jane Garcia,FaOUu@outlook.com,msg_305,Need help,RATING,2023-08-31 13:51:00,False,[None],True,True,46,page_56,253
+conv_146,user_264,Sophia Williams,tRUJG@yahoo.com,msg_8084,Support request,COMMENT,2023-07-18 03:50:00,False,['+2095867277'],True,False,95,page_18,721
+conv_147,user_927,Charlie Garcia,ziuRg@gmail.com,msg_6719,Support request,RATING,2023-01-23 07:18:00,True,[None],False,False,39,page_79,637
+conv_148,user_235,Alice Garcia,ghFNP@outlook.com,msg_4626,Feedback,COMMENT,2023-07-23 20:15:00,False,['+3170865405'],False,True,12,page_63,912
+conv_149,user_51,Emily Smith,dHQEg@gmail.com,msg_4088,Inquiry,INBOX,2023-05-23 13:27:00,True,[None],False,True,3,page_24,252
+conv_150,user_607,Emily Garcia,PPVdQ@outlook.com,msg_3093,Inquiry,COMMENT,2023-02-17 07:22:00,True,['+8762743963'],False,False,85,page_4,62
+conv_151,user_779,Alice Garcia,yAUyn@yahoo.com,msg_40,Support request,INBOX,2023-10-05 00:12:00,True,[None],True,False,79,page_70,145
+conv_152,user_105,John Jones,lBLfm@gmail.com,msg_7779,Support request,INBOX,2023-12-11 15:39:00,False,['+5991905793'],True,False,100,page_47,233
+conv_153,user_634,Emily Jones,GQvfV@outlook.com,msg_1942,Hello,INBOX,2023-09-12 10:14:00,True,['+8029271119'],False,True,90,page_8,935
+conv_154,user_264,Sophia Davis,qeIAm@outlook.com,msg_3317,Inquiry,INBOX,2023-05-03 19:45:00,True,['+8961121924'],True,True,3,page_48,954
+conv_155,user_987,Emily Smith,whyGX@gmail.com,msg_8451,Need help,COMMENT,2023-02-13 14:40:00,True,['+1979233461'],True,False,38,page_50,109
+conv_156,user_979,Jane Williams,ohdre@gmail.com,msg_1447,Need help,COMMENT,2023-01-09 06:57:00,False,[None],True,False,95,page_42,367
+conv_157,user_580,David Miller,MOMaH@gmail.com,msg_5706,Hello,INBOX,2023-10-14 13:04:00,False,['+8636501945'],True,True,38,page_61,988
+conv_158,user_422,David Jones,yLFUU@gmail.com,msg_6292,Support request,COMMENT,2023-07-19 23:31:00,True,[None],False,False,28,page_4,605
+conv_159,user_847,Emily Johnson,PPiLz@gmail.com,msg_7657,Hello,COMMENT,2023-09-29 02:51:00,False,[None],False,False,85,page_34,193
+conv_160,user_869,Jane Miller,dZEHd@gmail.com,msg_2847,Support request,RATING,2023-08-16 13:45:00,True,[None],True,True,54,page_38,952
+conv_161,user_549,Sophia Miller,GdnyC@gmail.com,msg_3338,Support request,INBOX,2023-07-30 08:57:00,True,[None],True,False,7,page_52,686
+conv_162,user_686,Jane Brown,HdEnz@outlook.com,msg_5605,Hello,RATING,2023-08-28 03:20:00,True,['+5213172438'],False,False,43,page_35,650
+conv_163,user_756,Sophia Williams,ZliCb@gmail.com,msg_6268,Feedback,INBOX,2023-09-01 02:16:00,False,['+7930859115'],False,True,2,page_30,878
+conv_164,user_225,John Garcia,hqHNq@gmail.com,msg_1548,Need help,COMMENT,2023-11-01 19:14:00,False,['+1725620502'],False,False,80,page_62,468
+conv_165,user_357,Sophia Johnson,XVdgc@yahoo.com,msg_9719,Hello,INBOX,2023-02-26 05:44:00,False,['+3673623519'],False,False,97,page_95,548
+conv_166,user_936,David Jones,NkePz@outlook.com,msg_3001,Feedback,COMMENT,2023-11-02 10:57:00,False,[None],True,True,45,page_81,224
+conv_167,user_500,John Smith,mUTUt@outlook.com,msg_5537,Inquiry,RATING,2023-09-24 03:10:00,True,[None],False,False,99,page_53,542
+conv_168,user_613,John Williams,SDTFR@outlook.com,msg_2038,Support request,RATING,2023-11-16 20:08:00,False,[None],True,True,18,page_89,239
+conv_169,user_73,Sophia Smith,mfNip@yahoo.com,msg_2202,Need help,COMMENT,2023-12-29 19:10:00,True,['+2185392686'],True,True,45,page_81,567
+conv_170,user_932,Jane Johnson,qCMiv@outlook.com,msg_10000,Inquiry,RATING,2023-12-17 07:04:00,False,['+8277477111'],True,False,82,page_1,174
+conv_171,user_988,Emily Smith,xLgLJ@gmail.com,msg_7460,Hello,RATING,2023-02-08 01:37:00,True,['+1206868784'],True,True,69,page_90,169
+conv_172,user_180,Charlie Johnson,ONdEy@yahoo.com,msg_761,Support request,INBOX,2023-03-14 13:23:00,True,['+3855878339'],False,False,17,page_95,763
+conv_173,user_803,Alice Garcia,OEszm@gmail.com,msg_6723,Hello,INBOX,2023-05-21 15:38:00,False,['+1664393037'],True,False,67,page_53,40
+conv_174,user_638,Charlie Brown,furGk@gmail.com,msg_8095,Hello,INBOX,2023-01-22 04:49:00,True,[None],False,True,72,page_54,676
+conv_175,user_176,Emily Brown,MHuho@outlook.com,msg_2396,Inquiry,RATING,2023-12-20 15:44:00,False,['+2556995699'],False,False,46,page_56,391
+conv_176,user_254,Alice Smith,ryqis@outlook.com,msg_2006,Hello,INBOX,2023-08-04 20:29:00,True,[None],False,False,73,page_82,364
+conv_177,user_360,Bob Jones,yidPw@outlook.com,msg_7599,Feedback,COMMENT,2023-09-18 04:14:00,False,['+7775591082'],False,False,45,page_92,798
+conv_178,user_553,David Smith,lfeMR@outlook.com,msg_751,Inquiry,COMMENT,2023-05-31 14:26:00,True,[None],True,True,87,page_79,820
+conv_179,user_813,Jane Williams,HyNnH@outlook.com,msg_7659,Feedback,COMMENT,2023-04-30 00:58:00,False,[None],True,False,61,page_58,420
+conv_180,user_365,Sophia Smith,czrYI@gmail.com,msg_6364,Need help,INBOX,2023-05-12 02:08:00,False,[None],False,False,77,page_23,799
+conv_181,user_161,Jane Garcia,iRgxV@gmail.com,msg_3829,Support request,COMMENT,2023-04-21 07:44:00,False,[None],True,True,70,page_76,556
+conv_182,user_581,Emily Garcia,YFSZt@yahoo.com,msg_8057,Inquiry,COMMENT,2023-06-25 14:00:00,True,[None],True,False,1,page_37,376
+conv_183,user_199,Jane Garcia,pDmCZ@outlook.com,msg_3961,Feedback,COMMENT,2023-10-14 21:48:00,True,['+9042028584'],False,False,18,page_77,362
+conv_184,user_74,Alice Davis,BWCaD@outlook.com,msg_1198,Inquiry,COMMENT,2023-04-05 06:11:00,True,[None],True,True,25,page_50,497
+conv_185,user_790,David Williams,GtDAf@yahoo.com,msg_7661,Feedback,RATING,2023-03-11 12:15:00,True,[None],False,True,78,page_31,393
+conv_186,user_132,Sophia Williams,UhWtg@outlook.com,msg_6451,Support request,INBOX,2023-06-24 14:18:00,False,[None],True,True,13,page_78,694
+conv_187,user_372,David Brown,ssUue@outlook.com,msg_6636,Need help,COMMENT,2023-10-14 19:55:00,False,['+3769241075'],False,True,73,page_70,463
+conv_188,user_432,Bob Smith,mGgTa@gmail.com,msg_6927,Support request,RATING,2023-08-15 23:59:00,True,[None],True,True,50,page_78,308
+conv_189,user_463,Bob Miller,bpLKn@gmail.com,msg_5545,Support request,RATING,2023-07-31 11:35:00,True,[None],False,True,24,page_92,975
+conv_190,user_36,Charlie Jones,krEXa@yahoo.com,msg_6032,Inquiry,COMMENT,2023-04-02 16:32:00,False,[None],False,False,36,page_41,60
+conv_191,user_957,Emily Brown,xgWXs@yahoo.com,msg_2868,Inquiry,RATING,2023-07-07 19:27:00,True,['+5535671368'],False,True,2,page_18,305
+conv_192,user_974,Bob Smith,iysze@yahoo.com,msg_865,Support request,COMMENT,2023-04-07 01:18:00,True,[None],True,True,100,page_24,236
+conv_193,user_474,Charlie Miller,BrFZj@outlook.com,msg_8227,Feedback,COMMENT,2023-07-12 05:10:00,False,['+5175457958'],True,True,40,page_76,457
+conv_194,user_161,John Johnson,nDrrL@outlook.com,msg_8887,Need help,COMMENT,2023-08-31 14:27:00,True,[None],False,False,1,page_54,167
+conv_195,user_71,Charlie Miller,sIjci@yahoo.com,msg_3384,Support request,RATING,2023-10-03 09:05:00,False,['+1195167756'],False,True,68,page_48,56
+conv_196,user_592,Sophia Williams,vwSYS@gmail.com,msg_2959,Inquiry,RATING,2023-04-28 04:25:00,False,['+2239267616'],True,True,27,page_12,496
+conv_197,user_509,Sophia Garcia,cjSDV@gmail.com,msg_3165,Hello,RATING,2023-01-16 04:22:00,True,[None],True,True,13,page_99,425
+conv_198,user_11,John Johnson,OcBRm@yahoo.com,msg_3767,Inquiry,RATING,2023-07-05 04:49:00,False,['+9598612765'],False,False,87,page_85,571
+conv_199,user_268,David Garcia,EINev@gmail.com,msg_6258,Support request,COMMENT,2023-08-04 21:26:00,False,[None],True,False,17,page_61,44
+conv_200,user_613,Bob Davis,ohnYF@outlook.com,msg_1711,Hello,RATING,2023-02-06 03:47:00,False,[None],True,True,20,page_38,233
+conv_201,user_346,John Garcia,FEyOc@gmail.com,msg_7023,Hello,INBOX,2023-12-29 01:44:00,False,[None],True,True,29,page_15,89
+conv_202,user_259,John Davis,NcCdE@gmail.com,msg_4551,Inquiry,COMMENT,2023-09-27 11:20:00,False,['+1628022345'],True,True,28,page_87,598
+conv_203,user_986,John Davis,ryZAu@yahoo.com,msg_5131,Feedback,INBOX,2023-05-08 00:27:00,False,['+2493556188'],True,False,2,page_39,70
+conv_204,user_24,Emily Smith,HDXWv@gmail.com,msg_9061,Need help,COMMENT,2023-04-23 14:02:00,True,['+3358437944'],True,False,37,page_34,216
+conv_205,user_270,David Garcia,UgYiw@gmail.com,msg_389,Inquiry,RATING,2023-04-25 05:23:00,False,[None],True,True,53,page_2,869
+conv_206,user_118,Sophia Johnson,MaFIL@gmail.com,msg_5661,Feedback,COMMENT,2023-10-03 13:42:00,True,['+9052414604'],True,False,47,page_59,537
+conv_207,user_24,Charlie Williams,NrYwy@yahoo.com,msg_9533,Hello,INBOX,2023-08-06 12:40:00,False,[None],False,True,59,page_72,229
+conv_208,user_701,Alice Smith,FMbvt@outlook.com,msg_9887,Support request,COMMENT,2023-01-17 13:49:00,False,[None],True,False,98,page_21,999
+conv_209,user_607,John Williams,DQngV@yahoo.com,msg_2814,Feedback,COMMENT,2023-06-05 12:15:00,True,['+1630558616'],False,True,89,page_2,4
+conv_210,user_319,John Williams,DILoO@gmail.com,msg_6741,Inquiry,INBOX,2023-01-15 07:23:00,True,['+4068660156'],False,True,20,page_98,327
+conv_211,user_273,David Johnson,gomBM@gmail.com,msg_5207,Need help,RATING,2023-06-16 02:01:00,False,['+6972461119'],True,False,94,page_77,661
+conv_212,user_141,Charlie Garcia,OgjLB@gmail.com,msg_3118,Feedback,COMMENT,2023-04-11 21:24:00,True,['+5486078867'],False,True,21,page_1,989
+conv_213,user_265,Alice Brown,GlyrY@gmail.com,msg_484,Need help,RATING,2023-09-26 18:36:00,False,[None],False,True,7,page_14,394
+conv_214,user_944,Alice Brown,Ypusr@outlook.com,msg_5954,Need help,COMMENT,2023-03-05 13:10:00,True,['+1393968147'],False,False,60,page_68,152
+conv_215,user_427,Alice Brown,ujjAP@yahoo.com,msg_3702,Hello,INBOX,2023-01-30 03:53:00,False,[None],True,True,35,page_97,941
+conv_216,user_682,Charlie Davis,wlBAf@outlook.com,msg_6497,Support request,INBOX,2023-04-04 18:10:00,False,['+4601037875'],True,True,6,page_67,886
+conv_217,user_734,Sophia Johnson,utIHL@outlook.com,msg_2085,Hello,COMMENT,2023-12-27 10:13:00,False,['+8418836440'],False,False,38,page_98,984
+conv_218,user_153,John Brown,BQsVD@outlook.com,msg_3445,Hello,RATING,2023-01-19 11:30:00,True,[None],False,True,19,page_68,130
+conv_219,user_139,Jane Williams,ZDgoY@outlook.com,msg_2532,Hello,RATING,2023-04-12 13:50:00,True,[None],False,True,23,page_49,626
+conv_220,user_836,John Brown,LKxXx@gmail.com,msg_1323,Need help,RATING,2023-02-17 01:38:00,False,[None],True,False,40,page_66,790
+conv_221,user_795,Charlie Johnson,ChhGW@yahoo.com,msg_9555,Feedback,COMMENT,2023-01-04 23:04:00,True,[None],True,False,44,page_8,659
+conv_222,user_207,Emily Garcia,ROUgQ@gmail.com,msg_9369,Support request,RATING,2023-11-05 00:00:00,False,[None],True,False,73,page_98,886
+conv_223,user_416,David Jones,EHvzh@yahoo.com,msg_945,Feedback,COMMENT,2023-04-07 02:41:00,False,['+4218139638'],False,False,2,page_20,429
+conv_224,user_950,Jane Johnson,iHISS@outlook.com,msg_4075,Inquiry,RATING,2023-09-20 12:39:00,False,['+9546479226'],False,True,11,page_27,249
+conv_225,user_625,Charlie Miller,hZBnP@yahoo.com,msg_4715,Feedback,COMMENT,2024-01-01 11:18:00,True,[None],True,True,62,page_17,909
+conv_226,user_359,Emily Miller,UXZoO@yahoo.com,msg_426,Support request,RATING,2023-10-17 10:59:00,False,[None],True,False,22,page_66,89
+conv_227,user_622,Emily Davis,RmZXH@gmail.com,msg_4522,Support request,COMMENT,2023-12-22 22:50:00,False,['+7042836694'],False,True,18,page_78,632
+conv_228,user_856,Emily Smith,INlDD@gmail.com,msg_4598,Feedback,INBOX,2023-12-22 12:04:00,False,[None],False,True,16,page_91,399
+conv_229,user_291,Charlie Davis,VgIkR@gmail.com,msg_9634,Need help,INBOX,2023-05-29 01:13:00,True,['+3997061494'],True,True,76,page_38,192
+conv_230,user_521,John Garcia,eGhvR@outlook.com,msg_1983,Inquiry,COMMENT,2023-09-26 18:23:00,False,['+3693743494'],False,True,3,page_91,776
+conv_231,user_67,Jane Williams,iVCGk@yahoo.com,msg_4766,Hello,INBOX,2023-12-12 03:43:00,True,['+6575789622'],False,False,69,page_55,316
+conv_232,user_767,Charlie Smith,nKFKS@yahoo.com,msg_7799,Support request,RATING,2023-07-05 03:01:00,True,[None],False,False,83,page_12,411
+conv_233,user_483,Emily Smith,DXtHf@gmail.com,msg_5302,Feedback,INBOX,2023-06-05 18:55:00,False,[None],False,False,89,page_42,225
+conv_234,user_929,Sophia Johnson,EgJZl@outlook.com,msg_4581,Hello,COMMENT,2023-01-17 07:43:00,True,[None],True,True,56,page_81,110
+conv_235,user_940,Jane Johnson,aEfrA@yahoo.com,msg_1311,Support request,COMMENT,2023-06-05 12:14:00,True,['+9364500419'],False,False,16,page_32,670
+conv_236,user_111,David Jones,Taeic@gmail.com,msg_4167,Hello,COMMENT,2023-09-16 11:48:00,False,['+3453148567'],False,False,78,page_100,790
+conv_237,user_133,Jane Smith,MqfIS@gmail.com,msg_256,Support request,COMMENT,2023-04-13 08:42:00,False,[None],False,True,45,page_45,599
+conv_238,user_214,David Jones,wmESa@gmail.com,msg_7165,Inquiry,RATING,2023-11-01 15:18:00,False,[None],False,False,32,page_28,993
+conv_239,user_669,Emily Smith,wTZxZ@yahoo.com,msg_4438,Feedback,COMMENT,2023-12-15 16:43:00,True,[None],True,False,67,page_79,866
+conv_240,user_871,David Williams,hHYZI@yahoo.com,msg_668,Hello,COMMENT,2023-05-29 18:11:00,False,['+3052829628'],True,True,55,page_57,502
+conv_241,user_28,Bob Jones,aqXjR@yahoo.com,msg_2613,Need help,COMMENT,2023-05-19 07:27:00,True,[None],False,False,50,page_19,783
+conv_242,user_397,John Brown,yBXnu@gmail.com,msg_6496,Inquiry,INBOX,2023-05-21 07:58:00,True,['+6172975950'],True,False,26,page_26,372
+conv_243,user_874,Charlie Davis,WCLFo@outlook.com,msg_3034,Need help,INBOX,2023-01-03 00:35:00,False,[None],False,True,86,page_74,903
+conv_244,user_58,Charlie Williams,ARyzN@gmail.com,msg_7069,Feedback,RATING,2023-03-15 06:59:00,False,['+6237636360'],True,True,21,page_4,858
+conv_245,user_281,John Davis,cwXfb@yahoo.com,msg_5440,Feedback,RATING,2023-08-16 02:25:00,False,[None],True,True,77,page_30,68
+conv_246,user_15,Emily Miller,OJZnf@yahoo.com,msg_6319,Feedback,INBOX,2023-08-05 10:20:00,False,['+2756013478'],True,True,21,page_57,53
+conv_247,user_706,Sophia Davis,NvLgI@yahoo.com,msg_6407,Need help,INBOX,2023-03-15 15:42:00,True,[None],True,True,72,page_95,227
+conv_248,user_388,Emily Smith,MsFnN@yahoo.com,msg_16,Feedback,COMMENT,2023-05-31 03:15:00,False,[None],True,False,58,page_23,337
+conv_249,user_827,Sophia Miller,KziSV@yahoo.com,msg_4062,Support request,RATING,2023-11-23 13:22:00,False,['+2220359253'],False,False,72,page_51,999
+conv_250,user_775,Sophia Miller,dYOgQ@yahoo.com,msg_131,Hello,RATING,2023-01-09 06:29:00,True,[None],True,False,14,page_65,514
+conv_251,user_925,David Williams,exavX@outlook.com,msg_7403,Feedback,INBOX,2023-03-04 18:23:00,True,['+9584327599'],True,True,47,page_69,578
+conv_252,user_755,David Miller,lsLTD@gmail.com,msg_6112,Feedback,COMMENT,2023-03-27 20:45:00,True,[None],False,True,81,page_27,284
+conv_253,user_614,John Brown,DFQxr@gmail.com,msg_387,Hello,COMMENT,2023-10-02 19:19:00,True,['+9313672625'],True,False,76,page_53,732
+conv_254,user_421,Alice Jones,ySfPv@yahoo.com,msg_4972,Feedback,COMMENT,2023-03-16 05:03:00,True,[None],True,False,69,page_11,305
+conv_255,user_990,Emily Johnson,zqabH@yahoo.com,msg_9076,Support request,INBOX,2023-05-17 17:01:00,True,['+3111729389'],True,False,88,page_4,125
+conv_256,user_563,Jane Smith,tiyze@gmail.com,msg_8533,Inquiry,INBOX,2023-05-30 14:53:00,True,[None],True,True,15,page_67,478
+conv_257,user_355,Alice Garcia,BdwhU@yahoo.com,msg_208,Need help,COMMENT,2023-01-26 13:00:00,True,[None],True,True,19,page_41,836
+conv_258,user_669,David Johnson,SHCSM@gmail.com,msg_686,Hello,RATING,2023-07-07 16:30:00,True,['+5736412388'],False,True,82,page_47,337
+conv_259,user_716,Emily Smith,ZrBYK@gmail.com,msg_4844,Feedback,INBOX,2023-05-07 08:52:00,False,[None],True,False,37,page_13,515
+conv_260,user_53,Jane Garcia,QMHDn@outlook.com,msg_3452,Hello,INBOX,2023-10-01 15:22:00,True,['+3510094268'],True,True,94,page_58,629
+conv_261,user_45,Bob Garcia,vzXFZ@yahoo.com,msg_1084,Inquiry,INBOX,2023-05-28 02:14:00,True,[None],False,True,97,page_10,702
+conv_262,user_963,Bob Jones,eeeZY@gmail.com,msg_836,Hello,COMMENT,2023-12-21 06:50:00,True,[None],True,False,7,page_39,686
+conv_263,user_155,Alice Garcia,YtCtg@yahoo.com,msg_6096,Inquiry,RATING,2023-01-14 17:23:00,False,[None],False,True,11,page_53,113
+conv_264,user_749,John Johnson,QxNSv@yahoo.com,msg_2087,Hello,RATING,2023-01-10 14:03:00,True,['+9834301337'],False,True,40,page_55,178
+conv_265,user_390,David Johnson,cZLqC@outlook.com,msg_6540,Inquiry,COMMENT,2023-10-21 14:36:00,False,[None],False,True,65,page_1,576
+conv_266,user_45,Jane Johnson,fQMIT@gmail.com,msg_9177,Need help,INBOX,2023-03-13 17:44:00,False,[None],True,True,20,page_29,582
+conv_267,user_408,David Smith,KakrK@yahoo.com,msg_7490,Hello,RATING,2023-01-25 19:43:00,False,[None],True,True,11,page_90,300
+conv_268,user_426,David Smith,jcVZL@yahoo.com,msg_430,Need help,COMMENT,2023-01-25 14:34:00,True,[None],True,False,24,page_61,192
+conv_269,user_197,Jane Johnson,QfKjd@yahoo.com,msg_7037,Support request,COMMENT,2023-09-16 18:57:00,True,['+5541216384'],True,True,89,page_36,714
+conv_270,user_780,Charlie Miller,IPbtO@yahoo.com,msg_9967,Support request,INBOX,2023-10-24 19:03:00,False,[None],False,True,24,page_8,693
+conv_271,user_505,Sophia Miller,KwYue@yahoo.com,msg_1092,Feedback,INBOX,2023-05-22 05:40:00,False,[None],True,True,5,page_4,582
+conv_272,user_663,David Johnson,wdiNq@gmail.com,msg_4663,Feedback,INBOX,2023-03-13 23:48:00,False,['+4357883394'],True,True,84,page_50,851
+conv_273,user_249,Emily Jones,xfvNL@outlook.com,msg_1680,Inquiry,COMMENT,2023-09-05 20:43:00,False,['+7632273336'],False,False,59,page_39,133
+conv_274,user_407,Alice Brown,TTuKs@gmail.com,msg_9063,Need help,COMMENT,2023-02-05 13:18:00,True,['+1079299713'],True,False,36,page_33,281
+conv_275,user_109,Jane Williams,GOjUf@gmail.com,msg_1610,Support request,INBOX,2023-01-08 15:23:00,True,[None],False,True,80,page_12,105
+conv_276,user_392,Alice Brown,lQCUR@outlook.com,msg_1044,Inquiry,INBOX,2023-02-13 13:00:00,False,[None],True,False,68,page_13,413
+conv_277,user_857,Jane Brown,SlWVZ@gmail.com,msg_3030,Support request,INBOX,2023-01-08 10:56:00,True,[None],False,False,26,page_66,550
+conv_278,user_601,David Smith,mHQaF@outlook.com,msg_1439,Need help,INBOX,2023-03-01 14:44:00,False,[None],False,True,57,page_62,679
+conv_279,user_489,John Williams,tkrPi@yahoo.com,msg_102,Feedback,INBOX,2023-10-28 05:42:00,False,[None],True,True,80,page_66,906
+conv_280,user_468,Alice Garcia,GVGeG@outlook.com,msg_9085,Need help,COMMENT,2023-11-07 13:26:00,False,['+1818598450'],False,False,66,page_25,141
+conv_281,user_316,Charlie Garcia,zBbRv@yahoo.com,msg_1151,Feedback,RATING,2023-07-20 17:27:00,False,['+5418822143'],False,True,39,page_4,239
+conv_282,user_513,Sophia Davis,irijF@outlook.com,msg_2111,Feedback,INBOX,2023-03-19 05:06:00,True,[None],False,False,73,page_63,5
+conv_283,user_280,Bob Jones,xmIxc@yahoo.com,msg_5380,Feedback,COMMENT,2023-10-04 16:17:00,True,['+3265584863'],True,False,73,page_83,630
+conv_284,user_618,David Miller,PIzqx@gmail.com,msg_3260,Need help,COMMENT,2023-08-11 10:15:00,False,[None],False,True,56,page_13,289
+conv_285,user_146,Bob Johnson,xuQdf@yahoo.com,msg_4778,Hello,INBOX,2023-11-27 01:41:00,True,[None],True,True,19,page_71,785
+conv_286,user_148,Bob Garcia,RkgPf@outlook.com,msg_6877,Support request,INBOX,2023-06-12 15:35:00,False,['+6317162690'],True,True,79,page_67,134
+conv_287,user_545,Emily Smith,tAZgT@yahoo.com,msg_4815,Feedback,RATING,2023-08-10 08:06:00,True,['+7763867169'],True,True,52,page_6,662
+conv_288,user_416,Sophia Davis,BpnGx@yahoo.com,msg_9157,Need help,COMMENT,2023-10-19 15:50:00,False,[None],True,False,74,page_45,412
+conv_289,user_296,Jane Johnson,NyfEh@outlook.com,msg_5527,Feedback,COMMENT,2023-01-23 02:45:00,False,[None],True,True,54,page_13,754
+conv_290,user_498,Bob Jones,mmpVe@outlook.com,msg_8727,Support request,INBOX,2023-02-12 20:34:00,False,[None],False,False,80,page_94,701
+conv_291,user_583,John Johnson,jmvUX@outlook.com,msg_169,Inquiry,COMMENT,2023-11-23 20:15:00,True,[None],True,False,97,page_81,60
+conv_292,user_58,David Brown,Ceggs@gmail.com,msg_7584,Inquiry,COMMENT,2023-05-21 20:46:00,False,[None],True,True,15,page_19,887
+conv_293,user_866,Charlie Garcia,xUONA@gmail.com,msg_1128,Hello,RATING,2023-02-08 17:10:00,False,['+8070707512'],False,False,73,page_83,542
+conv_294,user_657,Sophia Davis,sdGDi@gmail.com,msg_3289,Hello,COMMENT,2023-09-06 12:10:00,True,['+1177255976'],False,True,19,page_31,233
+conv_295,user_343,John Miller,JIkzd@yahoo.com,msg_6169,Need help,COMMENT,2023-02-24 12:28:00,True,[None],True,False,41,page_30,874
+conv_296,user_899,Sophia Johnson,hvVEB@gmail.com,msg_9732,Inquiry,COMMENT,2023-08-09 08:20:00,True,['+6276555136'],True,False,24,page_7,985
+conv_297,user_928,Bob Brown,EwIQm@gmail.com,msg_1823,Inquiry,COMMENT,2023-10-25 03:49:00,True,['+7711733613'],False,False,44,page_33,747
+conv_298,user_439,Sophia Smith,gXqsN@outlook.com,msg_6073,Support request,INBOX,2023-02-10 00:38:00,False,['+7691635588'],False,False,45,page_85,667
+conv_299,user_133,Bob Miller,mzvbR@yahoo.com,msg_4038,Need help,RATING,2023-08-20 03:50:00,True,['+9047037039'],False,False,45,page_47,272
+conv_300,user_614,Alice Brown,vJZPF@gmail.com,msg_8706,Inquiry,RATING,2023-04-18 06:52:00,False,['+2555261341'],True,False,17,page_38,918
+conv_301,user_27,Alice Johnson,KnXHc@outlook.com,msg_6964,Support request,RATING,2023-04-08 22:06:00,True,[None],True,False,94,page_27,485
+conv_302,user_833,Bob Smith,cWRRF@yahoo.com,msg_8519,Support request,INBOX,2023-11-28 09:43:00,False,[None],False,True,87,page_39,386
+conv_303,user_706,Sophia Johnson,NQftK@gmail.com,msg_7599,Feedback,INBOX,2023-04-23 20:03:00,False,[None],False,False,24,page_70,207
+conv_304,user_232,David Garcia,WfEba@outlook.com,msg_2403,Hello,INBOX,2023-08-16 19:58:00,True,[None],False,False,100,page_26,300
+conv_305,user_422,Sophia Johnson,ibGAs@yahoo.com,msg_8290,Feedback,RATING,2023-07-21 14:38:00,False,['+3062801739'],True,True,64,page_73,625
+conv_306,user_470,John Smith,kJLMU@outlook.com,msg_7426,Hello,RATING,2023-06-18 08:49:00,False,[None],True,False,66,page_92,384
+conv_307,user_597,John Brown,woZFa@outlook.com,msg_2787,Need help,INBOX,2023-10-11 02:48:00,True,['+1622088357'],True,False,42,page_40,122
+conv_308,user_725,Emily Brown,IJbBW@gmail.com,msg_1212,Inquiry,RATING,2023-01-04 04:17:00,True,[None],True,True,75,page_57,621
+conv_309,user_588,John Johnson,lqQzv@outlook.com,msg_1661,Feedback,INBOX,2023-04-12 18:05:00,False,['+9841854975'],True,False,94,page_48,452
+conv_310,user_433,Charlie Williams,VYJYt@yahoo.com,msg_6044,Feedback,INBOX,2023-03-28 03:26:00,True,[None],True,True,75,page_25,644
+conv_311,user_311,Jane Davis,BtBQr@gmail.com,msg_7083,Inquiry,COMMENT,2023-12-10 11:49:00,False,[None],False,True,98,page_78,516
+conv_312,user_187,Jane Davis,VwqHD@outlook.com,msg_8054,Feedback,COMMENT,2023-07-25 05:37:00,True,['+9996610466'],True,True,93,page_46,475
+conv_313,user_432,David Smith,XIUqH@outlook.com,msg_3238,Hello,COMMENT,2023-08-18 19:38:00,False,[None],True,True,84,page_37,565
+conv_314,user_434,Alice Jones,cZucY@gmail.com,msg_9411,Need help,INBOX,2023-05-26 05:22:00,False,['+8842434157'],True,True,74,page_99,280
+conv_315,user_187,Sophia Miller,cbKkl@outlook.com,msg_5228,Hello,INBOX,2023-07-19 11:41:00,False,[None],False,False,65,page_66,260
+conv_316,user_898,Bob Brown,DKIdJ@yahoo.com,msg_7406,Feedback,RATING,2023-03-31 20:50:00,True,['+2903083199'],False,True,32,page_71,260
+conv_317,user_780,Emily Jones,ruEdC@outlook.com,msg_7772,Support request,INBOX,2023-11-29 18:57:00,True,['+2473714855'],False,False,8,page_73,890
+conv_318,user_286,Jane Garcia,BffVb@outlook.com,msg_8429,Feedback,COMMENT,2023-10-15 13:02:00,False,[None],True,False,70,page_46,68
+conv_319,user_422,Sophia Brown,dmcrW@outlook.com,msg_1795,Inquiry,COMMENT,2023-01-05 10:16:00,False,[None],False,True,57,page_37,185
+conv_320,user_696,John Williams,yzMmI@gmail.com,msg_2805,Inquiry,COMMENT,2023-02-22 15:28:00,False,[None],True,True,31,page_5,729
+conv_321,user_681,Alice Brown,EdgZV@gmail.com,msg_2460,Inquiry,INBOX,2023-10-13 00:18:00,False,['+9934386752'],False,False,24,page_82,731
+conv_322,user_254,David Brown,qhKBK@gmail.com,msg_4093,Hello,RATING,2023-04-16 00:12:00,True,['+9006413298'],True,False,56,page_83,652
+conv_323,user_831,Emily Jones,SJUos@outlook.com,msg_1633,Hello,INBOX,2023-03-19 10:44:00,True,['+4047450744'],True,False,87,page_54,854
+conv_324,user_310,Alice Davis,dCfml@outlook.com,msg_2122,Need help,RATING,2023-03-10 07:43:00,False,['+3570555112'],False,True,80,page_32,67
+conv_325,user_75,John Davis,qfFUY@gmail.com,msg_5832,Support request,INBOX,2023-12-17 11:52:00,False,[None],True,False,43,page_98,347
+conv_326,user_858,Charlie Davis,iRAzU@gmail.com,msg_8624,Feedback,RATING,2023-10-12 06:41:00,False,['+1366103707'],True,True,80,page_34,726
+conv_327,user_295,Alice Williams,fDsUz@yahoo.com,msg_2540,Feedback,COMMENT,2023-11-11 00:08:00,True,['+4422581522'],False,True,96,page_39,599
+conv_328,user_434,John Garcia,KnMOm@yahoo.com,msg_5454,Inquiry,RATING,2023-05-10 23:50:00,True,[None],True,True,100,page_12,485
+conv_329,user_244,Jane Smith,FePAz@outlook.com,msg_5303,Hello,RATING,2023-01-10 17:33:00,False,[None],True,True,1,page_90,80
+conv_330,user_313,David Jones,DUcIM@yahoo.com,msg_6151,Hello,COMMENT,2023-10-13 03:43:00,True,[None],False,True,90,page_17,549
+conv_331,user_655,Bob Davis,FINDh@yahoo.com,msg_8271,Hello,INBOX,2023-06-22 04:15:00,False,['+2870880785'],False,True,21,page_68,779
+conv_332,user_416,Charlie Jones,VoiAn@yahoo.com,msg_9321,Support request,COMMENT,2023-11-03 07:42:00,True,['+5869646859'],False,False,5,page_20,900
+conv_333,user_835,Sophia Garcia,QvuOz@gmail.com,msg_5790,Inquiry,COMMENT,2023-10-30 01:39:00,True,[None],False,True,43,page_46,723
+conv_334,user_263,Bob Williams,ePoMz@outlook.com,msg_3848,Feedback,COMMENT,2023-01-19 04:13:00,False,['+7170154186'],True,True,63,page_54,463
+conv_335,user_478,Jane Davis,FkLxG@outlook.com,msg_4881,Support request,COMMENT,2023-12-06 07:33:00,True,[None],True,True,29,page_56,559
+conv_336,user_243,Jane Williams,ObKQO@outlook.com,msg_8804,Feedback,COMMENT,2023-01-12 15:21:00,False,['+5289685070'],True,False,67,page_17,893
+conv_337,user_297,Jane Smith,AqNqo@yahoo.com,msg_1970,Hello,INBOX,2023-06-11 12:14:00,True,[None],False,False,45,page_40,775
+conv_338,user_486,Jane Davis,qMNiU@outlook.com,msg_4171,Support request,RATING,2023-07-11 01:37:00,False,['+9235484636'],True,True,4,page_100,977
+conv_339,user_290,Emily Garcia,RSrZK@outlook.com,msg_1324,Hello,RATING,2023-11-07 05:22:00,False,['+3881139305'],True,True,49,page_54,683
+conv_340,user_954,Sophia Williams,mUMGI@outlook.com,msg_7174,Feedback,RATING,2023-04-09 18:13:00,True,['+7744236167'],False,False,75,page_99,732
+conv_341,user_23,David Smith,RYXfh@gmail.com,msg_2273,Feedback,COMMENT,2023-04-15 11:54:00,True,['+7663400748'],False,True,40,page_13,973
+conv_342,user_763,Emily Jones,VlAJO@yahoo.com,msg_2678,Hello,INBOX,2023-03-06 03:04:00,False,['+2032544231'],False,False,20,page_24,347
+conv_343,user_118,Emily Brown,dlhta@gmail.com,msg_550,Need help,INBOX,2023-03-04 02:31:00,True,[None],True,False,20,page_33,500
+conv_344,user_746,Charlie Jones,qJQfo@yahoo.com,msg_3997,Support request,COMMENT,2023-02-24 11:24:00,False,['+9525065943'],True,False,52,page_15,165
+conv_345,user_942,Alice Miller,cAFXF@yahoo.com,msg_6027,Feedback,COMMENT,2023-04-04 12:52:00,True,[None],True,False,66,page_63,364
+conv_346,user_501,David Williams,bwUGS@gmail.com,msg_7096,Feedback,COMMENT,2023-05-05 05:10:00,True,[None],False,True,39,page_95,780
+conv_347,user_190,Charlie Williams,qUtks@gmail.com,msg_4560,Inquiry,COMMENT,2024-01-01 21:11:00,True,[None],False,True,31,page_88,352
+conv_348,user_149,Sophia Johnson,CObcz@outlook.com,msg_4503,Inquiry,RATING,2023-11-12 21:35:00,True,['+1958357797'],False,False,55,page_59,883
+conv_349,user_595,David Johnson,lIAFP@yahoo.com,msg_2726,Hello,COMMENT,2023-04-18 20:13:00,True,['+8640835395'],False,True,12,page_100,368
+conv_350,user_980,Charlie Brown,DDQyy@outlook.com,msg_4463,Inquiry,RATING,2023-10-20 13:43:00,True,['+5445066608'],False,False,40,page_58,961
+conv_351,user_471,Bob Garcia,HMuXw@outlook.com,msg_9552,Feedback,INBOX,2023-09-22 07:04:00,False,[None],True,False,99,page_50,263
+conv_352,user_268,Jane Miller,nCjdn@outlook.com,msg_8117,Support request,RATING,2023-10-20 02:53:00,True,[None],False,False,43,page_24,389
+conv_353,user_274,Jane Williams,AFNjn@yahoo.com,msg_3577,Support request,RATING,2023-07-09 18:32:00,False,[None],False,True,28,page_31,45
+conv_354,user_141,Emily Jones,yELAJ@outlook.com,msg_8282,Support request,INBOX,2023-09-07 05:18:00,True,[None],False,False,93,page_88,27
+conv_355,user_863,Alice Williams,OSOCP@yahoo.com,msg_6282,Feedback,INBOX,2023-07-22 05:56:00,True,['+4155049752'],False,True,52,page_34,127
+conv_356,user_319,John Smith,JIsyn@yahoo.com,msg_3864,Support request,RATING,2023-06-04 04:17:00,True,['+5602170340'],False,False,66,page_45,521
+conv_357,user_35,Sophia Brown,ocZwQ@outlook.com,msg_1756,Feedback,INBOX,2023-01-06 12:31:00,False,[None],True,False,99,page_69,815
+conv_358,user_594,Jane Davis,gqSsq@gmail.com,msg_5950,Feedback,RATING,2023-10-03 06:22:00,True,['+6247491118'],False,False,32,page_79,889
+conv_359,user_473,David Williams,BAths@yahoo.com,msg_1757,Feedback,COMMENT,2023-09-28 08:30:00,True,[None],False,True,26,page_52,243
+conv_360,user_51,Sophia Miller,MWBhW@gmail.com,msg_206,Need help,RATING,2023-02-17 16:10:00,False,['+8905070853'],True,False,36,page_41,199
+conv_361,user_810,Sophia Brown,mnFfR@yahoo.com,msg_1208,Feedback,INBOX,2023-03-20 22:31:00,True,[None],False,False,72,page_16,825
+conv_362,user_845,John Williams,XleMt@gmail.com,msg_4328,Inquiry,RATING,2023-04-06 12:14:00,False,[None],True,False,95,page_75,229
+conv_363,user_708,John Brown,fTvPi@gmail.com,msg_9709,Support request,INBOX,2023-02-05 08:04:00,False,[None],False,True,38,page_95,75
+conv_364,user_890,Charlie Jones,tMHnR@gmail.com,msg_3867,Need help,INBOX,2023-12-29 08:19:00,False,['+8114341866'],True,True,98,page_18,616
+conv_365,user_336,Bob Garcia,CoJeA@gmail.com,msg_5608,Inquiry,INBOX,2023-10-28 07:34:00,False,['+3688100669'],False,False,41,page_55,837
+conv_366,user_558,Jane Miller,RtHoF@yahoo.com,msg_772,Support request,INBOX,2023-10-29 15:20:00,False,[None],False,False,93,page_72,858
+conv_367,user_940,Sophia Garcia,EOtVJ@gmail.com,msg_316,Feedback,COMMENT,2023-11-11 14:16:00,True,[None],True,False,97,page_58,666
+conv_368,user_63,David Johnson,CKvOa@yahoo.com,msg_9050,Feedback,RATING,2023-05-29 13:34:00,False,[None],True,False,48,page_51,699
+conv_369,user_166,Sophia Williams,VBurN@gmail.com,msg_8893,Support request,INBOX,2023-03-17 15:11:00,True,[None],False,False,17,page_21,781
+conv_370,user_189,Emily Smith,vBMhL@outlook.com,msg_2774,Inquiry,INBOX,2023-01-05 03:09:00,False,[None],True,False,96,page_45,300
+conv_371,user_159,Emily Garcia,UcDhi@yahoo.com,msg_5730,Support request,COMMENT,2023-07-04 23:19:00,True,[None],True,True,97,page_40,880
+conv_372,user_821,Emily Williams,PXsDA@yahoo.com,msg_8060,Hello,INBOX,2023-03-08 03:27:00,False,['+7396752179'],True,False,40,page_1,45
+conv_373,user_101,Emily Jones,GCGfs@outlook.com,msg_9130,Hello,RATING,2023-11-04 21:09:00,False,[None],False,False,1,page_58,169
+conv_374,user_799,Charlie Jones,iysZh@yahoo.com,msg_5401,Hello,COMMENT,2023-05-25 08:33:00,False,['+2338965124'],False,False,0,page_28,947
+conv_375,user_96,Jane Brown,mmKCO@gmail.com,msg_983,Support request,COMMENT,2023-11-29 17:07:00,True,[None],False,True,77,page_91,903
+conv_376,user_194,Alice Smith,aFjEl@yahoo.com,msg_6402,Hello,COMMENT,2023-11-01 05:39:00,False,['+7652344478'],False,False,1,page_24,70
+conv_377,user_238,David Smith,RkEoW@outlook.com,msg_3286,Hello,COMMENT,2023-02-16 14:28:00,True,[None],True,True,68,page_42,326
+conv_378,user_779,Charlie Williams,wjIhm@gmail.com,msg_1840,Need help,COMMENT,2023-07-05 08:19:00,True,[None],True,False,98,page_83,240
+conv_379,user_169,Emily Brown,clgTn@outlook.com,msg_5520,Inquiry,COMMENT,2023-07-06 15:36:00,True,[None],False,False,49,page_5,64
+conv_380,user_563,John Johnson,gukTY@outlook.com,msg_3906,Feedback,COMMENT,2023-05-23 09:49:00,True,[None],False,False,2,page_5,847
+conv_381,user_933,Alice Jones,OiPJe@gmail.com,msg_6844,Support request,INBOX,2023-11-04 09:00:00,True,['+1867228331'],False,False,99,page_24,395
+conv_382,user_549,David Williams,hlYbI@gmail.com,msg_575,Hello,INBOX,2023-02-22 12:29:00,False,['+8473689119'],True,False,43,page_16,392
+conv_383,user_333,John Miller,SevOV@yahoo.com,msg_4042,Feedback,INBOX,2023-04-06 04:14:00,True,['+9262999376'],False,True,71,page_62,141
+conv_384,user_674,David Johnson,BXPfL@yahoo.com,msg_758,Feedback,INBOX,2023-10-21 05:15:00,False,[None],False,True,7,page_90,442
+conv_385,user_832,Sophia Smith,rxCDL@outlook.com,msg_8250,Need help,RATING,2023-09-17 00:05:00,False,[None],True,False,68,page_97,398
+conv_386,user_602,David Johnson,jCPOj@yahoo.com,msg_7526,Need help,INBOX,2023-07-28 04:31:00,True,[None],True,False,85,page_27,64
+conv_387,user_45,Charlie Miller,WMAbS@yahoo.com,msg_3751,Support request,INBOX,2023-11-06 10:59:00,False,['+3071286491'],True,True,71,page_52,271
+conv_388,user_296,Charlie Brown,XhvIK@gmail.com,msg_3106,Need help,RATING,2023-11-06 04:16:00,True,[None],True,False,78,page_5,356
+conv_389,user_399,Charlie Jones,hFfDv@outlook.com,msg_6994,Need help,COMMENT,2023-02-01 22:57:00,True,['+2620950798'],True,True,14,page_79,894
+conv_390,user_316,Jane Williams,oQseO@outlook.com,msg_3757,Hello,RATING,2023-09-25 18:28:00,False,['+3236565714'],True,True,47,page_27,431
+conv_391,user_207,Sophia Miller,CNIby@yahoo.com,msg_4064,Feedback,COMMENT,2023-06-28 14:15:00,True,[None],False,True,69,page_57,898
+conv_392,user_938,Sophia Miller,wPBFJ@gmail.com,msg_5502,Need help,COMMENT,2023-10-10 17:21:00,True,[None],False,True,45,page_94,583
+conv_393,user_135,Charlie Davis,SqLiJ@gmail.com,msg_231,Hello,COMMENT,2023-02-08 07:52:00,False,[None],False,True,75,page_26,189
+conv_394,user_19,John Jones,YOIQV@outlook.com,msg_8798,Inquiry,INBOX,2023-02-18 03:50:00,False,['+4953416044'],False,False,31,page_10,732
+conv_395,user_991,Charlie Jones,DFLwF@outlook.com,msg_1998,Inquiry,RATING,2023-05-12 12:26:00,True,['+7416930364'],False,True,42,page_35,297
+conv_396,user_985,Sophia Miller,cbjBw@gmail.com,msg_4655,Hello,RATING,2023-04-14 08:16:00,False,['+9129666307'],False,False,3,page_18,847
+conv_397,user_691,John Johnson,qwxpF@gmail.com,msg_6969,Need help,COMMENT,2023-07-09 11:01:00,True,['+4679962380'],False,False,28,page_94,277
+conv_398,user_710,David Miller,DsakZ@yahoo.com,msg_6478,Need help,COMMENT,2023-09-21 11:39:00,False,[None],False,True,80,page_41,949
+conv_399,user_846,David Garcia,merzs@gmail.com,msg_5633,Support request,INBOX,2023-06-08 11:09:00,True,[None],True,False,13,page_16,177
+conv_400,user_196,Charlie Johnson,XkRyr@yahoo.com,msg_5258,Need help,INBOX,2023-03-25 17:35:00,True,[None],True,True,89,page_33,607
+conv_401,user_952,Jane Johnson,xTABB@gmail.com,msg_4264,Feedback,INBOX,2023-10-10 11:57:00,True,[None],True,False,54,page_42,821
+conv_402,user_977,Charlie Williams,pGSvG@gmail.com,msg_370,Inquiry,INBOX,2023-02-01 14:21:00,True,[None],False,True,75,page_23,754
+conv_403,user_214,Sophia Jones,XmxsU@gmail.com,msg_8248,Feedback,RATING,2023-12-09 07:46:00,True,[None],False,True,81,page_56,247
+conv_404,user_111,John Miller,CfxsS@yahoo.com,msg_1832,Support request,COMMENT,2023-03-04 05:12:00,True,['+7194182403'],True,False,38,page_73,911
+conv_405,user_540,Emily Jones,JVByq@yahoo.com,msg_4574,Need help,COMMENT,2023-12-04 09:57:00,False,[None],True,False,53,page_20,382
+conv_406,user_548,Sophia Johnson,EPQmV@gmail.com,msg_6166,Need help,INBOX,2023-03-07 17:50:00,True,[None],True,False,17,page_81,403
+conv_407,user_635,David Smith,NrRQx@gmail.com,msg_7048,Support request,COMMENT,2023-03-18 12:02:00,True,[None],True,False,75,page_62,119
+conv_408,user_391,John Davis,nkZvh@gmail.com,msg_3416,Need help,INBOX,2023-06-06 10:01:00,False,['+5424522430'],True,True,90,page_99,710
+conv_409,user_849,Jane Davis,PMEUZ@yahoo.com,msg_3881,Hello,RATING,2023-01-13 14:05:00,True,['+8992372860'],False,False,2,page_79,764
+conv_410,user_431,Bob Smith,FWPhC@gmail.com,msg_2081,Support request,COMMENT,2023-10-03 10:57:00,True,['+2298952205'],True,True,16,page_14,722
+conv_411,user_428,Jane Brown,kaskL@outlook.com,msg_1766,Support request,RATING,2023-11-15 05:04:00,False,[None],False,True,3,page_54,447
+conv_412,user_491,Bob Williams,dtdNs@yahoo.com,msg_7754,Need help,COMMENT,2023-11-06 00:25:00,False,[None],False,False,70,page_91,357
+conv_413,user_139,Sophia Williams,Luodq@gmail.com,msg_622,Inquiry,RATING,2023-03-11 02:47:00,True,['+2766182568'],False,False,91,page_1,572
+conv_414,user_712,John Miller,hktNO@yahoo.com,msg_1617,Hello,COMMENT,2023-02-16 12:43:00,False,['+8505941406'],True,True,23,page_20,938
+conv_415,user_715,John Jones,Oyhfb@yahoo.com,msg_3514,Inquiry,INBOX,2023-11-16 15:17:00,False,['+7610264165'],True,True,91,page_54,665
+conv_416,user_140,John Williams,LZiEv@outlook.com,msg_1307,Feedback,INBOX,2023-05-04 02:43:00,False,['+9670085970'],False,False,64,page_96,795
+conv_417,user_949,John Williams,kVRhO@gmail.com,msg_9698,Need help,INBOX,2023-11-20 20:51:00,False,['+6524185945'],False,True,33,page_82,195
+conv_418,user_598,Sophia Johnson,DRSQO@gmail.com,msg_2053,Support request,RATING,2023-10-24 05:02:00,True,['+6856415596'],True,False,12,page_54,319
+conv_419,user_161,Sophia Jones,PxuuV@yahoo.com,msg_7209,Need help,RATING,2023-06-14 02:59:00,False,[None],True,False,93,page_27,122
+conv_420,user_299,Emily Garcia,CkANM@gmail.com,msg_8858,Feedback,COMMENT,2023-06-14 22:45:00,True,['+7620164117'],True,False,90,page_39,991
+conv_421,user_819,Jane Brown,ncjob@outlook.com,msg_630,Support request,COMMENT,2023-09-19 06:06:00,False,['+7854252371'],True,True,0,page_64,913
+conv_422,user_386,Charlie Miller,gVTbU@gmail.com,msg_6087,Feedback,INBOX,2023-10-15 17:41:00,True,[None],False,False,96,page_80,727
+conv_423,user_608,Bob Garcia,gEXgT@gmail.com,msg_817,Inquiry,RATING,2023-07-16 03:44:00,False,['+4941239944'],False,True,94,page_85,345
+conv_424,user_783,Emily Davis,fgnWs@yahoo.com,msg_8835,Inquiry,INBOX,2023-06-14 09:11:00,True,['+7950616008'],False,True,24,page_3,893
+conv_425,user_692,Jane Williams,ioZMT@yahoo.com,msg_9034,Hello,RATING,2023-01-03 12:52:00,True,['+7875768601'],True,False,87,page_72,761
+conv_426,user_958,Emily Brown,YIegw@yahoo.com,msg_5286,Support request,COMMENT,2023-01-06 13:27:00,True,[None],False,True,8,page_34,975
+conv_427,user_522,Jane Johnson,IjppX@yahoo.com,msg_8757,Inquiry,COMMENT,2023-11-30 15:56:00,True,['+7468968441'],True,False,85,page_63,843
+conv_428,user_872,Bob Brown,YGhbI@yahoo.com,msg_9929,Support request,INBOX,2023-09-26 17:47:00,False,[None],False,True,98,page_26,35
+conv_429,user_229,Emily Smith,QrJxO@gmail.com,msg_4013,Support request,INBOX,2023-01-24 15:10:00,True,[None],True,False,51,page_1,2
+conv_430,user_875,David Smith,YRcWp@yahoo.com,msg_8182,Feedback,INBOX,2023-10-30 05:15:00,False,['+2368907921'],True,False,27,page_20,955
+conv_431,user_602,John Johnson,SONkl@gmail.com,msg_6946,Feedback,COMMENT,2023-03-24 06:49:00,True,['+9827386671'],True,True,56,page_39,980
+conv_432,user_569,Emily Garcia,wXpMY@gmail.com,msg_5699,Hello,RATING,2023-08-24 18:36:00,False,[None],False,True,64,page_91,516
+conv_433,user_208,Alice Miller,Vbdna@gmail.com,msg_6331,Feedback,RATING,2023-05-27 16:01:00,False,['+2171498999'],False,True,16,page_69,806
+conv_434,user_682,Alice Jones,YMYNd@gmail.com,msg_8066,Support request,INBOX,2023-02-24 03:57:00,False,[None],True,True,87,page_54,600
+conv_435,user_967,Bob Davis,nwMkw@outlook.com,msg_1999,Need help,INBOX,2023-04-05 08:51:00,True,['+5435639431'],True,False,60,page_8,468
+conv_436,user_287,Jane Williams,ldbAG@outlook.com,msg_778,Need help,COMMENT,2023-09-17 14:04:00,True,[None],False,False,71,page_97,877
+conv_437,user_771,Alice Garcia,ztskU@gmail.com,msg_7930,Need help,RATING,2023-07-05 10:24:00,False,[None],True,True,78,page_96,885
+conv_438,user_664,Charlie Jones,ysjUl@gmail.com,msg_1393,Inquiry,COMMENT,2023-05-05 16:42:00,False,['+3941374825'],True,False,14,page_14,158
+conv_439,user_623,Bob Johnson,ayHCp@gmail.com,msg_1723,Need help,RATING,2023-12-18 22:42:00,False,['+2536437981'],True,True,14,page_18,195
+conv_440,user_120,Jane Brown,pJUYe@gmail.com,msg_3922,Feedback,COMMENT,2023-01-16 02:51:00,True,[None],True,True,41,page_77,446
+conv_441,user_890,Jane Williams,VsibD@yahoo.com,msg_3657,Feedback,RATING,2023-06-13 23:04:00,True,[None],False,False,8,page_70,407
+conv_442,user_51,Alice Brown,FMHBi@gmail.com,msg_4887,Hello,RATING,2023-08-02 12:31:00,False,['+6639085881'],True,False,91,page_79,597
+conv_443,user_819,Bob Davis,rvEFz@outlook.com,msg_5806,Support request,RATING,2023-04-24 23:42:00,True,[None],False,False,14,page_46,297
+conv_444,user_514,Charlie Johnson,KTRoH@yahoo.com,msg_1795,Hello,COMMENT,2023-02-27 13:33:00,True,[None],True,True,96,page_93,79
+conv_445,user_453,Charlie Brown,RxmZw@outlook.com,msg_8091,Feedback,INBOX,2023-03-23 03:06:00,False,['+9688735009'],True,True,13,page_100,769
+conv_446,user_149,Sophia Williams,Kksrg@gmail.com,msg_4980,Need help,COMMENT,2023-11-16 09:41:00,True,[None],True,True,100,page_17,187
+conv_447,user_906,Jane Miller,JLDAY@outlook.com,msg_7207,Feedback,INBOX,2023-02-12 19:58:00,True,[None],False,False,64,page_4,451
+conv_448,user_110,Charlie Johnson,qPzRM@yahoo.com,msg_9769,Inquiry,RATING,2023-03-27 16:05:00,True,['+1112248707'],True,False,48,page_36,179
+conv_449,user_880,Emily Williams,EEnmd@gmail.com,msg_3822,Need help,COMMENT,2023-12-17 22:47:00,True,['+4316642981'],True,True,52,page_46,515
+conv_450,user_118,John Williams,nEeXJ@yahoo.com,msg_9746,Hello,RATING,2023-12-02 16:12:00,False,[None],False,False,72,page_56,271
+conv_451,user_237,David Miller,YEUiY@gmail.com,msg_9194,Need help,RATING,2023-11-01 19:40:00,False,[None],False,True,34,page_62,534
+conv_452,user_953,Alice Jones,vMLOP@gmail.com,msg_9241,Support request,COMMENT,2023-07-16 00:01:00,False,['+8212127355'],False,True,78,page_3,450
+conv_453,user_603,David Brown,HACYC@yahoo.com,msg_1841,Support request,COMMENT,2023-05-31 09:39:00,False,['+1740452258'],False,True,58,page_23,73
+conv_454,user_561,Sophia Williams,oDJQA@yahoo.com,msg_8641,Need help,INBOX,2023-12-27 14:45:00,False,[None],False,False,85,page_49,475
+conv_455,user_834,Charlie Smith,MTNcP@yahoo.com,msg_7528,Inquiry,RATING,2023-03-08 03:06:00,False,[None],False,False,60,page_81,909
+conv_456,user_327,John Williams,KPukJ@yahoo.com,msg_6224,Hello,INBOX,2023-01-07 15:11:00,True,[None],True,True,0,page_27,111
+conv_457,user_107,Emily Jones,BrfQc@gmail.com,msg_8055,Inquiry,RATING,2023-07-02 14:00:00,False,['+2843954132'],False,True,23,page_10,17
+conv_458,user_326,David Williams,HZWhv@gmail.com,msg_475,Need help,RATING,2023-08-06 05:06:00,True,[None],False,False,26,page_29,752
+conv_459,user_274,Charlie Brown,HfFwh@outlook.com,msg_1081,Need help,INBOX,2023-01-26 09:20:00,True,[None],False,True,66,page_55,441
+conv_460,user_811,Bob Jones,nForu@outlook.com,msg_638,Need help,COMMENT,2023-04-17 12:55:00,False,['+2208427343'],False,True,63,page_35,530
+conv_461,user_589,Charlie Williams,WtMca@yahoo.com,msg_6714,Need help,INBOX,2023-04-17 19:41:00,False,['+3859531561'],False,True,82,page_33,328
+conv_462,user_760,Bob Smith,VoXSL@yahoo.com,msg_2847,Feedback,COMMENT,2023-06-10 21:09:00,True,['+2657569005'],True,True,76,page_10,70
+conv_463,user_460,Bob Williams,grqXb@outlook.com,msg_7229,Hello,INBOX,2023-05-29 13:34:00,True,[None],True,True,10,page_26,389
+conv_464,user_49,Sophia Jones,ZkjVL@outlook.com,msg_2308,Hello,COMMENT,2023-09-04 12:21:00,False,[None],True,True,29,page_96,352
+conv_465,user_717,Bob Smith,YBpvf@outlook.com,msg_7750,Feedback,INBOX,2023-05-23 11:46:00,False,[None],True,False,35,page_48,901
+conv_466,user_824,David Miller,ncRGQ@yahoo.com,msg_6834,Feedback,INBOX,2023-05-02 00:50:00,True,['+3612930033'],True,True,100,page_26,9
+conv_467,user_530,Sophia Garcia,lHqwi@yahoo.com,msg_5087,Support request,COMMENT,2023-09-12 00:28:00,False,[None],True,False,15,page_79,898
+conv_468,user_910,John Smith,Kcosr@yahoo.com,msg_3992,Feedback,INBOX,2023-05-10 09:38:00,True,['+5600822685'],True,False,96,page_92,829
+conv_469,user_585,Sophia Davis,oaSYG@outlook.com,msg_4398,Feedback,COMMENT,2023-10-21 06:09:00,False,[None],False,False,10,page_25,773
+conv_470,user_860,Charlie Garcia,qIMZi@yahoo.com,msg_8307,Feedback,RATING,2023-06-21 03:27:00,True,[None],True,True,90,page_93,553
+conv_471,user_599,Charlie Garcia,zgHkY@outlook.com,msg_9308,Feedback,INBOX,2023-02-23 13:16:00,False,['+2828219390'],True,True,94,page_13,998
+conv_472,user_725,Jane Johnson,VyAFP@gmail.com,msg_3285,Feedback,COMMENT,2023-03-10 13:24:00,False,[None],True,False,19,page_44,786
+conv_473,user_557,Charlie Johnson,SaDbc@yahoo.com,msg_7067,Support request,COMMENT,2023-01-04 06:02:00,True,[None],False,True,31,page_65,438
+conv_474,user_973,Charlie Brown,FltLv@gmail.com,msg_3851,Inquiry,INBOX,2023-06-01 02:41:00,True,[None],True,True,58,page_73,268
+conv_475,user_349,Bob Williams,ykaDS@yahoo.com,msg_2551,Support request,COMMENT,2023-05-14 19:59:00,True,['+7150810789'],True,True,90,page_90,557
+conv_476,user_20,David Smith,ljQOJ@yahoo.com,msg_3572,Feedback,COMMENT,2023-12-12 22:21:00,True,['+7649712761'],False,True,4,page_52,5
+conv_477,user_108,Alice Johnson,LUPxe@gmail.com,msg_1157,Inquiry,INBOX,2023-01-03 22:54:00,False,[None],False,False,46,page_91,841
+conv_478,user_115,Alice Johnson,eDbky@outlook.com,msg_4537,Hello,RATING,2023-01-29 22:39:00,True,['+6041558320'],False,True,1,page_60,732
+conv_479,user_779,Charlie Williams,iiXKB@gmail.com,msg_6088,Need help,RATING,2023-04-27 02:31:00,True,[None],True,False,44,page_42,442
+conv_480,user_623,Bob Smith,wpVQQ@yahoo.com,msg_5866,Inquiry,RATING,2023-07-26 16:17:00,True,['+3741852596'],True,True,66,page_36,437
+conv_481,user_860,David Williams,CTsQI@gmail.com,msg_2957,Inquiry,COMMENT,2023-07-22 14:38:00,False,['+5406802331'],False,False,56,page_65,804
+conv_482,user_982,Charlie Brown,pENcD@outlook.com,msg_2797,Support request,INBOX,2023-08-20 04:29:00,True,['+4465694830'],True,True,81,page_83,97
+conv_483,user_688,John Jones,MVcbQ@outlook.com,msg_8800,Hello,RATING,2023-05-28 20:16:00,True,['+6524404417'],False,True,47,page_22,527
+conv_484,user_953,John Davis,VZCca@outlook.com,msg_6816,Inquiry,INBOX,2023-01-17 20:12:00,True,[None],False,False,23,page_84,631
+conv_485,user_683,Emily Johnson,YDjTu@outlook.com,msg_362,Feedback,RATING,2023-11-15 05:59:00,True,[None],False,True,63,page_38,848
+conv_486,user_588,David Brown,fpypK@yahoo.com,msg_3590,Feedback,RATING,2023-07-07 07:52:00,False,[None],False,False,71,page_9,171
+conv_487,user_116,Jane Davis,upion@gmail.com,msg_8879,Need help,INBOX,2023-11-23 07:50:00,False,['+5900168976'],False,False,67,page_19,963
+conv_488,user_884,John Johnson,LMeht@outlook.com,msg_5679,Need help,RATING,2023-08-08 17:54:00,True,[None],True,False,10,page_93,528
+conv_489,user_702,Charlie Davis,dPFKK@outlook.com,msg_9830,Feedback,COMMENT,2023-12-09 17:31:00,False,[None],False,True,63,page_24,224
+conv_490,user_188,Bob Johnson,hwjAx@outlook.com,msg_7308,Hello,COMMENT,2023-06-19 16:02:00,False,[None],False,False,49,page_93,139
+conv_491,user_902,Sophia Williams,pnUjm@yahoo.com,msg_4261,Support request,COMMENT,2023-06-26 08:21:00,False,['+7569552729'],True,True,7,page_5,76
+conv_492,user_167,John Miller,FFoSM@outlook.com,msg_7034,Support request,INBOX,2023-10-09 20:02:00,False,['+1157014702'],True,False,65,page_82,64
+conv_493,user_785,Emily Smith,ddZTn@outlook.com,msg_3067,Inquiry,INBOX,2023-03-29 13:19:00,True,[None],False,True,94,page_45,479
+conv_494,user_966,Emily Miller,fAWiM@gmail.com,msg_4142,Hello,RATING,2023-12-06 20:12:00,True,['+4735095386'],True,False,37,page_62,377
+conv_495,user_397,Charlie Garcia,FedMf@yahoo.com,msg_2818,Feedback,RATING,2023-12-02 09:35:00,True,[None],False,True,94,page_96,857
+conv_496,user_424,Charlie Brown,yOvdH@gmail.com,msg_8748,Need help,INBOX,2023-03-25 11:52:00,False,['+6080000628'],True,True,92,page_10,211
+conv_497,user_393,Jane Jones,TfEGj@outlook.com,msg_5777,Inquiry,COMMENT,2023-04-24 03:03:00,True,[None],False,True,75,page_93,830
+conv_498,user_446,Emily Johnson,TssMd@outlook.com,msg_4639,Hello,INBOX,2023-12-09 09:49:00,False,['+6262619106'],True,False,18,page_98,397
+conv_499,user_100,Emily Williams,wQdWp@outlook.com,msg_498,Hello,INBOX,2023-02-13 18:45:00,False,['+1100697542'],False,False,55,page_38,21
+conv_500,user_785,John Miller,EyEOG@yahoo.com,msg_432,Need help,RATING,2023-01-22 12:42:00,True,['+7098047449'],True,True,93,page_71,206
+conv_501,user_421,Jane Garcia,OcDTw@gmail.com,msg_6423,Support request,RATING,2023-10-23 05:49:00,True,[None],False,True,25,page_8,23
+conv_502,user_110,Emily Smith,jvwEa@gmail.com,msg_8291,Need help,RATING,2023-07-19 20:22:00,False,['+6194019742'],True,False,59,page_97,383
+conv_503,user_110,Charlie Brown,zlIox@gmail.com,msg_6572,Inquiry,RATING,2023-05-20 19:30:00,True,['+2352748031'],True,True,9,page_78,224
+conv_504,user_588,Sophia Jones,OmPGx@outlook.com,msg_6262,Hello,COMMENT,2023-10-06 15:36:00,True,[None],False,True,80,page_2,626
+conv_505,user_218,David Smith,XCsjF@outlook.com,msg_1369,Feedback,COMMENT,2023-11-23 23:52:00,False,['+7759604466'],False,False,80,page_95,299
+conv_506,user_319,Alice Williams,vniFU@outlook.com,msg_8598,Hello,COMMENT,2023-02-19 05:10:00,False,[None],True,False,36,page_79,176
+conv_507,user_184,Alice Williams,RTHVf@outlook.com,msg_4718,Inquiry,RATING,2023-09-18 18:12:00,False,[None],False,False,57,page_58,63
+conv_508,user_453,Sophia Brown,lQupP@outlook.com,msg_8208,Need help,COMMENT,2023-02-12 23:35:00,False,[None],False,False,68,page_29,309
+conv_509,user_895,Sophia Williams,wRLoe@gmail.com,msg_6379,Feedback,COMMENT,2023-05-27 11:55:00,True,['+1363776552'],True,False,1,page_16,570
+conv_510,user_321,Alice Johnson,kIHkh@gmail.com,msg_3765,Need help,RATING,2023-10-27 06:59:00,False,['+7048969887'],True,False,85,page_80,212
+conv_511,user_413,Alice Miller,XoFFP@gmail.com,msg_4254,Inquiry,INBOX,2023-02-25 18:18:00,False,['+7245259478'],False,False,43,page_38,664
+conv_512,user_671,Jane Garcia,aXvPG@gmail.com,msg_9516,Need help,COMMENT,2023-07-12 06:48:00,False,['+6664968572'],False,True,6,page_69,417
+conv_513,user_780,Jane Brown,YPUtk@gmail.com,msg_3362,Hello,COMMENT,2023-04-17 00:44:00,False,[None],False,True,19,page_94,619
+conv_514,user_579,Jane Brown,lLsIm@outlook.com,msg_9018,Feedback,INBOX,2023-01-27 12:22:00,False,['+2722245996'],True,True,32,page_73,161
+conv_515,user_705,Bob Davis,TGIBB@outlook.com,msg_9246,Need help,RATING,2023-03-01 09:59:00,False,[None],True,False,48,page_52,441
+conv_516,user_604,Charlie Brown,IjhKW@yahoo.com,msg_5624,Need help,INBOX,2023-06-07 16:28:00,True,['+7309529102'],True,False,78,page_64,220
+conv_517,user_41,Jane Williams,FXmPK@gmail.com,msg_8536,Feedback,COMMENT,2023-02-16 17:31:00,True,['+7707724137'],True,True,47,page_86,465
+conv_518,user_535,Sophia Davis,EfpRc@outlook.com,msg_5210,Inquiry,COMMENT,2023-11-03 20:17:00,False,['+1256071019'],True,False,54,page_28,28
+conv_519,user_559,Emily Miller,VKEMs@yahoo.com,msg_2622,Need help,INBOX,2023-02-26 01:48:00,False,['+2586607008'],True,False,44,page_71,22
+conv_520,user_909,Bob Garcia,ltjWb@outlook.com,msg_4447,Feedback,INBOX,2023-12-23 22:26:00,True,['+7359018879'],True,True,90,page_58,35
+conv_521,user_626,John Johnson,yMOLM@yahoo.com,msg_8109,Inquiry,RATING,2023-08-17 08:58:00,False,['+5802219670'],True,True,87,page_92,38
+conv_522,user_4,David Davis,mGwLg@yahoo.com,msg_8593,Need help,RATING,2023-08-04 05:07:00,True,[None],True,True,15,page_84,486
+conv_523,user_223,Sophia Johnson,eJobO@yahoo.com,msg_3770,Inquiry,COMMENT,2023-01-14 17:02:00,False,[None],True,True,82,page_80,747
+conv_524,user_170,John Davis,KlRbX@yahoo.com,msg_1412,Feedback,INBOX,2023-05-06 13:50:00,True,['+8433311897'],False,True,96,page_2,909
+conv_525,user_936,David Smith,zWoSU@yahoo.com,msg_8322,Inquiry,INBOX,2023-08-28 20:55:00,False,[None],False,False,39,page_11,335
+conv_526,user_291,John Davis,QEycn@gmail.com,msg_8349,Feedback,RATING,2023-05-11 10:32:00,False,['+2224399689'],True,True,93,page_19,433
+conv_527,user_728,Sophia Jones,XnAzG@outlook.com,msg_1385,Feedback,INBOX,2023-09-07 16:04:00,False,['+9598511303'],False,False,5,page_82,42
+conv_528,user_27,Sophia Davis,YnHJI@yahoo.com,msg_3326,Feedback,INBOX,2023-07-01 11:31:00,False,['+3005578006'],True,True,23,page_97,592
+conv_529,user_654,Charlie Davis,bqzQi@outlook.com,msg_9999,Support request,COMMENT,2023-11-11 10:30:00,False,[None],True,True,9,page_74,957
+conv_530,user_355,Emily Brown,alTLj@outlook.com,msg_2672,Need help,RATING,2023-08-21 17:12:00,False,[None],True,False,100,page_30,950
+conv_531,user_465,Bob Smith,PHmXp@outlook.com,msg_7727,Inquiry,COMMENT,2023-02-10 22:51:00,True,[None],False,True,70,page_39,394
+conv_532,user_508,Emily Johnson,cQwGY@yahoo.com,msg_9886,Feedback,RATING,2023-02-03 12:00:00,False,[None],False,True,40,page_32,23
+conv_533,user_160,Emily Smith,tOAkM@yahoo.com,msg_1890,Hello,COMMENT,2023-05-29 02:32:00,True,[None],True,False,69,page_80,106
+conv_534,user_57,Emily Davis,TGuGz@gmail.com,msg_7794,Support request,RATING,2023-08-19 11:20:00,False,[None],True,True,95,page_4,173
+conv_535,user_352,Jane Miller,jAmnX@yahoo.com,msg_632,Inquiry,INBOX,2023-03-31 14:38:00,False,[None],True,True,51,page_52,885
+conv_536,user_485,Jane Jones,TjkkC@gmail.com,msg_7962,Need help,RATING,2023-03-10 10:36:00,False,['+9818524092'],True,True,59,page_19,703
+conv_537,user_662,Bob Garcia,YSiLp@gmail.com,msg_4584,Hello,COMMENT,2023-12-21 01:32:00,False,['+1161398054'],True,True,6,page_54,682
+conv_538,user_832,Charlie Johnson,JLYKD@outlook.com,msg_6156,Inquiry,RATING,2023-11-04 12:57:00,False,['+8514086478'],False,True,89,page_71,429
+conv_539,user_495,Alice Johnson,whSTr@yahoo.com,msg_3341,Need help,COMMENT,2023-09-03 23:38:00,True,['+6800829453'],True,True,44,page_39,358
+conv_540,user_642,Bob Smith,vQmGH@gmail.com,msg_2343,Inquiry,RATING,2023-01-17 01:59:00,True,[None],False,False,79,page_69,468
+conv_541,user_535,John Brown,wFEdV@gmail.com,msg_4109,Inquiry,COMMENT,2023-06-08 14:33:00,True,['+4642346927'],True,False,1,page_80,90
+conv_542,user_829,Alice Smith,vlhYU@gmail.com,msg_7048,Inquiry,RATING,2023-10-01 05:02:00,False,['+1798073856'],False,False,23,page_3,967
+conv_543,user_780,Emily Smith,JzItZ@yahoo.com,msg_8848,Hello,COMMENT,2023-02-20 09:16:00,False,['+1761902449'],False,True,76,page_86,729
+conv_544,user_962,Bob Johnson,khTRy@gmail.com,msg_7906,Support request,INBOX,2023-04-26 09:59:00,False,[None],False,True,4,page_43,300
+conv_545,user_61,Jane Miller,WlzJk@yahoo.com,msg_9595,Support request,INBOX,2023-08-18 19:19:00,False,['+9039395388'],False,False,72,page_10,480
+conv_546,user_253,John Smith,NXqLP@outlook.com,msg_7512,Need help,RATING,2023-07-13 07:06:00,False,[None],False,False,84,page_32,19
+conv_547,user_59,John Smith,yczBr@yahoo.com,msg_4045,Hello,INBOX,2023-11-11 00:43:00,False,[None],False,True,78,page_3,368
+conv_548,user_969,Sophia Brown,ZRZlJ@gmail.com,msg_1147,Need help,INBOX,2023-10-13 06:40:00,False,[None],False,False,50,page_79,771
+conv_549,user_343,Sophia Jones,gtrDQ@yahoo.com,msg_8228,Feedback,COMMENT,2023-06-16 03:29:00,False,[None],True,False,85,page_1,987
+conv_550,user_21,Emily Smith,nNkOL@gmail.com,msg_7512,Inquiry,INBOX,2023-05-13 16:58:00,False,['+1234694145'],False,True,24,page_69,787
+conv_551,user_759,Alice Davis,HRzLe@yahoo.com,msg_7009,Hello,RATING,2023-07-15 09:25:00,True,[None],False,True,57,page_29,35
+conv_552,user_243,Jane Johnson,MAkWc@yahoo.com,msg_9158,Support request,RATING,2023-03-23 13:28:00,True,['+6204892641'],True,False,1,page_76,93
+conv_553,user_170,Charlie Smith,XxoNf@outlook.com,msg_2698,Need help,COMMENT,2023-04-22 06:18:00,True,['+9073501568'],True,True,12,page_77,100
+conv_554,user_331,Sophia Johnson,qHzjD@outlook.com,msg_5878,Support request,COMMENT,2023-11-22 16:21:00,False,[None],False,True,13,page_91,393
+conv_555,user_856,John Smith,UzFAL@outlook.com,msg_1312,Inquiry,INBOX,2023-04-29 11:14:00,False,[None],True,False,16,page_82,974
+conv_556,user_632,Emily Miller,hKnDq@outlook.com,msg_1096,Inquiry,RATING,2023-04-18 04:58:00,False,['+6435023266'],True,False,35,page_66,234
+conv_557,user_738,Sophia Miller,PkHAD@outlook.com,msg_8432,Support request,INBOX,2023-07-30 02:55:00,True,[None],False,False,61,page_57,702
+conv_558,user_236,Jane Williams,fehYh@outlook.com,msg_1546,Inquiry,INBOX,2023-07-25 15:00:00,False,[None],True,True,24,page_11,187
+conv_559,user_878,David Brown,VCYfv@outlook.com,msg_7305,Need help,RATING,2023-04-06 03:48:00,False,[None],False,False,67,page_24,136
+conv_560,user_314,Alice Davis,YkrjU@gmail.com,msg_6330,Inquiry,RATING,2023-12-02 03:15:00,True,['+7225435835'],True,False,6,page_4,197
+conv_561,user_985,John Miller,NgRUY@outlook.com,msg_3987,Need help,COMMENT,2023-01-28 03:45:00,True,['+9979289632'],False,True,67,page_79,992
+conv_562,user_372,David Davis,UTYGz@yahoo.com,msg_830,Support request,INBOX,2023-01-28 11:04:00,True,[None],True,True,28,page_80,895
+conv_563,user_681,Alice Williams,xUkOf@gmail.com,msg_4649,Hello,RATING,2023-04-11 00:09:00,False,[None],True,True,67,page_83,713
+conv_564,user_734,Jane Garcia,BrjxS@gmail.com,msg_8704,Support request,COMMENT,2023-02-17 14:13:00,False,['+3100087467'],True,False,65,page_55,90
+conv_565,user_407,John Smith,SRAtW@outlook.com,msg_4495,Inquiry,COMMENT,2023-04-05 11:21:00,True,['+7039700719'],True,True,33,page_97,793
+conv_566,user_176,Jane Johnson,cacfp@gmail.com,msg_5019,Inquiry,RATING,2023-02-20 09:37:00,False,['+8811716988'],False,False,75,page_64,868
+conv_567,user_322,Alice Smith,erEsJ@gmail.com,msg_4252,Inquiry,RATING,2023-03-09 07:50:00,False,['+4311535042'],False,True,65,page_49,138
+conv_568,user_998,Jane Miller,tOxGX@yahoo.com,msg_502,Support request,INBOX,2023-11-20 23:49:00,False,[None],True,True,62,page_74,729
+conv_569,user_41,Sophia Johnson,jxjye@gmail.com,msg_6970,Feedback,RATING,2023-10-23 07:27:00,True,[None],False,False,100,page_68,96
+conv_570,user_200,Jane Williams,bqKko@gmail.com,msg_8261,Hello,COMMENT,2023-08-27 20:19:00,True,[None],True,False,59,page_37,641
+conv_571,user_554,Emily Smith,TwMdE@outlook.com,msg_4354,Need help,COMMENT,2023-12-29 19:27:00,False,[None],True,False,38,page_59,575
+conv_572,user_706,Sophia Jones,eObEN@gmail.com,msg_5134,Inquiry,INBOX,2023-10-15 02:01:00,False,['+8884574144'],True,False,43,page_39,875
+conv_573,user_54,Alice Jones,MMwha@outlook.com,msg_6942,Hello,INBOX,2023-11-24 03:02:00,True,['+9449576117'],True,True,39,page_95,105
+conv_574,user_670,David Miller,tUnwj@gmail.com,msg_5650,Inquiry,INBOX,2023-08-11 18:27:00,False,['+4928905678'],True,True,39,page_89,561
+conv_575,user_816,Sophia Brown,OXIOr@outlook.com,msg_7382,Feedback,COMMENT,2023-01-23 10:02:00,True,[None],False,False,15,page_51,777
+conv_576,user_700,Jane Williams,mbzyl@yahoo.com,msg_3557,Support request,RATING,2023-08-08 03:43:00,False,['+8077832211'],False,True,5,page_71,77
+conv_577,user_571,Emily Williams,UPjqW@outlook.com,msg_419,Need help,COMMENT,2023-03-07 05:23:00,False,[None],False,False,57,page_28,324
+conv_578,user_323,Alice Johnson,xYYGz@gmail.com,msg_5612,Need help,INBOX,2023-06-10 22:35:00,True,[None],True,False,57,page_88,160
+conv_579,user_103,Emily Brown,llvJH@yahoo.com,msg_8176,Hello,COMMENT,2023-05-11 08:23:00,True,[None],False,False,33,page_47,517
+conv_580,user_85,David Smith,rJnAX@yahoo.com,msg_9025,Support request,COMMENT,2023-03-02 18:30:00,False,[None],False,False,5,page_80,927
+conv_581,user_654,John Brown,fHHNn@gmail.com,msg_6050,Feedback,INBOX,2023-03-30 09:37:00,False,['+6847577366'],False,True,90,page_19,1000
+conv_582,user_389,Alice Johnson,NDZwX@outlook.com,msg_7675,Feedback,COMMENT,2023-07-10 19:03:00,True,[None],False,False,36,page_58,40
+conv_583,user_479,Emily Jones,dpJUt@yahoo.com,msg_5095,Need help,COMMENT,2023-05-05 16:51:00,True,['+3506804023'],False,True,1,page_88,285
+conv_584,user_910,Jane Brown,YHnZe@outlook.com,msg_2380,Inquiry,COMMENT,2023-06-08 07:55:00,True,['+8584037242'],True,False,29,page_58,144
+conv_585,user_735,Sophia Garcia,KAMFq@outlook.com,msg_7897,Inquiry,COMMENT,2023-12-31 21:21:00,True,['+6451608347'],True,True,97,page_83,807
+conv_586,user_709,Charlie Garcia,pmDml@gmail.com,msg_5980,Hello,RATING,2023-04-29 15:32:00,True,['+9175948639'],True,False,10,page_61,91
+conv_587,user_890,Bob Davis,KURFD@yahoo.com,msg_5749,Inquiry,COMMENT,2023-12-23 20:53:00,True,[None],True,False,76,page_82,611
+conv_588,user_205,David Davis,WWZZy@outlook.com,msg_954,Need help,RATING,2023-12-19 11:51:00,True,['+4616712353'],False,True,54,page_31,312
+conv_589,user_195,Emily Jones,hrZbu@yahoo.com,msg_7947,Support request,COMMENT,2023-06-23 22:37:00,False,['+9652857925'],True,False,20,page_16,16
+conv_590,user_970,John Davis,ibjns@yahoo.com,msg_2519,Inquiry,COMMENT,2023-02-24 15:10:00,False,[None],False,False,66,page_58,546
+conv_591,user_809,Sophia Jones,zjqKq@yahoo.com,msg_7757,Hello,RATING,2023-11-15 15:18:00,True,[None],True,False,85,page_59,790
+conv_592,user_943,Jane Johnson,AmBhm@outlook.com,msg_2481,Inquiry,INBOX,2023-01-23 22:30:00,True,['+9164897301'],True,True,13,page_93,684
+conv_593,user_159,Jane Williams,WePpU@gmail.com,msg_6621,Feedback,INBOX,2023-01-28 13:34:00,True,[None],False,True,40,page_65,280
+conv_594,user_721,David Davis,NqVaL@gmail.com,msg_4335,Feedback,RATING,2023-08-08 11:54:00,True,['+7051593230'],True,True,99,page_45,506
+conv_595,user_65,David Johnson,nCzjo@yahoo.com,msg_5709,Inquiry,COMMENT,2023-01-22 22:01:00,True,[None],True,True,79,page_82,274
+conv_596,user_797,Charlie Miller,vzdKD@outlook.com,msg_5003,Feedback,RATING,2023-01-28 03:30:00,False,['+2334939637'],True,True,60,page_78,499
+conv_597,user_727,John Johnson,uAFXb@yahoo.com,msg_8540,Need help,COMMENT,2023-03-03 15:20:00,True,['+8488490728'],False,False,34,page_60,160
+conv_598,user_870,Emily Brown,yJMYf@outlook.com,msg_4469,Need help,INBOX,2023-05-30 18:39:00,False,[None],False,False,36,page_53,152
+conv_599,user_689,Bob Williams,QxbqH@yahoo.com,msg_3366,Need help,RATING,2023-09-09 18:12:00,False,[None],False,False,96,page_58,403
+conv_600,user_664,Alice Garcia,mvlQb@yahoo.com,msg_7362,Need help,RATING,2023-10-16 21:01:00,True,[None],False,True,78,page_56,805
+conv_601,user_884,David Jones,ANBtV@gmail.com,msg_6763,Feedback,RATING,2023-07-23 11:42:00,True,[None],True,False,72,page_80,102
+conv_602,user_646,Charlie Jones,kfDFt@gmail.com,msg_8986,Support request,INBOX,2023-06-07 20:22:00,False,[None],True,False,59,page_82,430
+conv_603,user_251,Sophia Miller,PrrcO@outlook.com,msg_9417,Hello,RATING,2023-03-28 13:03:00,False,[None],True,False,25,page_97,747
+conv_604,user_135,Emily Miller,NaOmj@yahoo.com,msg_864,Hello,INBOX,2023-08-30 17:11:00,True,[None],False,False,20,page_92,785
+conv_605,user_521,Bob Brown,lyrLB@yahoo.com,msg_3158,Feedback,RATING,2023-05-27 01:06:00,False,['+4171651166'],False,True,55,page_67,446
+conv_606,user_663,David Jones,ECnDK@yahoo.com,msg_7282,Inquiry,RATING,2023-02-21 19:44:00,False,['+6864955884'],True,False,16,page_62,994
+conv_607,user_607,Jane Garcia,ZMDBF@outlook.com,msg_2188,Inquiry,COMMENT,2024-01-01 17:45:00,True,[None],False,False,6,page_42,855
+conv_608,user_271,Sophia Smith,VCHxr@gmail.com,msg_4968,Hello,COMMENT,2023-10-06 16:33:00,False,['+8152288373'],True,True,60,page_2,965
+conv_609,user_595,John Miller,Udzqh@gmail.com,msg_2447,Hello,INBOX,2023-05-25 05:36:00,True,['+9730163538'],False,True,9,page_2,101
+conv_610,user_261,Bob Davis,UkKWe@gmail.com,msg_4667,Support request,INBOX,2023-12-16 10:26:00,True,[None],False,True,88,page_64,248
+conv_611,user_199,Emily Davis,MoNaG@gmail.com,msg_8128,Feedback,INBOX,2023-01-25 02:31:00,False,['+2205345445'],True,False,70,page_1,481
+conv_612,user_768,Jane Williams,IlIvL@gmail.com,msg_7330,Need help,COMMENT,2023-04-09 02:36:00,True,[None],True,False,72,page_92,773
+conv_613,user_389,John Garcia,MSeKo@gmail.com,msg_1803,Support request,INBOX,2023-12-03 05:35:00,True,['+4688198596'],False,False,35,page_86,107
+conv_614,user_706,Jane Miller,JiIhV@gmail.com,msg_5275,Need help,INBOX,2023-04-08 08:00:00,True,['+1182787131'],True,True,61,page_31,319
+conv_615,user_210,Bob Williams,yYBCw@yahoo.com,msg_5394,Feedback,RATING,2023-08-06 04:55:00,False,[None],False,False,52,page_84,472
+conv_616,user_906,Emily Johnson,imOPQ@outlook.com,msg_9631,Need help,RATING,2023-03-02 07:08:00,False,['+6594667971'],False,False,30,page_17,945
+conv_617,user_551,Alice Brown,ePrHs@yahoo.com,msg_3892,Feedback,RATING,2023-02-23 01:57:00,False,[None],True,True,75,page_69,886
+conv_618,user_357,David Davis,CQnzt@yahoo.com,msg_7012,Hello,RATING,2023-06-09 05:05:00,False,['+1812461849'],False,False,38,page_36,603
+conv_619,user_600,Sophia Johnson,cRtjs@gmail.com,msg_4608,Need help,INBOX,2023-07-14 07:17:00,False,['+5366854690'],True,True,34,page_31,922
+conv_620,user_319,John Smith,SkBOm@yahoo.com,msg_820,Support request,COMMENT,2023-01-11 09:38:00,False,['+9130108497'],False,False,76,page_85,365
+conv_621,user_131,John Davis,nsmWx@outlook.com,msg_6856,Inquiry,INBOX,2023-03-17 13:57:00,False,[None],True,False,37,page_12,407
+conv_622,user_815,John Brown,hBByW@yahoo.com,msg_7925,Need help,COMMENT,2023-04-22 00:40:00,True,['+2586866737'],False,True,87,page_79,72
+conv_623,user_667,Alice Brown,CUsMO@gmail.com,msg_4860,Support request,RATING,2023-08-23 08:28:00,True,[None],True,False,46,page_21,356
+conv_624,user_654,Bob Garcia,iTTPF@gmail.com,msg_4780,Support request,INBOX,2023-08-18 20:19:00,True,['+3476313888'],True,False,31,page_3,578
+conv_625,user_300,Bob Garcia,VBwpm@yahoo.com,msg_1312,Hello,INBOX,2023-07-17 09:00:00,False,[None],True,False,42,page_70,823
+conv_626,user_987,David Brown,izcxV@yahoo.com,msg_8758,Support request,COMMENT,2023-07-26 20:57:00,True,[None],False,False,84,page_82,270
+conv_627,user_811,John Jones,vbdTo@yahoo.com,msg_8005,Hello,COMMENT,2023-07-25 05:12:00,True,[None],False,False,27,page_99,216
+conv_628,user_115,Alice Johnson,rjzgg@gmail.com,msg_6671,Support request,COMMENT,2023-09-23 18:35:00,True,['+6295485070'],True,False,50,page_32,433
+conv_629,user_988,John Williams,GiYpW@yahoo.com,msg_7783,Need help,INBOX,2023-05-27 06:24:00,True,[None],True,True,2,page_56,847
+conv_630,user_648,Jane Miller,DzzoL@gmail.com,msg_4839,Support request,INBOX,2023-11-25 06:37:00,False,['+9292032079'],False,False,39,page_46,8
+conv_631,user_548,Emily Jones,uFLQY@outlook.com,msg_34,Inquiry,INBOX,2023-08-09 05:23:00,True,['+5660233489'],True,False,25,page_31,595
+conv_632,user_206,John Davis,Hlccb@yahoo.com,msg_7780,Inquiry,RATING,2023-12-24 22:21:00,True,[None],True,True,14,page_50,693
+conv_633,user_567,Sophia Miller,DUibC@outlook.com,msg_7517,Hello,COMMENT,2023-10-30 07:35:00,False,['+1892185170'],True,True,57,page_18,666
+conv_634,user_114,Emily Williams,IIHIl@outlook.com,msg_17,Hello,INBOX,2023-06-16 15:49:00,True,['+1159660772'],False,True,38,page_9,198
+conv_635,user_277,Bob Garcia,CLgTX@outlook.com,msg_2198,Support request,INBOX,2023-07-22 16:56:00,True,[None],False,True,35,page_78,137
+conv_636,user_219,Charlie Brown,qPWWb@yahoo.com,msg_8819,Hello,INBOX,2023-05-14 23:25:00,False,[None],True,True,53,page_79,925
+conv_637,user_533,Bob Jones,WzWbX@yahoo.com,msg_2464,Inquiry,INBOX,2023-04-18 11:17:00,False,['+6321058183'],False,False,98,page_89,768
+conv_638,user_258,Jane Williams,ihwKQ@yahoo.com,msg_9486,Need help,INBOX,2023-07-08 04:15:00,True,['+7594487606'],True,True,53,page_91,189
+conv_639,user_500,Sophia Davis,QfbOq@yahoo.com,msg_6914,Inquiry,INBOX,2023-09-14 11:30:00,False,[None],True,False,79,page_65,236
+conv_640,user_282,Bob Davis,HjfPc@yahoo.com,msg_8622,Feedback,INBOX,2023-10-29 20:04:00,True,[None],True,False,78,page_65,383
+conv_641,user_4,Emily Brown,JlxyU@gmail.com,msg_9478,Hello,INBOX,2023-09-30 12:34:00,True,[None],False,True,60,page_1,718
+conv_642,user_605,Emily Miller,PFUzn@outlook.com,msg_9212,Need help,COMMENT,2023-04-16 12:11:00,True,['+5256678988'],True,False,56,page_86,546
+conv_643,user_745,Emily Miller,NlNKM@outlook.com,msg_8666,Inquiry,COMMENT,2023-12-31 17:09:00,True,['+9287108761'],True,False,92,page_92,415
+conv_644,user_889,John Johnson,coaJn@gmail.com,msg_6138,Hello,INBOX,2023-01-19 13:42:00,False,['+7124926141'],True,True,55,page_78,320
+conv_645,user_431,Emily Williams,TnFMF@yahoo.com,msg_2359,Support request,RATING,2023-02-11 20:48:00,False,[None],True,False,0,page_79,888
+conv_646,user_47,Sophia Williams,jVwRf@outlook.com,msg_9222,Need help,RATING,2023-12-03 14:57:00,True,['+9098108909'],False,False,74,page_35,945
+conv_647,user_102,Jane Jones,KeJCu@yahoo.com,msg_1222,Feedback,INBOX,2023-03-22 22:03:00,False,[None],True,True,83,page_27,230
+conv_648,user_975,Sophia Johnson,SRJQp@gmail.com,msg_118,Hello,COMMENT,2023-08-17 04:03:00,True,[None],False,True,85,page_56,926
+conv_649,user_588,Jane Johnson,ulsLx@outlook.com,msg_4140,Inquiry,RATING,2023-04-25 11:30:00,True,[None],False,False,97,page_70,943
+conv_650,user_743,Alice Johnson,NFZTB@outlook.com,msg_8142,Inquiry,RATING,2024-01-01 01:18:00,False,['+7933320445'],False,False,26,page_92,445
+conv_651,user_397,Sophia Miller,etsAd@outlook.com,msg_5533,Feedback,INBOX,2023-12-01 12:14:00,True,['+6010199988'],False,True,84,page_1,621
+conv_652,user_422,Alice Miller,NfMyg@yahoo.com,msg_7104,Inquiry,COMMENT,2023-05-12 08:40:00,True,['+4328864693'],True,True,29,page_19,313
+conv_653,user_205,David Davis,wYqFy@yahoo.com,msg_9409,Support request,INBOX,2023-02-22 06:41:00,True,['+5167669684'],True,False,22,page_91,772
+conv_654,user_817,Alice Williams,jMGog@gmail.com,msg_5911,Need help,INBOX,2023-04-21 15:57:00,True,['+7655335340'],True,False,93,page_76,621
+conv_655,user_126,Bob Williams,OrcuQ@outlook.com,msg_7433,Support request,COMMENT,2023-05-28 03:50:00,True,[None],True,True,35,page_5,622
+conv_656,user_576,David Williams,BGrmL@gmail.com,msg_9125,Need help,INBOX,2023-04-20 00:25:00,False,['+6899578337'],False,True,38,page_72,605
+conv_657,user_852,Alice Smith,lJfWo@outlook.com,msg_2836,Support request,INBOX,2023-05-15 10:52:00,False,[None],True,True,46,page_5,749
+conv_658,user_245,Bob Jones,KoSQR@outlook.com,msg_3244,Hello,INBOX,2023-07-16 10:16:00,True,['+9182556532'],False,False,0,page_41,99
+conv_659,user_406,Sophia Davis,yuRvq@yahoo.com,msg_8546,Inquiry,COMMENT,2023-12-07 18:48:00,True,[None],True,False,61,page_5,847
+conv_660,user_295,Bob Davis,xHBie@gmail.com,msg_1255,Need help,INBOX,2023-04-15 08:51:00,False,['+8807424865'],False,False,45,page_95,8
+conv_661,user_465,John Miller,ZNlcE@gmail.com,msg_9936,Inquiry,INBOX,2023-05-31 02:56:00,False,['+5659293693'],False,True,86,page_76,523
+conv_662,user_265,Alice Garcia,jJyzO@gmail.com,msg_2880,Inquiry,RATING,2023-08-30 06:04:00,True,['+8884949821'],True,False,81,page_15,490
+conv_663,user_760,Charlie Brown,erpGM@gmail.com,msg_4407,Need help,COMMENT,2023-07-01 22:26:00,True,[None],True,False,81,page_99,100
+conv_664,user_421,Jane Garcia,OmPjs@outlook.com,msg_2955,Inquiry,RATING,2023-02-18 03:08:00,True,[None],True,True,5,page_66,621
+conv_665,user_935,John Davis,efXSw@yahoo.com,msg_9040,Need help,INBOX,2023-03-20 07:48:00,True,['+7888501191'],False,False,55,page_84,730
+conv_666,user_181,Charlie Johnson,jnFDm@yahoo.com,msg_513,Feedback,RATING,2023-06-24 04:51:00,False,[None],False,True,25,page_68,816
+conv_667,user_127,Sophia Davis,gVVww@gmail.com,msg_310,Hello,COMMENT,2023-02-03 04:11:00,False,['+5905591114'],False,True,75,page_59,844
+conv_668,user_989,John Smith,sQbrt@outlook.com,msg_3269,Need help,INBOX,2023-01-09 09:32:00,True,[None],True,True,45,page_54,693
+conv_669,user_765,Bob Garcia,AElgN@yahoo.com,msg_3115,Hello,COMMENT,2023-12-04 22:57:00,True,['+9743107369'],False,True,59,page_93,899
+conv_670,user_772,Bob Brown,DxYdG@yahoo.com,msg_5466,Hello,RATING,2023-07-31 00:40:00,False,[None],True,True,52,page_8,743
+conv_671,user_626,Emily Brown,mKEUI@gmail.com,msg_5999,Need help,INBOX,2023-05-26 04:17:00,True,['+8953116473'],True,True,38,page_71,907
+conv_672,user_549,Sophia Jones,sIKdJ@outlook.com,msg_6464,Inquiry,INBOX,2023-10-19 04:10:00,True,['+1277322719'],True,False,22,page_78,533
+conv_673,user_171,John Jones,OtAHe@yahoo.com,msg_3574,Support request,RATING,2023-05-13 11:18:00,False,['+8911131809'],False,True,42,page_92,844
+conv_674,user_573,Alice Miller,lsfPa@yahoo.com,msg_2680,Support request,INBOX,2023-09-07 23:29:00,True,[None],True,True,34,page_58,546
+conv_675,user_660,Jane Miller,cXMwO@gmail.com,msg_2706,Hello,INBOX,2023-11-14 02:28:00,False,[None],True,False,76,page_37,761
+conv_676,user_813,Bob Williams,EhLDH@gmail.com,msg_4098,Need help,RATING,2023-05-30 17:16:00,False,[None],True,True,97,page_89,18
+conv_677,user_449,Bob Miller,Gflza@gmail.com,msg_219,Support request,INBOX,2023-02-02 05:31:00,False,[None],False,False,92,page_29,369
+conv_678,user_107,David Miller,mAFOE@gmail.com,msg_3450,Need help,INBOX,2023-06-07 06:48:00,True,['+4633884144'],True,True,79,page_71,955
+conv_679,user_833,Emily Garcia,uelMv@outlook.com,msg_6097,Hello,COMMENT,2023-04-11 17:11:00,False,['+6304503268'],True,False,55,page_8,260
+conv_680,user_608,David Johnson,hDjKE@gmail.com,msg_1302,Feedback,COMMENT,2023-04-26 08:37:00,False,['+2698713294'],True,True,36,page_13,112
+conv_681,user_613,Jane Garcia,DIHyX@yahoo.com,msg_6349,Support request,RATING,2023-10-01 16:45:00,True,['+2501556191'],True,False,15,page_89,768
+conv_682,user_929,Sophia Davis,uTnAE@gmail.com,msg_3547,Inquiry,INBOX,2023-12-25 12:06:00,True,['+5998299946'],True,True,87,page_66,150
+conv_683,user_879,David Brown,VaeoI@outlook.com,msg_2737,Need help,COMMENT,2023-09-08 19:42:00,True,['+4958249288'],True,True,71,page_80,666
+conv_684,user_319,Emily Garcia,TOxRE@yahoo.com,msg_4822,Support request,INBOX,2023-11-27 09:56:00,False,[None],False,True,97,page_91,143
+conv_685,user_26,Bob Williams,zmZML@outlook.com,msg_6917,Hello,RATING,2023-11-13 23:09:00,False,[None],True,True,99,page_91,146
+conv_686,user_665,David Davis,KNFKD@outlook.com,msg_3247,Inquiry,COMMENT,2023-11-30 22:45:00,True,['+7091173896'],True,False,64,page_5,118
+conv_687,user_631,John Brown,SHOlV@yahoo.com,msg_67,Feedback,COMMENT,2023-03-09 13:55:00,False,[None],False,True,45,page_11,276
+conv_688,user_125,Jane Brown,eFsSt@gmail.com,msg_4436,Inquiry,COMMENT,2023-09-28 23:50:00,True,['+3424045965'],False,True,39,page_35,216
+conv_689,user_60,David Garcia,HRpJX@outlook.com,msg_8748,Inquiry,INBOX,2023-05-14 11:55:00,True,['+8286642237'],True,True,50,page_38,237
+conv_690,user_397,Sophia Garcia,Sfbur@yahoo.com,msg_9615,Hello,RATING,2023-11-20 15:10:00,True,[None],True,True,95,page_94,670
+conv_691,user_109,David Davis,nbQfE@outlook.com,msg_1781,Inquiry,RATING,2023-11-08 18:29:00,False,['+6865848850'],False,False,24,page_11,543
+conv_692,user_337,Emily Garcia,fTXgt@yahoo.com,msg_4024,Hello,INBOX,2023-09-03 03:03:00,False,['+6889163358'],True,True,83,page_50,460
+conv_693,user_430,Sophia Smith,zHNku@outlook.com,msg_4393,Feedback,INBOX,2023-07-01 08:01:00,False,[None],False,False,30,page_91,881
+conv_694,user_112,Jane Davis,sLgNB@outlook.com,msg_937,Inquiry,INBOX,2023-01-03 08:23:00,True,[None],True,False,12,page_56,802
+conv_695,user_840,John Williams,lQFlS@yahoo.com,msg_8081,Inquiry,COMMENT,2023-07-14 21:42:00,False,['+5932960945'],False,False,3,page_26,14
+conv_696,user_252,David Davis,Nxapd@outlook.com,msg_2209,Hello,RATING,2023-12-09 19:08:00,True,['+3778059784'],True,True,75,page_42,971
+conv_697,user_282,Bob Johnson,SowCS@outlook.com,msg_4503,Support request,RATING,2023-12-13 17:44:00,False,[None],False,False,68,page_43,58
+conv_698,user_213,John Smith,PUpzE@outlook.com,msg_4351,Hello,INBOX,2023-02-27 13:28:00,False,[None],True,True,62,page_46,292
+conv_699,user_788,Charlie Davis,jLguZ@gmail.com,msg_2356,Need help,RATING,2023-10-23 17:17:00,False,[None],False,False,36,page_66,727
+conv_700,user_142,Sophia Williams,aGISc@yahoo.com,msg_8774,Need help,RATING,2023-07-17 07:27:00,True,['+9605259193'],False,True,75,page_88,3
+conv_701,user_346,Alice Brown,ekQIJ@outlook.com,msg_9141,Feedback,INBOX,2023-07-15 11:42:00,True,[None],False,True,32,page_41,509
+conv_702,user_526,Bob Garcia,SDdfm@outlook.com,msg_9893,Need help,COMMENT,2023-12-02 04:08:00,True,['+6444733377'],True,False,68,page_63,573
+conv_703,user_554,Charlie Miller,azUdZ@gmail.com,msg_4406,Hello,RATING,2023-07-04 21:52:00,False,[None],False,False,35,page_3,41
+conv_704,user_59,Jane Williams,oFGnv@outlook.com,msg_6618,Need help,COMMENT,2023-06-19 03:12:00,True,['+1524027442'],False,True,50,page_53,19
+conv_705,user_212,Charlie Brown,eOEjz@outlook.com,msg_7933,Hello,INBOX,2023-12-12 03:12:00,False,['+4794471253'],False,False,54,page_29,769
+conv_706,user_148,Jane Brown,Xnvyf@yahoo.com,msg_7705,Feedback,COMMENT,2023-05-04 04:58:00,True,['+2114572490'],True,True,4,page_16,18
+conv_707,user_230,Jane Smith,bwLax@gmail.com,msg_5648,Inquiry,INBOX,2023-03-27 12:02:00,True,[None],True,True,83,page_77,406
+conv_708,user_156,Charlie Smith,hrdFS@outlook.com,msg_490,Hello,RATING,2023-06-01 06:45:00,True,['+1074503875'],True,True,50,page_80,19
+conv_709,user_941,Charlie Brown,AwsPy@outlook.com,msg_5066,Support request,INBOX,2023-12-02 04:19:00,True,['+6503399883'],False,False,24,page_20,409
+conv_710,user_381,David Williams,QoJpj@gmail.com,msg_664,Inquiry,INBOX,2023-09-14 19:17:00,True,['+2017867214'],False,False,53,page_39,823
+conv_711,user_746,Sophia Davis,lwnuA@gmail.com,msg_9697,Support request,INBOX,2023-09-26 06:40:00,False,[None],False,True,96,page_19,867
+conv_712,user_26,Alice Garcia,mGSpr@yahoo.com,msg_9737,Need help,INBOX,2023-07-16 06:13:00,False,[None],True,True,83,page_92,974
+conv_713,user_427,David Davis,iFvUJ@yahoo.com,msg_2269,Need help,INBOX,2023-06-11 18:49:00,False,[None],False,False,25,page_25,79
+conv_714,user_350,Alice Jones,SVMAF@outlook.com,msg_7860,Feedback,COMMENT,2023-08-15 21:03:00,True,['+9608337821'],False,True,4,page_70,553
+conv_715,user_188,Alice Brown,dckSr@outlook.com,msg_9453,Inquiry,INBOX,2023-10-27 15:49:00,False,[None],True,True,71,page_44,995
+conv_716,user_911,Emily Garcia,kfWNC@outlook.com,msg_4277,Support request,INBOX,2023-02-24 23:24:00,False,['+8395262422'],True,True,44,page_13,929
+conv_717,user_165,Jane Garcia,zkgTF@yahoo.com,msg_5188,Need help,RATING,2023-10-23 17:09:00,False,[None],True,True,86,page_44,18
+conv_718,user_64,John Davis,zUduu@gmail.com,msg_4088,Hello,INBOX,2023-06-15 00:29:00,False,['+1948564121'],True,False,100,page_95,451
+conv_719,user_823,Emily Miller,nJOhV@outlook.com,msg_1530,Need help,INBOX,2023-04-13 06:28:00,True,[None],False,True,52,page_27,4
+conv_720,user_71,Jane Brown,TPGHr@gmail.com,msg_8428,Feedback,INBOX,2023-07-26 02:15:00,False,['+8725573501'],True,True,1,page_62,829
+conv_721,user_804,John Jones,TAEXS@yahoo.com,msg_7584,Hello,INBOX,2023-09-14 15:18:00,False,['+5530559888'],False,False,40,page_99,840
+conv_722,user_753,Sophia Miller,igyru@gmail.com,msg_3824,Support request,COMMENT,2023-07-13 20:22:00,True,[None],True,True,34,page_30,647
+conv_723,user_995,David Miller,VNwdw@outlook.com,msg_2125,Inquiry,INBOX,2023-12-02 19:49:00,False,[None],True,False,85,page_35,626
+conv_724,user_815,Charlie Garcia,YfghR@gmail.com,msg_7164,Inquiry,INBOX,2023-12-28 09:19:00,False,['+7438394851'],True,False,33,page_49,642
+conv_725,user_834,John Johnson,iWteJ@yahoo.com,msg_2217,Support request,RATING,2023-07-05 13:58:00,False,['+1698056432'],False,False,41,page_71,364
+conv_726,user_526,Bob Davis,UyGQr@yahoo.com,msg_5254,Feedback,COMMENT,2023-09-14 02:26:00,False,['+9515044307'],False,False,53,page_30,831
+conv_727,user_672,Sophia Miller,fjQFg@gmail.com,msg_3832,Support request,INBOX,2023-05-26 05:01:00,False,['+3470644922'],False,True,8,page_70,54
+conv_728,user_584,David Jones,ajmXu@gmail.com,msg_9593,Feedback,COMMENT,2023-07-31 08:21:00,True,[None],True,False,84,page_10,34
+conv_729,user_687,John Jones,xJrkS@gmail.com,msg_2072,Inquiry,INBOX,2023-04-02 05:36:00,False,['+6733899836'],False,True,93,page_8,41
+conv_730,user_175,Bob Brown,bthux@yahoo.com,msg_1753,Inquiry,RATING,2023-11-24 15:58:00,True,['+5139205129'],True,True,98,page_17,395
+conv_731,user_690,Alice Miller,pVzRL@outlook.com,msg_3242,Inquiry,COMMENT,2023-03-02 05:20:00,False,['+9331708527'],True,True,79,page_75,474
+conv_732,user_541,Alice Jones,jHjxT@yahoo.com,msg_4313,Hello,RATING,2023-05-24 05:54:00,True,[None],True,False,36,page_98,99
+conv_733,user_123,David Smith,fEwoz@outlook.com,msg_3063,Inquiry,RATING,2023-04-28 19:51:00,False,['+4029070944'],False,True,97,page_27,364
+conv_734,user_71,Jane Brown,CBFLP@outlook.com,msg_9836,Feedback,RATING,2023-12-23 21:30:00,False,[None],False,False,70,page_78,788
+conv_735,user_964,Bob Jones,uupNv@yahoo.com,msg_8488,Feedback,RATING,2023-10-30 17:25:00,True,[None],True,False,65,page_7,542
+conv_736,user_93,John Smith,qUkOa@outlook.com,msg_8561,Support request,RATING,2023-04-23 17:55:00,False,['+1532616120'],False,False,89,page_54,732
+conv_737,user_372,Jane Garcia,wEIVY@gmail.com,msg_627,Inquiry,INBOX,2023-05-10 23:51:00,False,[None],False,False,63,page_59,661
+conv_738,user_440,John Brown,KZede@outlook.com,msg_3820,Inquiry,COMMENT,2023-08-23 19:59:00,False,['+3875525001'],True,False,43,page_78,335
+conv_739,user_505,Alice Miller,okiPj@yahoo.com,msg_9029,Support request,COMMENT,2023-10-04 10:24:00,False,['+4047337804'],True,True,79,page_34,341
+conv_740,user_443,David Brown,lNwZV@yahoo.com,msg_7965,Hello,COMMENT,2023-09-16 08:36:00,True,[None],True,True,65,page_27,66
+conv_741,user_865,Jane Johnson,FCWTi@gmail.com,msg_4540,Need help,COMMENT,2023-02-03 17:21:00,False,['+9883090514'],True,False,10,page_95,548
+conv_742,user_831,Charlie Jones,zhyiD@gmail.com,msg_387,Feedback,COMMENT,2023-01-15 10:58:00,False,[None],True,False,12,page_80,160
+conv_743,user_432,Bob Jones,uzVES@gmail.com,msg_8676,Need help,COMMENT,2023-08-27 06:45:00,True,['+2315793378'],True,True,41,page_23,152
+conv_744,user_958,Alice Garcia,leOMh@outlook.com,msg_6489,Inquiry,RATING,2023-10-28 07:36:00,True,['+4747819061'],True,False,82,page_94,55
+conv_745,user_514,David Jones,pREWo@outlook.com,msg_1545,Feedback,COMMENT,2023-08-21 13:05:00,True,['+2410572695'],False,True,79,page_68,941
+conv_746,user_230,Sophia Johnson,gcMAw@yahoo.com,msg_8866,Feedback,INBOX,2023-04-08 21:56:00,True,['+9894371477'],False,True,13,page_93,474
+conv_747,user_889,John Williams,lfgtO@gmail.com,msg_2843,Need help,RATING,2023-01-30 15:01:00,False,['+3728718293'],False,True,54,page_88,496
+conv_748,user_64,Charlie Williams,iRyCU@outlook.com,msg_5877,Need help,INBOX,2023-08-04 10:20:00,True,[None],False,True,72,page_36,43
+conv_749,user_954,John Miller,heJbO@yahoo.com,msg_4292,Feedback,RATING,2023-10-28 05:20:00,False,['+2883049170'],True,False,95,page_77,998
+conv_750,user_599,John Garcia,vcArn@outlook.com,msg_4385,Inquiry,RATING,2023-03-14 23:59:00,True,['+1393701439'],True,False,82,page_16,484
+conv_751,user_832,Alice Brown,FVHFY@gmail.com,msg_9913,Need help,RATING,2023-11-26 12:29:00,False,['+8762192226'],True,False,57,page_86,976
+conv_752,user_640,Bob Garcia,BQMGk@gmail.com,msg_4086,Hello,RATING,2023-01-30 21:17:00,True,[None],True,True,94,page_61,594
+conv_753,user_746,Alice Johnson,rRSSt@gmail.com,msg_9847,Support request,INBOX,2023-11-01 09:14:00,False,['+9052128901'],True,False,22,page_99,804
+conv_754,user_143,Jane Miller,AudvH@yahoo.com,msg_707,Need help,INBOX,2023-10-05 17:02:00,False,[None],True,False,87,page_3,900
+conv_755,user_845,David Davis,nnRCG@outlook.com,msg_675,Hello,INBOX,2023-05-29 12:06:00,False,[None],True,False,30,page_18,485
+conv_756,user_334,Alice Davis,YqVgj@gmail.com,msg_5993,Support request,INBOX,2023-07-23 09:04:00,False,['+2799740137'],True,False,21,page_98,877
+conv_757,user_505,Jane Garcia,ryKTJ@yahoo.com,msg_2718,Need help,INBOX,2023-08-29 05:30:00,False,['+3756672818'],True,True,13,page_44,782
+conv_758,user_624,Jane Jones,sluoC@gmail.com,msg_6411,Feedback,INBOX,2023-03-16 01:45:00,True,[None],True,False,15,page_35,548
+conv_759,user_773,Jane Brown,tytXb@yahoo.com,msg_6441,Need help,COMMENT,2023-04-07 22:00:00,True,['+6872778840'],True,True,95,page_88,14
+conv_760,user_752,David Smith,huAJL@outlook.com,msg_9469,Support request,RATING,2023-12-05 15:39:00,False,['+5432536661'],False,True,46,page_13,49
+conv_761,user_904,Bob Jones,XnAuS@gmail.com,msg_620,Hello,INBOX,2023-04-12 01:38:00,False,['+1959260237'],True,False,85,page_18,32
+conv_762,user_620,Alice Jones,xMACo@outlook.com,msg_3501,Support request,COMMENT,2023-05-10 07:42:00,True,[None],False,False,37,page_88,90
+conv_763,user_861,Charlie Johnson,QkRny@gmail.com,msg_378,Need help,RATING,2023-01-15 04:36:00,True,[None],False,False,65,page_20,31
+conv_764,user_456,John Johnson,qVuUo@gmail.com,msg_9393,Need help,RATING,2023-10-28 15:07:00,True,['+8505089474'],False,False,84,page_2,813
+conv_765,user_155,Jane Garcia,LpDtE@gmail.com,msg_5140,Inquiry,RATING,2023-07-22 18:39:00,True,['+1492282067'],True,False,72,page_44,580
+conv_766,user_482,Charlie Jones,BsjLa@outlook.com,msg_575,Feedback,INBOX,2023-04-15 01:17:00,False,[None],False,True,53,page_44,617
+conv_767,user_854,Bob Williams,zVDIC@outlook.com,msg_1316,Feedback,RATING,2023-03-24 01:36:00,False,['+1033898715'],True,False,6,page_96,666
+conv_768,user_132,Alice Smith,GyqUJ@gmail.com,msg_9207,Inquiry,RATING,2023-11-16 06:11:00,False,['+5955098234'],True,True,39,page_30,966
+conv_769,user_409,Alice Smith,bhPoX@outlook.com,msg_7467,Hello,INBOX,2023-11-16 15:47:00,True,['+1032704162'],True,False,80,page_10,671
+conv_770,user_190,Charlie Davis,IzpCu@yahoo.com,msg_4483,Feedback,COMMENT,2023-12-08 18:41:00,False,[None],False,False,63,page_60,909
+conv_771,user_233,Sophia Smith,rCBGm@yahoo.com,msg_4270,Hello,RATING,2023-05-16 08:55:00,False,['+1423662872'],False,False,88,page_60,329
+conv_772,user_694,Sophia Johnson,cUzqJ@outlook.com,msg_7024,Need help,RATING,2023-06-18 10:45:00,True,['+7955701955'],True,True,45,page_32,919
+conv_773,user_740,John Miller,fmIEB@gmail.com,msg_681,Support request,RATING,2023-10-01 15:03:00,False,[None],True,False,70,page_68,409
+conv_774,user_982,Sophia Smith,sWaZI@gmail.com,msg_7508,Hello,COMMENT,2023-12-01 02:42:00,True,['+7463079878'],False,True,79,page_8,885
+conv_775,user_143,Bob Garcia,TqtBg@yahoo.com,msg_6719,Hello,COMMENT,2023-05-23 17:06:00,False,[None],False,True,13,page_53,734
+conv_776,user_110,Bob Davis,SKsdo@yahoo.com,msg_8725,Feedback,COMMENT,2023-07-31 08:04:00,False,['+9985368108'],True,True,3,page_14,377
+conv_777,user_605,Sophia Williams,DAKab@outlook.com,msg_8448,Inquiry,RATING,2023-06-26 23:27:00,True,['+4498976724'],False,False,74,page_17,783
+conv_778,user_969,Alice Johnson,kYKma@yahoo.com,msg_9895,Need help,RATING,2023-05-21 15:03:00,False,['+2219212358'],False,True,99,page_74,633
+conv_779,user_953,Bob Davis,uwkyf@gmail.com,msg_9776,Hello,INBOX,2023-07-31 12:58:00,True,[None],False,False,26,page_86,130
+conv_780,user_852,John Miller,mQsSp@yahoo.com,msg_9766,Support request,INBOX,2023-04-29 05:42:00,True,[None],False,False,88,page_83,963
+conv_781,user_756,John Williams,lItIG@outlook.com,msg_1136,Need help,RATING,2023-07-06 03:25:00,False,['+2098351673'],True,False,1,page_43,545
+conv_782,user_981,David Brown,rFNZs@gmail.com,msg_6737,Support request,COMMENT,2023-07-12 14:45:00,False,[None],True,True,93,page_49,339
+conv_783,user_648,Jane Jones,kQgmQ@yahoo.com,msg_1120,Inquiry,INBOX,2023-07-15 17:41:00,False,['+8491938994'],True,True,41,page_32,149
+conv_784,user_744,Sophia Smith,wHLuq@gmail.com,msg_8427,Hello,RATING,2023-03-15 16:40:00,True,[None],True,True,94,page_74,901
+conv_785,user_765,Emily Brown,Mipcl@gmail.com,msg_4367,Need help,RATING,2023-01-12 04:35:00,True,['+6131755766'],False,True,3,page_7,66
+conv_786,user_336,Alice Brown,oURlz@gmail.com,msg_7137,Hello,RATING,2023-07-27 22:42:00,False,[None],True,True,31,page_66,30
+conv_787,user_235,Emily Jones,ErpAu@yahoo.com,msg_9257,Inquiry,RATING,2023-10-27 11:09:00,True,[None],True,True,27,page_29,426
+conv_788,user_782,Emily Davis,Bsxsj@outlook.com,msg_6530,Need help,COMMENT,2023-04-08 12:54:00,True,['+6164617092'],True,True,96,page_73,368
+conv_789,user_916,Bob Williams,DqsAx@outlook.com,msg_4903,Feedback,COMMENT,2023-10-08 21:22:00,True,[None],False,True,23,page_82,426
+conv_790,user_518,Emily Miller,uCtbT@gmail.com,msg_6063,Hello,RATING,2023-04-26 17:11:00,False,['+6563680791'],False,True,30,page_56,615
+conv_791,user_44,Alice Williams,ywnxI@gmail.com,msg_9623,Support request,INBOX,2023-10-03 03:29:00,False,['+1872332220'],True,False,6,page_77,815
+conv_792,user_743,Bob Brown,JUIhs@gmail.com,msg_2721,Hello,INBOX,2023-06-26 04:09:00,True,['+4650423187'],True,True,39,page_79,31
+conv_793,user_865,Charlie Garcia,DIcvW@outlook.com,msg_9538,Hello,RATING,2023-03-03 04:10:00,True,['+1430551393'],False,False,93,page_15,775
+conv_794,user_574,Bob Miller,Jiurv@outlook.com,msg_1876,Feedback,RATING,2023-03-16 21:00:00,False,['+7270709384'],True,True,74,page_73,549
+conv_795,user_619,David Williams,WAzfP@gmail.com,msg_6754,Hello,RATING,2023-10-15 13:43:00,True,[None],False,False,34,page_85,424
+conv_796,user_729,Sophia Brown,LdSqm@gmail.com,msg_2730,Hello,COMMENT,2023-05-21 00:18:00,True,['+5809145279'],True,True,31,page_39,266
+conv_797,user_878,Alice Johnson,mbcyV@yahoo.com,msg_8551,Feedback,INBOX,2023-07-19 04:35:00,True,[None],False,False,83,page_92,658
+conv_798,user_173,Jane Davis,axYoN@yahoo.com,msg_1422,Need help,INBOX,2023-07-03 02:50:00,True,['+3666346258'],False,False,4,page_25,995
+conv_799,user_5,Charlie Smith,hZBBJ@yahoo.com,msg_1292,Inquiry,INBOX,2023-01-27 03:08:00,False,[None],True,False,73,page_95,37
+conv_800,user_270,Bob Smith,UkRpz@yahoo.com,msg_1206,Feedback,COMMENT,2023-02-21 10:59:00,False,[None],True,True,60,page_98,182
+conv_801,user_240,Sophia Garcia,OAcCq@outlook.com,msg_6938,Need help,INBOX,2023-03-10 05:10:00,False,[None],True,False,16,page_93,178
+conv_802,user_217,Bob Williams,eRxrl@outlook.com,msg_8518,Support request,RATING,2023-01-06 06:16:00,False,['+2627802942'],False,False,85,page_46,890
+conv_803,user_517,Jane Jones,EsivW@yahoo.com,msg_3429,Hello,INBOX,2023-01-10 21:24:00,False,[None],True,False,68,page_16,619
+conv_804,user_695,Charlie Garcia,glucc@yahoo.com,msg_4614,Inquiry,COMMENT,2023-02-19 06:36:00,True,['+8967450150'],True,False,76,page_49,481
+conv_805,user_137,David Jones,bkiUP@yahoo.com,msg_4570,Need help,COMMENT,2023-12-11 22:41:00,False,[None],False,True,97,page_93,577
+conv_806,user_315,David Smith,nXfZa@yahoo.com,msg_7383,Hello,COMMENT,2023-07-04 17:41:00,True,[None],False,True,95,page_10,23
+conv_807,user_512,Emily Smith,GiKKo@yahoo.com,msg_5090,Inquiry,RATING,2023-09-21 23:10:00,True,[None],True,False,73,page_99,307
+conv_808,user_387,Emily Brown,SUjBG@yahoo.com,msg_6676,Inquiry,INBOX,2023-06-16 14:06:00,False,[None],True,False,45,page_86,132
+conv_809,user_844,Alice Garcia,jSouu@outlook.com,msg_3325,Hello,RATING,2023-04-05 17:38:00,False,['+6833049420'],True,False,99,page_24,115
+conv_810,user_813,Bob Davis,GLLgf@gmail.com,msg_834,Support request,INBOX,2023-10-14 13:15:00,True,['+9426727165'],False,False,95,page_81,318
+conv_811,user_605,John Miller,mPvAV@outlook.com,msg_1763,Need help,COMMENT,2023-01-10 09:03:00,True,[None],False,True,0,page_8,575
+conv_812,user_548,Bob Smith,XXDOO@outlook.com,msg_4048,Need help,INBOX,2023-06-25 02:45:00,False,['+8291000781'],False,True,18,page_44,872
+conv_813,user_613,Bob Smith,NcfuK@gmail.com,msg_1034,Inquiry,COMMENT,2023-11-11 19:19:00,False,['+7225180859'],True,False,93,page_44,379
+conv_814,user_471,Emily Davis,VoCTS@gmail.com,msg_5213,Need help,INBOX,2023-09-09 16:28:00,False,[None],True,True,79,page_38,744
+conv_815,user_891,Emily Miller,XHois@yahoo.com,msg_8771,Support request,INBOX,2023-07-26 08:10:00,True,[None],True,True,8,page_98,251
+conv_816,user_312,Sophia Smith,cXarJ@outlook.com,msg_5332,Feedback,RATING,2023-05-13 18:21:00,True,[None],True,True,41,page_13,876
+conv_817,user_127,Alice Brown,bZYYG@gmail.com,msg_5840,Inquiry,COMMENT,2023-11-15 01:38:00,False,[None],False,True,46,page_22,720
+conv_818,user_208,Sophia Smith,Ixmob@gmail.com,msg_6859,Need help,COMMENT,2023-09-15 13:39:00,True,['+1608592306'],False,False,96,page_20,901
+conv_819,user_842,Bob Jones,suETh@gmail.com,msg_5567,Inquiry,COMMENT,2023-11-01 07:12:00,False,[None],False,False,44,page_87,316
+conv_820,user_603,Emily Miller,SXSym@yahoo.com,msg_3571,Inquiry,RATING,2023-04-20 14:37:00,False,['+4526515973'],True,True,87,page_11,298
+conv_821,user_415,Charlie Williams,JJUEk@gmail.com,msg_1587,Need help,RATING,2023-01-14 10:25:00,False,[None],False,True,73,page_53,965
+conv_822,user_318,David Jones,PEIxx@gmail.com,msg_1352,Feedback,COMMENT,2023-08-22 17:18:00,False,[None],False,True,10,page_65,849
+conv_823,user_233,David Smith,oWHsL@gmail.com,msg_1805,Need help,COMMENT,2023-11-18 19:40:00,False,['+2138779085'],True,True,99,page_53,308
+conv_824,user_611,Sophia Williams,iSKzF@gmail.com,msg_5083,Inquiry,INBOX,2023-04-09 20:30:00,True,['+2875760633'],True,False,27,page_77,160
+conv_825,user_819,Emily Jones,homjd@yahoo.com,msg_4476,Inquiry,COMMENT,2023-04-05 00:54:00,False,[None],False,True,73,page_25,957
+conv_826,user_466,Alice Garcia,pnCpC@outlook.com,msg_9143,Feedback,INBOX,2023-10-30 04:22:00,True,['+7450028235'],True,True,6,page_53,778
+conv_827,user_482,Jane Brown,JtIDq@yahoo.com,msg_3455,Feedback,RATING,2023-09-19 02:45:00,False,[None],False,True,43,page_20,515
+conv_828,user_103,John Brown,AAUhy@outlook.com,msg_3390,Feedback,COMMENT,2023-06-29 12:15:00,True,[None],True,False,20,page_33,503
+conv_829,user_486,Jane Williams,jGxQe@outlook.com,msg_5987,Inquiry,COMMENT,2023-12-19 20:22:00,False,[None],True,True,58,page_18,675
+conv_830,user_32,Alice Johnson,GeBqG@gmail.com,msg_700,Feedback,COMMENT,2023-10-12 05:02:00,False,['+2713227361'],False,True,36,page_20,371
+conv_831,user_34,Bob Davis,KbzgH@yahoo.com,msg_4660,Need help,COMMENT,2023-05-21 16:21:00,False,[None],False,False,14,page_53,64
+conv_832,user_224,David Smith,fMamF@yahoo.com,msg_4586,Hello,RATING,2023-01-20 03:50:00,True,[None],False,True,53,page_90,602
+conv_833,user_902,Sophia Smith,ciGPj@outlook.com,msg_3535,Support request,INBOX,2023-08-21 08:28:00,False,[None],True,False,26,page_50,548
+conv_834,user_74,Emily Smith,MwNXN@gmail.com,msg_8591,Need help,INBOX,2023-01-13 22:56:00,False,[None],False,True,97,page_51,667
+conv_835,user_87,Jane Miller,gfpMD@outlook.com,msg_6820,Feedback,INBOX,2023-07-10 05:06:00,False,['+8793413464'],False,True,97,page_65,387
+conv_836,user_600,David Jones,RksCy@yahoo.com,msg_3661,Need help,RATING,2023-08-03 06:26:00,True,['+9415781052'],True,False,51,page_81,524
+conv_837,user_831,Bob Jones,qJJcO@yahoo.com,msg_8706,Hello,COMMENT,2023-03-18 02:56:00,True,[None],True,False,65,page_100,682
+conv_838,user_308,John Smith,tTZRo@yahoo.com,msg_4779,Feedback,RATING,2023-09-15 17:51:00,False,['+1655931811'],False,False,34,page_24,217
+conv_839,user_11,Bob Johnson,eEHsI@gmail.com,msg_7769,Feedback,INBOX,2023-03-04 00:55:00,False,[None],True,True,81,page_22,282
+conv_840,user_279,John Garcia,AjTit@outlook.com,msg_6785,Need help,COMMENT,2023-03-27 06:31:00,False,['+5095206668'],True,False,80,page_14,174
+conv_841,user_67,Jane Smith,VqzOo@yahoo.com,msg_4593,Inquiry,INBOX,2023-06-03 15:33:00,False,[None],True,False,55,page_81,275
+conv_842,user_380,Jane Garcia,OpVqc@outlook.com,msg_2345,Hello,COMMENT,2023-09-21 12:01:00,True,[None],True,False,97,page_78,410
+conv_843,user_656,Jane Johnson,VLiXH@outlook.com,msg_2536,Feedback,RATING,2023-04-04 08:05:00,True,[None],False,False,49,page_17,638
+conv_844,user_57,John Miller,vbvxU@gmail.com,msg_9615,Need help,INBOX,2023-07-21 12:39:00,True,['+9763368894'],True,True,2,page_29,101
+conv_845,user_246,Jane Smith,XQpFI@outlook.com,msg_4859,Feedback,RATING,2023-09-26 00:41:00,True,[None],True,False,59,page_52,247
+conv_846,user_871,John Johnson,jhASM@gmail.com,msg_6220,Inquiry,COMMENT,2023-06-20 05:29:00,True,[None],True,True,25,page_14,329
+conv_847,user_718,Sophia Miller,CEHkp@outlook.com,msg_9274,Hello,RATING,2023-09-10 04:32:00,True,['+7980448247'],True,False,96,page_5,245
+conv_848,user_779,David Smith,ZDeGR@yahoo.com,msg_3001,Support request,INBOX,2023-01-12 10:10:00,False,['+9589369944'],True,True,76,page_55,311
+conv_849,user_552,Charlie Johnson,PgUsK@outlook.com,msg_5540,Support request,RATING,2023-01-02 18:19:00,True,[None],True,True,71,page_20,638
+conv_850,user_122,Jane Williams,NYSVu@gmail.com,msg_1495,Inquiry,COMMENT,2023-09-14 23:32:00,True,[None],False,True,83,page_76,846
+conv_851,user_188,Alice Johnson,mdHNQ@gmail.com,msg_49,Feedback,COMMENT,2023-07-06 05:15:00,True,[None],False,True,9,page_41,863
+conv_852,user_922,Emily Jones,qlELy@yahoo.com,msg_8933,Need help,RATING,2023-05-05 18:33:00,False,['+4945732310'],True,False,26,page_60,886
+conv_853,user_677,Emily Jones,Ihmvp@outlook.com,msg_5949,Inquiry,INBOX,2023-12-07 14:56:00,True,[None],False,True,76,page_25,231
+conv_854,user_323,Bob Williams,bqmsE@yahoo.com,msg_2058,Feedback,RATING,2023-10-25 08:37:00,True,['+1030881084'],True,False,12,page_75,409
+conv_855,user_124,Emily Garcia,tsusM@gmail.com,msg_257,Feedback,RATING,2023-01-10 13:25:00,True,[None],True,False,7,page_31,557
+conv_856,user_90,Sophia Williams,wbbZe@gmail.com,msg_165,Hello,RATING,2023-11-04 04:34:00,False,[None],False,True,87,page_83,883
+conv_857,user_401,Jane Brown,TuoPa@outlook.com,msg_9736,Need help,RATING,2023-10-14 19:22:00,False,['+6975156934'],True,False,69,page_91,404
+conv_858,user_315,Alice Johnson,Qndgy@yahoo.com,msg_9803,Inquiry,INBOX,2023-06-09 07:01:00,False,[None],True,True,54,page_61,996
+conv_859,user_49,Charlie Brown,teZbu@outlook.com,msg_3184,Hello,COMMENT,2023-06-21 10:23:00,False,[None],True,True,53,page_79,837
+conv_860,user_315,Alice Brown,YWFqh@outlook.com,msg_2578,Inquiry,RATING,2023-04-07 09:00:00,True,[None],True,False,23,page_45,14
+conv_861,user_938,Emily Johnson,gqrRn@yahoo.com,msg_9314,Support request,INBOX,2023-07-16 14:23:00,True,['+5184373607'],False,True,68,page_71,166
+conv_862,user_513,Charlie Smith,RJPMG@yahoo.com,msg_5598,Inquiry,INBOX,2023-05-11 13:36:00,False,[None],True,False,49,page_72,561
+conv_863,user_601,Jane Smith,oEKEp@outlook.com,msg_3640,Hello,RATING,2023-10-14 20:26:00,True,['+6101998025'],True,True,68,page_15,197
+conv_864,user_438,Alice Davis,ttqBs@outlook.com,msg_6907,Support request,RATING,2023-09-29 04:53:00,True,['+9828024906'],False,False,13,page_28,3
+conv_865,user_125,Emily Davis,AAsxT@gmail.com,msg_8304,Feedback,RATING,2023-04-14 02:33:00,False,[None],True,False,56,page_33,585
+conv_866,user_533,Charlie Brown,AhIxH@yahoo.com,msg_2723,Feedback,RATING,2023-12-01 00:05:00,True,['+4722469026'],True,False,76,page_38,910
+conv_867,user_686,Jane Garcia,npMdT@outlook.com,msg_1232,Feedback,INBOX,2023-06-07 05:54:00,False,['+1543509163'],False,False,10,page_65,822
+conv_868,user_968,Alice Smith,CeCuE@outlook.com,msg_3750,Hello,COMMENT,2023-02-22 13:06:00,False,['+2460699561'],True,False,65,page_34,386
+conv_869,user_800,Jane Davis,Czets@gmail.com,msg_6582,Need help,RATING,2023-02-01 04:25:00,False,['+5843088764'],False,True,43,page_35,777
+conv_870,user_596,Emily Miller,ZTtgt@yahoo.com,msg_8600,Need help,COMMENT,2023-08-29 01:32:00,False,['+9786538020'],True,False,4,page_61,425
+conv_871,user_210,Charlie Davis,DoNDY@gmail.com,msg_622,Need help,COMMENT,2023-07-19 09:18:00,True,['+1683011791'],False,False,44,page_46,465
+conv_872,user_286,David Jones,taXOZ@yahoo.com,msg_9586,Inquiry,COMMENT,2023-01-18 02:56:00,False,['+4096068401'],False,False,89,page_16,103
+conv_873,user_652,Alice Garcia,MIpQM@outlook.com,msg_8656,Inquiry,COMMENT,2023-09-01 05:35:00,True,[None],True,True,39,page_30,782
+conv_874,user_899,Emily Smith,NNeAl@yahoo.com,msg_7553,Need help,INBOX,2023-11-06 22:19:00,True,['+8713694859'],False,False,38,page_57,170
+conv_875,user_587,Sophia Johnson,lQwcD@gmail.com,msg_9980,Inquiry,RATING,2023-03-16 05:23:00,True,['+7967237892'],True,True,66,page_94,418
+conv_876,user_565,David Garcia,NNZzV@gmail.com,msg_4692,Inquiry,COMMENT,2023-05-29 09:08:00,True,[None],False,True,42,page_91,903
+conv_877,user_817,John Johnson,RINrF@gmail.com,msg_9403,Need help,COMMENT,2023-04-05 11:52:00,True,['+5560422692'],True,True,12,page_9,108
+conv_878,user_84,John Garcia,EepBy@outlook.com,msg_2050,Hello,INBOX,2023-01-01 01:59:00,False,['+6417945130'],False,False,23,page_30,818
+conv_879,user_914,David Davis,WvcQX@yahoo.com,msg_6236,Feedback,COMMENT,2023-10-13 12:16:00,True,[None],False,True,53,page_89,761
+conv_880,user_568,John Garcia,mBqDm@yahoo.com,msg_8539,Hello,COMMENT,2023-05-03 10:52:00,True,[None],True,True,18,page_73,466
+conv_881,user_291,John Jones,rwupT@outlook.com,msg_6888,Support request,RATING,2023-10-02 04:34:00,True,[None],False,True,9,page_31,865
+conv_882,user_371,Jane Garcia,tTWDW@yahoo.com,msg_7927,Inquiry,INBOX,2023-04-04 07:28:00,False,[None],True,True,35,page_64,932
+conv_883,user_233,David Johnson,Ussrj@gmail.com,msg_4524,Need help,COMMENT,2023-02-07 04:00:00,False,[None],False,False,69,page_99,48
+conv_884,user_379,Sophia Smith,eAIKz@outlook.com,msg_3337,Inquiry,INBOX,2023-07-23 09:49:00,False,[None],True,True,79,page_18,586
+conv_885,user_143,Jane Miller,uZbOh@gmail.com,msg_5793,Feedback,INBOX,2023-03-29 11:24:00,True,['+4718205068'],False,True,25,page_90,539
+conv_886,user_253,David Garcia,PUqVQ@outlook.com,msg_8096,Need help,RATING,2023-07-03 13:49:00,True,['+1386043205'],False,True,58,page_42,556
+conv_887,user_387,John Miller,badqb@gmail.com,msg_6391,Inquiry,INBOX,2023-07-24 07:32:00,False,['+5397817865'],False,True,70,page_75,590
+conv_888,user_748,Sophia Williams,KicHt@gmail.com,msg_1054,Feedback,RATING,2023-12-24 20:11:00,True,['+9483703025'],False,True,0,page_44,786
+conv_889,user_734,David Smith,KunpU@yahoo.com,msg_7365,Need help,COMMENT,2023-08-16 17:09:00,True,['+6208133835'],False,False,73,page_30,540
+conv_890,user_720,Jane Jones,EwsJB@outlook.com,msg_5241,Hello,INBOX,2023-03-02 05:40:00,False,[None],False,True,79,page_62,809
+conv_891,user_834,Emily Williams,vkpuU@gmail.com,msg_5417,Support request,RATING,2023-05-02 01:13:00,False,['+8964948446'],True,True,24,page_96,218
+conv_892,user_913,Emily Johnson,pIdgj@gmail.com,msg_85,Inquiry,INBOX,2023-10-04 13:18:00,False,['+8920249809'],False,False,96,page_64,972
+conv_893,user_43,David Jones,IiKiR@gmail.com,msg_4871,Hello,INBOX,2023-10-30 03:47:00,True,['+3756125535'],False,False,11,page_26,656
+conv_894,user_364,Bob Brown,vQxha@gmail.com,msg_5713,Support request,INBOX,2023-05-17 12:48:00,False,[None],True,False,29,page_89,947
+conv_895,user_815,Jane Johnson,ORGQP@gmail.com,msg_1837,Hello,COMMENT,2023-12-19 11:01:00,False,[None],False,False,70,page_15,712
+conv_896,user_498,David Williams,ochpE@outlook.com,msg_9627,Inquiry,RATING,2023-11-03 07:55:00,False,[None],False,False,32,page_71,194
+conv_897,user_256,John Garcia,rKvog@yahoo.com,msg_9131,Inquiry,INBOX,2023-12-14 18:22:00,False,['+3476351774'],True,True,18,page_86,631
+conv_898,user_397,David Brown,nDtlF@yahoo.com,msg_5757,Support request,RATING,2023-03-20 00:00:00,False,['+4100327326'],True,False,20,page_8,513
+conv_899,user_110,Alice Jones,dzIuv@yahoo.com,msg_1199,Feedback,COMMENT,2023-05-02 04:19:00,False,[None],True,True,76,page_22,562
+conv_900,user_68,Alice Williams,mxYBJ@yahoo.com,msg_3248,Hello,COMMENT,2023-11-25 20:52:00,False,[None],False,False,28,page_95,389
+conv_901,user_520,David Brown,IJHFy@yahoo.com,msg_8532,Need help,RATING,2023-06-01 13:34:00,False,[None],False,True,69,page_82,953
+conv_902,user_662,David Johnson,hzkIa@gmail.com,msg_3050,Need help,COMMENT,2023-10-21 01:15:00,False,['+7748810155'],True,True,23,page_22,683
+conv_903,user_837,Emily Brown,QqYQc@outlook.com,msg_7943,Inquiry,RATING,2023-07-06 13:47:00,False,[None],True,True,54,page_72,78
+conv_904,user_981,Bob Williams,eyydh@gmail.com,msg_8175,Hello,COMMENT,2023-02-19 17:51:00,False,['+9142106031'],False,False,64,page_6,211
+conv_905,user_91,Charlie Williams,XbXOh@gmail.com,msg_5702,Feedback,RATING,2023-11-23 16:19:00,True,['+1773780351'],False,False,1,page_50,731
+conv_906,user_580,John Johnson,gxBYl@yahoo.com,msg_4625,Inquiry,RATING,2023-05-24 19:16:00,False,['+3346336467'],False,False,64,page_56,655
+conv_907,user_707,Alice Smith,lliYU@outlook.com,msg_2523,Feedback,COMMENT,2023-02-16 23:55:00,True,[None],True,True,9,page_92,235
+conv_908,user_126,Jane Brown,hBXWi@yahoo.com,msg_5557,Need help,RATING,2023-10-11 00:46:00,False,['+4445717444'],False,True,58,page_86,579
+conv_909,user_18,Charlie Garcia,LOIhH@gmail.com,msg_2503,Hello,RATING,2023-03-28 18:46:00,True,['+6633153214'],True,False,34,page_52,275
+conv_910,user_309,John Johnson,bcMRy@gmail.com,msg_8845,Need help,RATING,2023-12-17 12:56:00,True,['+6298810977'],False,False,97,page_46,12
+conv_911,user_794,Sophia Davis,YvXMd@gmail.com,msg_1,Hello,RATING,2023-05-02 04:55:00,False,[None],False,True,31,page_98,805
+conv_912,user_968,Alice Garcia,mzeEH@outlook.com,msg_3109,Hello,RATING,2023-01-27 20:49:00,True,['+5898112883'],False,True,57,page_7,14
+conv_913,user_463,Alice Smith,VPzsw@outlook.com,msg_9096,Inquiry,COMMENT,2023-12-29 08:00:00,False,['+1324874028'],False,True,12,page_1,225
+conv_914,user_396,Alice Garcia,wkkZY@gmail.com,msg_1237,Hello,RATING,2023-06-10 12:13:00,False,['+4869667303'],False,False,36,page_36,887
+conv_915,user_641,Alice Davis,ggfAp@yahoo.com,msg_8966,Hello,RATING,2023-07-06 21:26:00,False,['+2357708257'],False,False,97,page_44,185
+conv_916,user_252,Charlie Brown,yFPOW@gmail.com,msg_9965,Need help,RATING,2023-03-13 02:34:00,False,['+5253176613'],True,True,70,page_75,311
+conv_917,user_682,Charlie Garcia,VKiKd@yahoo.com,msg_9125,Support request,COMMENT,2023-05-03 15:36:00,True,['+3157339335'],False,True,9,page_27,248
+conv_918,user_371,Bob Williams,SRRkn@gmail.com,msg_5662,Feedback,RATING,2023-05-13 14:02:00,True,[None],True,True,59,page_91,21
+conv_919,user_542,David Brown,jAgvJ@yahoo.com,msg_9717,Need help,INBOX,2023-10-29 00:51:00,True,[None],True,False,8,page_37,579
+conv_920,user_980,John Johnson,qedLg@yahoo.com,msg_2961,Inquiry,RATING,2023-12-09 01:16:00,True,['+8987495562'],True,True,43,page_89,709
+conv_921,user_514,Jane Garcia,yyBzL@gmail.com,msg_8991,Hello,COMMENT,2023-04-12 17:24:00,False,[None],True,False,75,page_22,305
+conv_922,user_299,Charlie Miller,jwjAE@gmail.com,msg_7821,Support request,INBOX,2023-03-27 21:47:00,False,['+8435840799'],False,False,43,page_7,134
+conv_923,user_174,Sophia Davis,JFuef@outlook.com,msg_7592,Hello,COMMENT,2023-03-10 01:00:00,False,['+2306896233'],False,False,94,page_61,274
+conv_924,user_677,Charlie Williams,foeKa@yahoo.com,msg_1102,Need help,RATING,2023-12-24 12:44:00,True,['+3880342382'],True,True,53,page_77,45
+conv_925,user_431,Bob Davis,xjsGi@outlook.com,msg_1037,Inquiry,COMMENT,2023-07-11 16:07:00,False,[None],False,False,83,page_53,920
+conv_926,user_84,Sophia Garcia,cBVvF@outlook.com,msg_1015,Inquiry,RATING,2023-11-08 14:50:00,False,[None],False,False,6,page_65,988
+conv_927,user_951,David Johnson,VLfhc@yahoo.com,msg_9848,Support request,RATING,2023-11-21 05:49:00,False,['+8902557232'],False,False,77,page_12,715
+conv_928,user_513,Charlie Brown,xuczx@outlook.com,msg_5594,Need help,INBOX,2023-06-11 18:26:00,True,[None],True,True,75,page_31,647
+conv_929,user_741,Alice Smith,fEYLy@gmail.com,msg_5825,Feedback,INBOX,2023-11-21 01:56:00,True,['+4358244462'],False,False,52,page_33,975
+conv_930,user_465,Jane Brown,GBBOf@yahoo.com,msg_1117,Inquiry,COMMENT,2023-09-11 04:33:00,False,['+2121487599'],True,True,5,page_74,732
+conv_931,user_997,John Smith,DDbad@yahoo.com,msg_299,Support request,RATING,2023-04-04 05:26:00,True,[None],False,False,38,page_43,367
+conv_932,user_680,Charlie Miller,MnFxV@yahoo.com,msg_1924,Hello,RATING,2023-11-04 00:48:00,True,[None],True,True,47,page_71,634
+conv_933,user_486,Alice Smith,ysMMR@outlook.com,msg_4210,Need help,INBOX,2023-11-15 13:25:00,True,['+2831628880'],False,False,51,page_38,525
+conv_934,user_993,Jane Miller,sgrki@outlook.com,msg_5339,Feedback,COMMENT,2023-11-04 11:10:00,True,['+4991148706'],True,False,93,page_57,644
+conv_935,user_811,John Davis,moIpn@outlook.com,msg_3591,Hello,RATING,2023-02-28 22:40:00,True,[None],False,True,75,page_68,953
+conv_936,user_672,Bob Davis,tjDxF@outlook.com,msg_3802,Feedback,INBOX,2023-10-03 02:41:00,True,['+7956259338'],True,True,9,page_53,749
+conv_937,user_993,Charlie Smith,zeqnz@gmail.com,msg_5202,Support request,COMMENT,2023-01-09 08:32:00,True,[None],False,False,50,page_27,898
+conv_938,user_744,Sophia Miller,wsVqy@gmail.com,msg_8625,Inquiry,INBOX,2023-09-03 04:53:00,True,['+7391049213'],True,True,53,page_9,921
+conv_939,user_774,Alice Smith,XvHZb@outlook.com,msg_8431,Need help,INBOX,2023-10-06 18:53:00,False,[None],True,False,73,page_42,682
+conv_940,user_382,Alice Brown,DauKO@outlook.com,msg_4,Need help,INBOX,2023-12-28 16:37:00,True,[None],False,False,42,page_28,607
+conv_941,user_138,Charlie Smith,OzsZs@outlook.com,msg_4370,Hello,INBOX,2023-11-11 07:41:00,True,[None],False,True,92,page_46,897
+conv_942,user_739,Bob Smith,lXzJT@gmail.com,msg_2389,Hello,RATING,2023-08-24 14:41:00,False,[None],True,False,68,page_40,273
+conv_943,user_277,Sophia Williams,kZmma@outlook.com,msg_6335,Need help,COMMENT,2023-04-30 17:22:00,True,['+4974671275'],False,True,19,page_30,5
+conv_944,user_392,Bob Davis,bMgVW@outlook.com,msg_1108,Need help,COMMENT,2023-08-29 18:16:00,True,[None],False,True,97,page_58,241
+conv_945,user_504,Bob Johnson,cXFkk@outlook.com,msg_650,Inquiry,INBOX,2023-04-14 20:45:00,True,[None],True,True,94,page_50,640
+conv_946,user_283,David Davis,aPreF@yahoo.com,msg_6042,Need help,INBOX,2023-06-19 11:35:00,False,['+4859839520'],False,True,83,page_43,881
+conv_947,user_712,Sophia Miller,UqgnX@outlook.com,msg_3013,Support request,RATING,2023-07-17 06:39:00,False,[None],True,True,68,page_43,625
+conv_948,user_804,Alice Johnson,IgxWH@yahoo.com,msg_4228,Inquiry,COMMENT,2023-07-10 13:14:00,True,['+4552162425'],False,False,51,page_96,56
+conv_949,user_420,John Garcia,lYujW@gmail.com,msg_3145,Inquiry,COMMENT,2023-12-13 11:52:00,False,[None],True,False,24,page_87,5
+conv_950,user_498,Jane Miller,bSGCK@yahoo.com,msg_4309,Hello,INBOX,2023-02-03 15:03:00,False,['+1023812616'],True,True,20,page_86,298
+conv_951,user_701,Sophia Smith,jBzYt@outlook.com,msg_2191,Support request,COMMENT,2023-07-12 01:07:00,False,['+5604192629'],False,False,19,page_71,907
+conv_952,user_280,Sophia Smith,sxaBv@gmail.com,msg_5738,Hello,RATING,2023-12-26 13:23:00,True,[None],True,True,74,page_48,789
+conv_953,user_648,Sophia Brown,smLWT@outlook.com,msg_2952,Inquiry,COMMENT,2023-03-16 21:50:00,False,['+5651274791'],False,False,90,page_34,243
+conv_954,user_36,Jane Miller,gNfKD@gmail.com,msg_1989,Need help,COMMENT,2023-10-14 23:56:00,True,['+4103320528'],True,True,54,page_61,101
+conv_955,user_562,Bob Garcia,PeigV@yahoo.com,msg_3693,Hello,RATING,2023-06-18 23:52:00,False,['+2062615627'],False,True,3,page_72,210
+conv_956,user_903,Alice Smith,GRTaW@gmail.com,msg_8703,Support request,RATING,2023-11-04 04:38:00,False,[None],True,False,23,page_53,367
+conv_957,user_987,David Jones,gWTCC@outlook.com,msg_1945,Feedback,RATING,2023-11-22 09:03:00,True,[None],True,True,15,page_32,762
+conv_958,user_961,Sophia Davis,azesz@gmail.com,msg_2156,Support request,COMMENT,2023-10-11 20:07:00,True,['+3278129220'],False,False,97,page_24,404
+conv_959,user_319,David Williams,ENzmO@outlook.com,msg_6049,Feedback,INBOX,2023-12-20 11:31:00,True,[None],True,False,56,page_22,836
+conv_960,user_639,Charlie Smith,KQBqs@yahoo.com,msg_8364,Feedback,COMMENT,2023-10-12 00:20:00,True,['+7997563465'],False,True,16,page_64,499
+conv_961,user_961,Jane Jones,RNSmY@gmail.com,msg_1897,Hello,INBOX,2023-02-14 08:56:00,False,['+6292473631'],True,False,33,page_41,185
+conv_962,user_403,Alice Johnson,lVpEM@gmail.com,msg_9044,Inquiry,RATING,2023-01-03 14:16:00,False,['+5095004853'],False,False,47,page_47,965
+conv_963,user_322,Alice Davis,cXFUx@outlook.com,msg_4721,Feedback,COMMENT,2023-10-20 16:33:00,True,['+2872507801'],True,True,47,page_67,66
+conv_964,user_656,Emily Williams,MiHrn@yahoo.com,msg_511,Feedback,COMMENT,2023-11-18 13:03:00,True,[None],False,False,96,page_84,357
+conv_965,user_521,Alice Williams,qHGfa@yahoo.com,msg_1512,Support request,RATING,2023-09-29 02:07:00,True,['+4490524619'],False,True,41,page_56,856
+conv_966,user_703,Bob Garcia,kVLRK@gmail.com,msg_2444,Support request,COMMENT,2023-02-27 17:17:00,False,[None],True,True,74,page_91,605
+conv_967,user_389,Charlie Williams,cCFwt@outlook.com,msg_8839,Need help,RATING,2023-02-19 11:38:00,True,[None],True,True,86,page_26,730
+conv_968,user_277,Sophia Miller,FGXuN@outlook.com,msg_206,Feedback,INBOX,2023-11-24 04:17:00,True,[None],True,True,88,page_11,291
+conv_969,user_884,John Johnson,alCFI@outlook.com,msg_8677,Feedback,COMMENT,2023-11-16 13:39:00,True,['+6777256632'],False,False,56,page_37,491
+conv_970,user_483,Jane Jones,gDwcL@yahoo.com,msg_7350,Need help,INBOX,2023-02-17 14:00:00,False,[None],True,False,4,page_87,974
+conv_971,user_909,John Davis,rlBzZ@outlook.com,msg_6569,Support request,RATING,2023-10-18 05:02:00,False,[None],True,True,85,page_67,136
+conv_972,user_339,Jane Brown,tyleP@gmail.com,msg_1227,Feedback,RATING,2023-02-23 22:30:00,True,[None],False,False,45,page_18,306
+conv_973,user_529,Sophia Johnson,QHvoc@yahoo.com,msg_1927,Inquiry,RATING,2023-09-07 13:52:00,True,[None],True,True,42,page_32,753
+conv_974,user_827,John Williams,lQuUE@gmail.com,msg_6671,Support request,COMMENT,2023-04-29 16:51:00,False,['+1834792399'],True,False,51,page_33,541
+conv_975,user_25,John Brown,NlZUU@outlook.com,msg_7912,Support request,RATING,2023-03-31 23:54:00,True,['+3614122489'],True,True,93,page_99,682
+conv_976,user_42,David Garcia,odHjc@outlook.com,msg_6658,Need help,INBOX,2023-12-06 07:15:00,True,['+1915063929'],False,False,6,page_86,599
+conv_977,user_669,Emily Brown,mEBpS@gmail.com,msg_7160,Hello,RATING,2023-12-25 11:00:00,False,['+3102974113'],True,False,95,page_56,188
+conv_978,user_978,Charlie Johnson,fuZfm@outlook.com,msg_6977,Feedback,RATING,2023-08-31 09:01:00,True,['+6035833115'],False,True,37,page_34,504
+conv_979,user_165,Charlie Smith,ZIBkD@yahoo.com,msg_4614,Support request,INBOX,2024-01-01 16:29:00,False,['+2236672793'],False,True,36,page_67,353
+conv_980,user_392,John Miller,BCaAs@yahoo.com,msg_8651,Inquiry,RATING,2023-05-18 18:54:00,False,[None],True,False,83,page_12,909
+conv_981,user_957,Alice Davis,KgVHt@yahoo.com,msg_9988,Feedback,INBOX,2023-03-15 07:18:00,False,['+5703242269'],False,False,61,page_15,543
+conv_982,user_872,Sophia Smith,wJUWI@gmail.com,msg_1354,Hello,INBOX,2023-11-25 23:36:00,False,['+4360095761'],True,False,31,page_40,816
+conv_983,user_679,Charlie Williams,oIncz@gmail.com,msg_2549,Support request,COMMENT,2023-04-14 02:03:00,True,['+1034568205'],False,False,10,page_13,249
+conv_984,user_920,Bob Smith,IWIWn@yahoo.com,msg_6312,Support request,RATING,2023-12-26 13:28:00,True,[None],True,False,56,page_99,527
+conv_985,user_336,David Johnson,tfGhc@yahoo.com,msg_6540,Hello,RATING,2023-05-13 14:34:00,False,[None],True,True,3,page_20,740
+conv_986,user_931,Emily Williams,UhshV@outlook.com,msg_2881,Support request,INBOX,2023-07-17 16:36:00,True,['+5955040923'],False,False,57,page_79,929
+conv_987,user_612,Jane Johnson,mimtQ@outlook.com,msg_1036,Support request,INBOX,2023-01-27 07:09:00,False,['+5123736606'],True,True,18,page_86,701
+conv_988,user_719,Alice Jones,iabXh@gmail.com,msg_5112,Hello,INBOX,2023-07-27 05:47:00,False,['+2636976110'],False,True,4,page_58,950
+conv_989,user_446,Sophia Jones,lkPVz@outlook.com,msg_5367,Inquiry,RATING,2023-09-17 12:48:00,False,[None],False,False,40,page_90,226
+conv_990,user_970,Charlie Williams,NvwZd@yahoo.com,msg_8353,Feedback,RATING,2023-01-17 21:16:00,True,[None],True,False,37,page_27,293
+conv_991,user_720,Charlie Williams,lYudf@outlook.com,msg_1745,Need help,RATING,2023-03-15 06:43:00,True,[None],True,False,36,page_41,367
+conv_992,user_547,John Brown,BVOPc@outlook.com,msg_4105,Feedback,RATING,2023-07-30 05:21:00,False,['+2365756677'],False,True,14,page_33,411
+conv_993,user_300,David Johnson,rZshY@yahoo.com,msg_5486,Support request,RATING,2023-02-03 05:26:00,False,['+5322332031'],False,True,46,page_31,930
+conv_994,user_601,Charlie Brown,tGIGK@gmail.com,msg_3202,Support request,RATING,2023-10-29 22:43:00,False,['+9234286844'],True,True,40,page_16,764
+conv_995,user_51,Jane Garcia,fpRcy@outlook.com,msg_3035,Support request,COMMENT,2023-09-12 16:43:00,True,['+7149505427'],False,True,45,page_5,687
+conv_996,user_87,Jane Jones,qSCvd@gmail.com,msg_5314,Inquiry,RATING,2023-05-04 09:25:00,False,['+4428052941'],True,True,9,page_6,950
+conv_997,user_37,Charlie Jones,qYvIX@outlook.com,msg_9135,Need help,RATING,2023-10-09 10:02:00,False,[None],True,True,66,page_54,232
+conv_998,user_49,Jane Johnson,JKqlc@gmail.com,msg_5423,Support request,COMMENT,2023-02-09 14:32:00,False,[None],False,True,67,page_41,932
+conv_999,user_953,Charlie Davis,fLnrS@outlook.com,msg_3677,Need help,COMMENT,2023-12-20 03:47:00,True,['+2866562070'],False,True,74,page_51,206
+conv_1000,user_665,Sophia Williams,RNZQP@yahoo.com,msg_3953,Need help,INBOX,2023-02-16 00:11:00,True,['+5042597774'],False,True,75,page_99,46
