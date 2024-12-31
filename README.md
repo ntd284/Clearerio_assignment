@@ -1,2 +1,2 @@
 
-![db_diagram](db_diagram.png)
+![db_diagram](files/db_diagram.png)
