@@ -27,3 +27,48 @@
 #### Compliance with Local Regulations:
 - **Problem:** Some countries mandate that customer data from their region must be stored within their borders, necessitating compliance with local laws.
 - **Solution:** Host servers within the respective countries to meet regulatory requirements while maintaining secure and compliant data handling processes.
+
+### 3. Data Transformation Metrics**
+This section outlines the key metrics extracted and transformed from the dataset using **Python**
+
+#### 1. Lifespan of Each Store** 
+- Calculate the operational **lifespan** of each store.  
+- If the parameter `toNow` is set to **`True`**, the lifespan will be calculated **up to the current date**.  
+
+```
+lifespan = df_datasample.groupBy('store_id').agg(
+    min(to_date(col('fromDate'))).alias('startDate'),
+    max(to_date(col('toDate'))).alias('endDate'),
+    datediff(max(to_date(col('toDate'))),min(to_date(col('fromDate'))).alias('endDate')).alias('lifespan_in_active')
+)
+```
+
+**Result:**
+
+```
++----------+----------+----------+------------------+
+|  store_id| startDate|   endDate|lifespan_in_active|
++----------+----------+----------+------------------+
+|Store_5407|2022-05-30|2025-01-01|               947|
+|Store_5125|2022-05-23|2023-03-07|               288|
+|Store_4938|2022-05-17|2025-01-01|               960|
+|Store_5390|2022-05-30|2025-01-01|               947|
+|Store_5168|2022-05-24|2023-08-31|               464|
+|Store_4960|2022-05-17|2025-01-01|               960|
+|Store_4719|2022-05-10|2025-01-01|               967|
+|Store_4435|2022-04-30|2025-01-01|               977|
+|Store_5133|2022-05-23|2022-06-17|                25|
+|Store_5067|2022-05-19|2025-01-01|               958|
+|Store_4984|2022-05-18|2022-11-01|               167|
+|Store_4882|2022-05-15|2022-05-17|                 2|
+|Store_4779|2022-05-11|2025-01-01|               966|
+|Store_4726|2022-05-10|2022-07-09|                60|
+|Store_5315|2022-05-27|2025-01-01|               950|
+|Store_4902|2022-05-16|2022-05-16|                 0|
+|Store_4720|2022-05-10|2022-10-13|               156|
+|Store_4683|2022-05-09|2022-05-10|                 1|
+|Store_4687|2022-05-09|2025-01-01|               968|
+|Store_4632|2022-05-06|2025-01-01|               971|
++----------+----------+----------+------------------+
+only showing top 20 rows
+```
