@@ -9,14 +9,12 @@
 ### 2. Challenges and Solutions in Multi-Region Data Migration to a Data Warehouse (DWH)
 
 **Timezone Differences Across Regions:**
-**Problem:** Timezone differences can cause inconsistencies in time-sensitive data, leading to errors in reporting, analytics, and scheduling jobs.
-
-**Solution:** Carefully verify the timezone of data fetched from new regions. Convert all timestamps to UTC if not already standardized. After processing, create timezone-specific views for end-users based on the requirements of different applications.
+    **-Problem:** Timezone differences can cause inconsistencies in time-sensitive data, leading to errors in reporting, analytics, and scheduling jobs.
+    **-Solution:** Carefully verify the timezone of data fetched from new regions. Convert all timestamps to UTC if not already standardized. After processing, create timezone-specific views for end-users based on the requirements of different applications.
 
 **Data Format and Structural Differences:**
-**Problem:** Variations in data formats and model structures across regions can lead to integration issues and potential data loss.
-
-**Solution:** Verify and transform data to align with the DWH's existing format. Ensure robust data validation and transformation processes to avoid loss or corruption during migration.
+    **-Problem:** Variations in data formats and model structures across regions can lead to integration issues and potential data loss.
+    **-Solution:** Verify and transform data to align with the DWH's existing format. Ensure robust data validation and transformation processes to avoid loss or corruption during migration.
 
 **Latency and Data Synchronization:**
 **Problem:** Migrating data across regions may introduce latency, impacting real-time reporting and synchronization between systems.
