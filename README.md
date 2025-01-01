@@ -28,7 +28,8 @@
 - **Problem:** Some countries mandate that customer data from their region must be stored within their borders, necessitating compliance with local laws.
 - **Solution:** Host servers within the respective countries to meet regulatory requirements while maintaining secure and compliant data handling processes.
 
-### 3. Data Transformation Metrics**
+### 3. Data Transformation Metrics for Business Insights [Task3_subscription_analysis](Task3_subscription_analysis.ipynb)
+
 This section outlines the key metrics extracted and transformed from the dataset using **Python**
 
 #### 1. Lifespan of Each Store** 
