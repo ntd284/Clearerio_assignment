@@ -46,7 +46,7 @@ By analyzing the provided dashboard data, we can answer critical business questi
 - **Revenue Growth:** Focus on branches with high revenue potential and address underperforming ones.  
 - **Operational Efficiency:** Streamline operations based on transaction and revenue insights.  
 
-#### Data apipeline in Processing and Analysis Techniques:
+#### Data pipeline in Processing and Analysis Techniques:
 
 ![Pipeline](images/pipeline.png)
 
