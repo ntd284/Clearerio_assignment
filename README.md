@@ -11,10 +11,37 @@ The following types of data would be generated in an Ecommerce platform:
 - **Product Data:** Product names, categories, prices, and stock availability.  
 - **Conversation Data:** Customer feedback, chat history, and issue resolution logs.  
 ![db_diagram](images/db_diagram.png)
+
+
+### What Questions Can We Answer with This Data?
+
+By analyzing the provided dashboard data, we can answer critical business questions such as:
+
+- **Branch Performance:**
+    - Which branch generates the **highest total revenue**?  
+    - Which branch has the **lowest total revenue**?  
+    - How do branches compare in terms of **customer count**, **product count**, and **transaction volume**?  
+
+- **Customer Insights:**
+    - Which branch attracts the **most customers**?  
+    - Are there any trends or patterns in **customer distribution across branches**?  
+
+- **Product Insights:**
+    - Which branch sells the **highest number of products**?  
+    - Are there branches with consistently **low product sales**?  
+
+- **Transaction Trends:**
+    - Which branch processes the **most transactions**?  
+    - Are there any branches with **low transaction activity** despite high customer numbers?  
+
+![dashboard](images/dashboard.png)
+
+
+---
 <!-- 
 ![flow](images/flow.png)
 
-![dashboard](images/dashboard.png) -->
+ -->
 
 
 ### 2. Challenges and Solutions in Multi-Region Data Migration to a Data Warehouse (DWH)
