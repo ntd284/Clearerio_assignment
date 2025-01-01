@@ -150,7 +150,7 @@ lifespan = df_datasample.groupBy('store_id').agg(
 +----------+----------+----------+------------------+
 only showing top 20 rows
 ```
-#### 2. Revenue by Day**  
+#### 2. Revenue by Day
 - Aggregate and calculate **daily revenue** per store or overall.  
 - Enable insights into sales trends and revenue spikes over time. 
 
