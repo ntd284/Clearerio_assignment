@@ -4,16 +4,19 @@
 
 #### What kinds of data would be generated in an Ecommerce platform?
 
+![db_diagram](images/db_diagram.png)
+
 The following types of data would be generated in an Ecommerce platform:
 
 - **Customer Data:** Information of Customer(Name, address, phonenumber,...).  
 - **Transaction Data:** Order details, transaction amounts, branch-specific data, and timestamps.  
 - **Product Data:** Product names, categories, prices, and stock availability.  
 - **Conversation Data:** Customer feedback, chat history, and issue resolution logs.  
-![db_diagram](images/db_diagram.png)
 
 
 #### What Questions Can We Answer with This Data?
+
+![dashboard](images/dashboard.png)
 
 By analyzing the provided dashboard data, we can answer critical business questions such as:
 
@@ -34,7 +37,6 @@ By analyzing the provided dashboard data, we can answer critical business questi
     - Which branch processes the **most transactions**?  
     - Are there any branches with **low transaction activity** despite high customer numbers?  
 
-![dashboard](images/dashboard.png)
 
 
 ---
