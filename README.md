@@ -42,9 +42,7 @@ lifespan = df_datasample.groupBy('store_id').agg(
     datediff(max(to_date(col('toDate'))),min(to_date(col('fromDate'))).alias('endDate')).alias('lifespan_in_active')
 )
 ```
-
 **Result:**
-
 ```
 +----------+----------+----------+------------------+
 |  store_id| startDate|   endDate|lifespan_in_active|
@@ -70,5 +68,100 @@ lifespan = df_datasample.groupBy('store_id').agg(
 |Store_4687|2022-05-09|2025-01-01|               968|
 |Store_4632|2022-05-06|2025-01-01|               971|
 +----------+----------+----------+------------------+
+only showing top 20 rows
+```
+#### 2. Revenue by Day**  
+- Aggregate and calculate **daily revenue** per store or overall.  
+- Enable insights into sales trends and revenue spikes over time. 
+
+```
+# Total revenue by Supscription_date
+revenue = df_datasample.select(
+    col('store_id'),
+    to_date(col('sub_fromDate')).alias('Subscription_Date'),
+    col('price')
+).distinct()
+
+revenuebyday = revenue.groupBy('Subscription_Date').agg(
+    sum(col('price')).alias('revenueByday')
+)
+revenuebyday.where(col('revenuebyday').isNotNull()).sort(col('Subscription_Date'),ascending=True).show()
+```
+**Result:**
+```                                                           
++-----------------+------------+
+|Subscription_Date|revenueByday|
++-----------------+------------+
+|       2022-05-04|        19.0|
+|       2022-05-08|        29.0|
+|       2022-05-09|       148.2|
+|       2022-05-10|       218.0|
+|       2022-05-11|       117.0|
+|       2022-05-12|        29.0|
+|       2022-05-13|        29.0|
+|       2022-05-15|       187.0|
+|       2022-05-16|       308.2|
+|       2022-05-17|       211.0|
+|       2022-05-18|       175.0|
+|       2022-05-19|        57.0|
+|       2022-05-20|       264.0|
+|       2022-05-21|        38.0|
+|       2022-05-22|        76.0|
+|       2022-05-23|       269.0|
+|       2022-05-24|       243.0|
+|       2022-05-25|       370.0|
+|       2022-05-26|       601.0|
+|       2022-05-27|       183.0|
++-----------------+------------+
+only showing top 20 rows
+```
+#### **3. User Activity Metrics by Day**  
+Track the following user activity metrics on a **daily basis**:  
+- **Active Users:** Number of users actively engaging with the platform(*toNow=True*).  
+- **Uninstalls:** Number of users uninstalling the app(*endType=CUSTOMER_CANCELLED*).  
+- **New Users:** Number of new users joining the platform(*toNow=False*).  
+
+```
+# The number of User in status: Active_Users, New_user_by_day and Uninstall_Users by activity_date.
+df_status = df_datasample.select(\
+    col("store_id"),
+    col("toNow"),
+    col("startType"),
+    to_date(col("fromDate")).alias('activity_date'),
+    col("endType")
+)
+status = df_status.groupBy('activity_date').agg(
+    countDistinct(when(col('toNow') == 'true',col('store_id'))).alias('Active_Users'),
+    countDistinct(when(col('toNow') == 'false',col('store_id'))).alias('New_user_by_day'),
+    countDistinct(when(col('endType') == 'CUSTOMER_CANCELLED', col('store_id'))).alias('Uninstall_Users'),
+)
+status.sort(col('activity_date'),ascending=True).show()
+```
+**Result:**
+```
++-------------+------------+---------------+---------------+
+|activity_date|Active_Users|New_user_by_day|Uninstall_Users|
++-------------+------------+---------------+---------------+
+|   2022-04-29|           3|              7|              2|
+|   2022-04-30|           2|             14|              1|
+|   2022-05-01|           3|             15|              1|
+|   2022-05-02|           7|             26|              4|
+|   2022-05-03|          12|             21|              2|
+|   2022-05-04|           8|             43|              9|
+|   2022-05-05|           9|             31|              3|
+|   2022-05-06|           9|             24|              4|
+|   2022-05-07|           2|             14|              0|
+|   2022-05-08|           1|             12|              4|
+|   2022-05-09|          12|             34|              6|
+|   2022-05-10|          11|             33|              6|
+|   2022-05-11|          12|             36|              4|
+|   2022-05-12|          11|             43|              3|
+|   2022-05-13|           4|             27|              5|
+|   2022-05-14|           3|             11|              1|
+|   2022-05-15|           1|             17|              0|
+|   2022-05-16|           9|             33|             10|
+|   2022-05-17|          13|             37|              7|
+|   2022-05-18|           8|             37|              7|
++-------------+------------+---------------+---------------+
 only showing top 20 rows
 ```
