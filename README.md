@@ -1,9 +1,9 @@
 
 # Clearer Data Engineering Challenge
 
-## 1. If we provide services to Ecommerce Merchants, then in your opinion:
+## 1. Services for Ecommerce Merchants
 
-#### What kinds of data would be generated in an Ecommerce platform?
+#### kinds of data would be generated in an Ecommerce platform:
 
 ![db_diagram](images/db_diagram.png)
 
@@ -15,7 +15,7 @@ The following types of data would be generated in an Ecommerce platform:
 - **Conversation Data:** Customer feedback, chat history, and issue resolution logs.  
 
 
-#### What Questions Can We Answer with This Data?
+#### Insights from Ecommerce Data:
 
 ![dashboard](images/dashboard.png)
 
@@ -38,7 +38,7 @@ By analyzing the provided dashboard data, we can answer critical business questi
     - Which branch processes the **most transactions**?  
     - Are there any branches with **low transaction activity** despite high customer numbers?  
 
-#### How Does This Benefit a Business?
+#### Business Use Cases:
 
 - **Strategic Decision-Making:** Identify top-performing branches and allocate resources effectively.  
 - **Customer Focus:** Understand branch-level customer behavior to improve customer experience.  
