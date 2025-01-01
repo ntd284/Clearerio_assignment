@@ -1,9 +1,20 @@
 
-![db_diagram](images/db_diagram.png)
 
+### 1. If we provide services to Ecommerce Merchants, then in your opinion:
+
+#### What kinds of data would be generated in an Ecommerce platform?
+
+The following types of data would be generated in an Ecommerce platform:
+
+- **Customer Data:** Information of Customer(Name, address, phonenumber,...).  
+- **Transaction Data:** Order details, transaction amounts, branch-specific data, and timestamps.  
+- **Product Data:** Product names, categories, prices, and stock availability.  
+- **Conversation Data:** Customer feedback, chat history, and issue resolution logs.  
+![db_diagram](images/db_diagram.png)
+<!-- 
 ![flow](images/flow.png)
 
-![dashboard](images/dashboard.png)
+![dashboard](images/dashboard.png) -->
 
 
 ### 2. Challenges and Solutions in Multi-Region Data Migration to a Data Warehouse (DWH)
