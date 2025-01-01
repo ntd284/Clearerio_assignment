@@ -75,7 +75,7 @@ The data pipeline for processing and analyzing Ecommerce data involves the follo
    - Structured data is stored in SQL databases for optimized querying and integration with reporting tools.
 
 7. **Reporting & Visualization:**  
-   - Tools like **Power BI**, **Looker**, or **Tableau** are used for dashboards and visual analytics.  
+   - **Power BI** are used for dashboards and visual analytics.  
    - Purpose: Business stakeholders gain actionable insights.
 
 
