@@ -1,6 +1,6 @@
 
 
-### 1. If we provide services to Ecommerce Merchants, then in your opinion:
+## 1. If we provide services to Ecommerce Merchants, then in your opinion:
 
 #### What kinds of data would be generated in an Ecommerce platform?
 
@@ -13,7 +13,7 @@ The following types of data would be generated in an Ecommerce platform:
 ![db_diagram](images/db_diagram.png)
 
 
-### What Questions Can We Answer with This Data?
+#### What Questions Can We Answer with This Data?
 
 By analyzing the provided dashboard data, we can answer critical business questions such as:
 
@@ -44,7 +44,7 @@ By analyzing the provided dashboard data, we can answer critical business questi
  -->
 
 
-### 2. Challenges and Solutions in Multi-Region Data Migration to a Data Warehouse (DWH)
+## 2. Challenges and Solutions in Multi-Region Data Migration to a Data Warehouse (DWH)
 
 #### Timezone Differences Across Regions:
 - **Problem:** Timezone differences can cause inconsistencies in time-sensitive data, leading to errors in reporting, analytics, and scheduling jobs.
@@ -66,7 +66,7 @@ By analyzing the provided dashboard data, we can answer critical business questi
 - **Problem:** Some countries mandate that customer data from their region must be stored within their borders, necessitating compliance with local laws.
 - **Solution:** Host servers within the respective countries to meet regulatory requirements while maintaining secure and compliant data handling processes.
 
-### 3. Data Transformation Metrics for Business Insights [Task3_subscription_analysis](Task3_subscription_analysis.ipynb)
+## 3. Data Transformation Metrics for Business Insights [Task3_subscription_analysis](Task3_subscription_analysis.ipynb)
 
 This section outlines the key metrics extracted and transformed from the dataset using **Python**
 
