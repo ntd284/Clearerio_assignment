@@ -47,7 +47,7 @@ By analyzing the provided dashboard data, we can answer critical business questi
 
 #### Data apipeline in Processing and Analysis Techniques:
 
-![Pipeline](files/pipeline.png)
+![Pipeline](images/pipeline.png)
 
 The data pipeline for processing and analyzing Ecommerce data involves the following steps:
 
