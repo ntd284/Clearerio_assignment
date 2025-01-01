@@ -2,7 +2,7 @@
 
 Data across multiple regions helps increasing in durability, availability, and performance. However, managing data across regions introduces several challenges, such as:
 
-**1. Timezone Differences Across Regions**
+**1.Timezone Differences Across Regions:**
 **Problem:**  
 - Timezone differences can cause inconsistencies in time-sensitive data, leading to errors in reporting, analytics, and scheduling jobs.  
 **Solution:**  
