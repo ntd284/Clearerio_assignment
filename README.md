@@ -1,5 +1,5 @@
 
-# ClearerIO Data Engineering Challenge
+# Clearer Data Engineering Challenge
 
 ## 1. If we provide services to Ecommerce Merchants, then in your opinion:
 
