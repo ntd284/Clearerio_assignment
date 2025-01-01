@@ -110,7 +110,7 @@ The data pipeline for processing and analyzing Ecommerce data involves the follo
 
 This section outlines the key metrics extracted and transformed from the dataset using **Python**
 
-#### 1. Lifespan of Each Store** 
+#### 1. Lifespan of Each Store
 - Calculate the operational **lifespan** of each store.  
 - If the parameter `toNow` is set to **`True`**, the lifespan will be calculated **up to the current date**.  
 
