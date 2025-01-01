@@ -196,9 +196,9 @@ only showing top 20 rows
 ```
 #### 3. User Activity Metrics by Day
 Track the following user activity metrics on a **daily basis**:  
-- **Active Users:** Number of users actively engaging with the platform(*toNow=True*).  
-- **Uninstalls:** Number of users uninstalling the app(*endType=CUSTOMER_CANCELLED*).  
-- **New Users:** Number of new users joining the platform(*toNow=False*).  
+- **Active Users:** Number of users actively engaging with the platform(`toNow=True`).  
+- **Uninstalls:** Number of users uninstalling the app(`endType=CUSTOMER_CANCELLED`).  
+- **New Users:** Number of new users joining the platform(`toNow=False`).  
 
 ```
 # The number of User in status: Active_Users, New_user_by_day and Uninstall_Users by activity_date.
