@@ -194,7 +194,7 @@ revenuebyday.where(col('revenuebyday').isNotNull()).sort(col('Subscription_Date'
 +-----------------+------------+
 only showing top 20 rows
 ```
-#### **3. User Activity Metrics by Day**  
+#### 3. User Activity Metrics by Day
 Track the following user activity metrics on a **daily basis**:  
 - **Active Users:** Number of users actively engaging with the platform(*toNow=True*).  
 - **Uninstalls:** Number of users uninstalling the app(*endType=CUSTOMER_CANCELLED*).  
